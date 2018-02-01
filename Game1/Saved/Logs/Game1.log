@@ -614,3 +614,47 @@ LogInit: Object subsystem initialized
 [2018.02.01-04.15.32:790][135]SourceControl: [master bdc6bf6] Fix Map
 [2018.02.01-04.15.32:790][135]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.02.01-04.15.32:802][135]SourceControl: Commited [master bdc6bf6] Fix Map.
+[2018.02.01-04.17.26:387][294]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-04.17.26:395][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-04.17.26:396][294]PIE: New page: PIE session: Level_One (Jan 31, 2018, 6:17:26 PM)
+[2018.02.01-04.17.26:396][294]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.01-04.17.26:422][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026283s)
+[2018.02.01-04.17.26:423][294]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-04.17.26:424][294]LogPlayLevel: PIE: World Init took: (0.001502s)
+[2018.02.01-04.17.26:424][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.028143s)
+[2018.02.01-04.17.26:445][294]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.02.01-04.17.26:459][294]LogInit: FAudioDevice initialized.
+[2018.02.01-04.17.26:491][294]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.01-04.17.26:494][294]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.01.31-23.17.26
+[2018.02.01-04.17.26:494][294]LogWorld: Bringing up level for play took: 0.002251
+[2018.02.01-04.17.26:497][294]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.847
+[2018.02.01-04.18.22:566][992]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-04.18.22:574][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-04.18.22:575][992]PIE: New page: PIE session: Level_One (Jan 31, 2018, 6:18:22 PM)
+[2018.02.01-04.18.22:575][992]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.01-04.18.22:585][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010423s)
+[2018.02.01-04.18.22:586][992]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-04.18.22:586][992]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2018.02.01-04.18.22:587][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.012028s)
+[2018.02.01-04.18.22:610][992]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.02.01-04.18.22:621][992]LogInit: FAudioDevice initialized.
+[2018.02.01-04.18.22:652][992]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.01-04.18.22:655][992]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.01.31-23.18.22
+[2018.02.01-04.18.22:655][992]LogWorld: Bringing up level for play took: 0.002180
+[2018.02.01-04.18.22:658][992]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 1.007
+[2018.02.01-04.18.24:424][199]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=776.013 Y=27.145 Z=92.444] for [FirstPersonProjectile_C]
+[2018.02.01-04.20.03:001][ 19]Cmd: TRANSACTION UNDO
+[2018.02.01-04.20.03:001][ 19]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.02.01-04.20.03:013][ 19]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2018.02.01-04.20.04:360][166]Cmd: TRANSACTION UNDO
+[2018.02.01-04.20.04:360][166]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2018.02.01-04.20.28:961][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-04.20.29:096][ 72]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2018.02.01-04.20.29:278][ 72]LogSavePackage: Save=299.80ms
+[2018.02.01-04.20.29:279][ 72]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Level_One60B2D18D4F789697501EE4B2D0314A09.tmp' to 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.01-04.20.29:284][ 72]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.01-04.20.31:901][370]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-04.20.41:939][370]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.01-04.20.42:024][370]SourceControl: [master 308c889] New Landscape
+[2018.02.01-04.20.42:024][370]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.01-04.20.42:036][370]SourceControl: Commited [master 308c889] New Landscape.
