@@ -377,3 +377,19 @@ LogInit: Object subsystem initialized
 [2018.02.01-20.23.57:871][837]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
 [2018.02.01-20.24.06:526][714]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
 [2018.02.01-20.24.06:756][714]EditorErrors: Warning: No assets to check in!
+[2018.02.01-20.24.45:335][926]SourceControl: On branch master
+[2018.02.01-20.24.45:335][926]SourceControl: Your branch and 'origin/master' have diverged,
+[2018.02.01-20.24.45:335][926]SourceControl: and have 2 and 3 different commits each, respectively.
+[2018.02.01-20.24.45:335][926]SourceControl:   (use "git pull" to merge the remote branch into yours)
+[2018.02.01-20.24.45:335][926]SourceControl: nothing to commit, working tree clean
+[2018.02.01-20.24.52:587][624]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-20.24.52:780][624]EditorErrors: Warning: No assets to check in!
+[2018.02.01-20.25.09:139][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-20.25.09:921][164]LogSavePackage: Save=245.53ms
+[2018.02.01-20.25.09:921][164]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Level_OneF5FD613243BF57C2272ED2ACD8ED397F.tmp' to 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.01-20.25.09:924][164]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.01-20.25.13:688][492]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-20.25.25:921][492]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.01-20.25.26:070][492]SourceControl: [master ef714ff] save
+[2018.02.01-20.25.26:070][492]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.01-20.25.26:082][492]SourceControl: Commited [master ef714ff] save.
