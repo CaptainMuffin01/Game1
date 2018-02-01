@@ -1,4 +1,4 @@
-﻿Log file open, 02/01/18 11:07:34
+﻿Log file open, 02/01/18 15:19:45
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Game1
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(786372696) SRandInit(786372696).
+LogInit: Display: RandInit(-2091042844) SRandInit(-2091042844).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.174043
+LogStats: Stats thread started at 0.210191
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -197,218 +197,179 @@ LogInit: Base directory: E:/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.02.01-16.07.36:444][  0]LogInit: Selected Device Profile: [Windows]
-[2018.02.01-16.07.36:444][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.02.01-16.07.36:454][  0]LogInit: Computer: DESKTOP-26BKDR7
-[2018.02.01-16.07.36:454][  0]LogInit: User: Cameron
-[2018.02.01-16.07.36:454][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.02.01-16.07.36:454][  0]LogInit: High frequency timer resolution =2.648440 MHz
-[2018.02.01-16.07.36:454][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.02.01-16.07.36:454][  0]LogMemory: Platform Memory Stats for Windows
-[2018.02.01-16.07.36:454][  0]LogMemory: Process Physical Memory: 279.33 MB used, 279.33 MB peak
-[2018.02.01-16.07.36:454][  0]LogMemory: Process Virtual Memory: 276.11 MB used, 276.11 MB peak
-[2018.02.01-16.07.36:454][  0]LogMemory: Physical Memory: 7431.53 MB used,  8878.31 MB free, 16309.84 MB total
-[2018.02.01-16.07.36:454][  0]LogMemory: Virtual Memory: 718.40 MB used,  8878.31 MB free, 134217728.00 MB total
-[2018.02.01-16.07.36:567][  0]LogInit: Using OS detected language (en-US).
-[2018.02.01-16.07.36:567][  0]LogInit: Using OS detected locale (en-US).
-[2018.02.01-16.07.36:570][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.02.01-16.07.36:992][  0]LogInit: Setting process to per monitor DPI aware
-[2018.02.01-16.07.37:253][  0]LogD3D11RHI: D3D11 adapters:
-[2018.02.01-16.07.37:286][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
-[2018.02.01-16.07.37:286][  0]LogD3D11RHI:       4058/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.02.01-16.07.37:289][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.02.01-16.07.37:289][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.02.01-16.07.37:289][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.02.01-16.07.37:296][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.02.01-16.07.37:296][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
-[2018.02.01-16.07.37:296][  0]LogWindows: EnumDisplayDevices:
-[2018.02.01-16.07.37:296][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
-[2018.02.01-16.07.37:296][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
-[2018.02.01-16.07.37:296][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2018.02.01-16.07.37:296][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2018.02.01-16.07.37:296][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.02.01-16.07.37:296][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
-[2018.02.01-16.07.37:296][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.02.01-16.07.37:296][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.02.01-16.07.37:296][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
-[2018.02.01-16.07.37:318][  0]LogD3D11RHI: Async texture creation enabled
-[2018.02.01-16.07.37:359][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.02.01-16.07.37:407][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (C:/Users/Cameron/Documents/GitHub/Game1/Game1/Intermediate/Shaders/WorkingDirectory/16560/).
-[2018.02.01-16.07.37:407][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cameron/AppData/Local/Temp/UnrealShaderWorkingDir/D7798A8A429D1D906F539AA0DD96489E/'.
-[2018.02.01-16.07.37:407][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.02.01-16.07.38:364][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.02.01-16.07.38:409][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.02.01-16.07.38:452][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.02.01-16.07.38:498][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.02.01-16.07.38:548][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.02.01-16.07.38:591][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.02.01-16.07.38:638][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.02.01-16.07.38:683][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.02.01-16.07.38:719][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.02.01-16.07.38:763][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.02.01-16.07.38:806][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.02.01-16.07.38:848][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.02.01-16.07.38:890][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.02.01-16.07.38:931][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.02.01-16.07.39:017][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.02.01-16.07.39:017][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.02.01-16.07.39:063][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.02.01-16.07.39:094][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.02.01-16.07.39:171][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.02.01-16.07.39:194][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.02.01-16.07.39:235][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.02.01-16.07.39:277][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.02.01-16.07.39:320][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.02.01-16.07.39:364][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.02.01-16.07.39:364][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.02.01-16.07.39:744][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.02.01-16.07.39:813][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.02.01-16.07.39:813][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.02.01-16.07.39:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Cameron/Documents/GitHub/Game1/Game1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.02.01-16.07.39:813][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.02.01-16.07.39:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Cameron/Documents/GitHub/Game1/Game1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.02.01-16.07.39:813][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.02.01-16.07.39:830][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.02.01-16.07.39:843][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cameron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.02.01-16.07.39:853][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.02.01-16.07.39:854][  0]LogSlate: Using Freetype 2.6.0
-[2018.02.01-16.07.39:854][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.02.01-16.07.39:854][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.02.01-16.07.40:241][  0]LogInit: Selected Device Profile: [Windows]
-[2018.02.01-16.07.40:531][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.02.01-16.07.40:563][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.02.01-16.07.40:564][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.02.01-16.07.40:564][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.02.01-16.07.40:564][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.02.01-16.07.40:564][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.02.01-16.07.40:597][  0]LogNetVersion: Game1 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2978213144)
-[2018.02.01-16.07.40:750][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
-[2018.02.01-16.07.41:216][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.073063 seconds
-[2018.02.01-16.07.41:221][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
-[2018.02.01-16.07.41:221][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
-[2018.02.01-16.07.41:221][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.02.01-16.07.41:259][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.02.01-16.07.43:756][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.02.01-16.07.43:794][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.02.01-16.07.44:425][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.02.01-16.07.44:805][  0]SourceControl: Source control is disabled
-[2018.02.01-16.07.45:644][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.02.01-16.07.45:884][  0]LogOcInput: OculusInput pre-init called
-[2018.02.01-16.07.46:137][  0]LogEngine: Initializing Engine...
-[2018.02.01-16.07.46:140][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.02.01-16.07.46:349][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.02.01-16.07.46:349][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.02.01-16.07.46:455][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.02.01-16.07.46:473][  0]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
-[2018.02.01-16.07.46:491][  0]LogInit: FAudioDevice initialized.
-[2018.02.01-16.07.46:576][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.02.01-16.07.46:587][  0]LogInit: Texture streaming: Enabled
-[2018.02.01-16.07.46:664][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.02.01-16.07.46:774][  0]LogInit: Transaction tracking system initialized
-[2018.02.01-16.07.47:024][  0]BlueprintLog: New page: Editor Load
-[2018.02.01-16.07.47:726][  0]LocalizationService: Localization service is disabled
-[2018.02.01-16.07.48:327][  0]LogConsoleResponse: Display: 
-[2018.02.01-16.07.48:491][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.02.01-16.07.48:491][  0]LogCook: Display: Mobile HDR setting 1
-[2018.02.01-16.07.48:491][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.02.01-16.07.48:860][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/' took 0.02s
-[2018.02.01-16.07.49:526][  0]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.02.01-16.07.49:527][  0]LightingResults: New page: Lighting Build
-[2018.02.01-16.07.49:560][  0]MapCheck: New page: Map Check
-[2018.02.01-16.07.49:560][  0]LightingResults: New page: Lighting Build
-[2018.02.01-16.07.50:063][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.02.01-16.07.50:073][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.02.01-16.07.50:086][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.02.01-16.07.50:143][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.578ms to complete.
-[2018.02.01-16.07.50:143][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.617
-[2018.02.01-16.07.50:331][  0]LogCollectionManager: Loaded 0 collections in 0.001531 seconds
-[2018.02.01-16.07.50:408][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Collections/' took 0.01s
-[2018.02.01-16.07.50:408][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Developers/Cameron/Collections/' took 0.01s
-[2018.02.01-16.07.50:408][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Collections/' took 0.01s
-[2018.02.01-16.07.50:408][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.02.01-16.07.50:416][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2363 classes and 519 folders.
-[2018.02.01-16.07.50:468][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.02.01-16.07.50:512][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.02.01-16.07.50:549][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.02.01-16.07.50:566][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.02.01-16.07.50:568][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.02.01-16.07.50:573][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.02.01-16.07.50:677][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2018.02.01-16.07.50:847][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.02.01-16.07.50:847][  0]LogLoad: (Engine Initialization) Total time: 17.27 seconds
-[2018.02.01-16.07.50:847][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.02.01-16.07.50:847][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2018.02.01-16.07.50:857][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.02.01-16.07.50:874][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.02.01-16.07.50:888][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.02.01-16.07.50:908][  1]LogAssetRegistry: Asset discovery search completed in 10.1797 seconds
-[2018.02.01-16.07.50:910][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.02.01-16.07.50:910][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
-[2018.02.01-16.08.36:077][388]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.02.01-16.08.36:744][388]LogAIModule: Creating AISystem for world Level_One
-[2018.02.01-16.08.36:768][388]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.02.01-16.08.36:768][388]LightingResults: New page: Lighting Build
-[2018.02.01-16.08.36:769][388]LoadErrors: New page: Loading map: Level_One.umap
-[2018.02.01-16.08.36:770][388]MapCheck: New page: Map Check
-[2018.02.01-16.08.36:770][388]LightingResults: New page: Lighting Build
-[2018.02.01-16.08.36:812][388]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.02.01-16.08.36:836][388]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.02.01-16.08.36:895][388]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.211ms to complete.
-[2018.02.01-16.08.36:895][388]LogFileHelpers: Loading map 'Level_One' took 0.128
-[2018.02.01-16.09.00:801][236]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_Cherry_Tree'
-[2018.02.01-16.09.00:802][236]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_Cherry_Tree' while loading C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/StaticMesh/SM_Cherry_Tree.uasset.
-[2018.02.01-16.09.00:802][236]LoadErrors: Error: /Game/StaticMesh/SM_Cherry_Tree : Can't find file for asset. /Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_Cherry_Tree
-[2018.02.01-16.09.00:802][236]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_TreeBark'
-[2018.02.01-16.09.00:802][236]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_TreeBark' while loading C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/StaticMesh/SM_Cherry_Tree.uasset.
-[2018.02.01-16.09.00:802][236]LoadErrors: Error: /Game/StaticMesh/SM_Cherry_Tree : Can't find file for asset. /Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_TreeBark
-[2018.02.01-16.09.00:802][236]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_Cherry_Tree'
-[2018.02.01-16.09.00:802][236]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_Cherry_Tree' while loading C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/StaticMesh/SM_Cherry_Tree.uasset.
-[2018.02.01-16.09.00:803][236]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_TreeBark'
-[2018.02.01-16.09.00:803][236]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_TreeBark' while loading C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/StaticMesh/SM_Cherry_Tree.uasset.
-[2018.02.01-16.09.00:803][236]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_TreeBark'
-[2018.02.01-16.09.00:804][236]LoadErrors: Failed to load /Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_TreeBark.M_TreeBark Referenced by SM_Cherry_Tree
-[2018.02.01-16.09.00:804][236]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_TreeBark' while loading NULL.
-[2018.02.01-16.09.00:804][236]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_Cherry_Tree'
-[2018.02.01-16.09.00:804][236]LoadErrors: Failed to load /Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_Cherry_Tree.M_Cherry_Tree Referenced by SM_Cherry_Tree
-[2018.02.01-16.09.00:804][236]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Earth/Materials/M_Cherry_Tree' while loading NULL.
-[2018.02.01-16.09.00:804][236]LogStaticMesh: Building static mesh SM_Cherry_Tree...
-[2018.02.01-16.09.01:421][236]LogStaticMesh: Built static mesh [0.62s] /Game/StaticMesh/SM_Cherry_Tree.SM_Cherry_Tree
-[2018.02.01-16.09.01:481][236]LogActorFactory: Actor Factory created SM_Cherry_Tree
-[2018.02.01-16.09.01:685][259]LogActorFactory: Actor Factory created SM_Cherry_Tree
-[2018.02.01-16.09.16:902][ 27]Cmd: DELETE
-[2018.02.01-16.09.16:902][ 27]Cmd: ACTOR DELETE
-[2018.02.01-16.09.16:906][ 27]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.02.01-16.09.16:916][ 27]LogEditorActor: Deleted 1 Actors (0.013 secs)
-[2018.02.01-16.09.22:077][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
-[2018.02.01-16.09.27:185][193]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
-[2018.02.01-16.09.46:848][354]SourceControl: On branch master
-[2018.02.01-16.09.46:848][354]SourceControl: Your branch is up to date with 'origin/master'.
-[2018.02.01-16.09.46:848][354]SourceControl: Changes not staged for commit:
-[2018.02.01-16.09.46:848][354]SourceControl:   (use "git add <file>..." to update what will be committed)
-[2018.02.01-16.09.46:848][354]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
-[2018.02.01-16.09.46:848][354]SourceControl: 	modified:   Game1/Intermediate/CachedAssetRegistry.bin
-[2018.02.01-16.09.46:848][354]SourceControl: 	modified:   Game1/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-[2018.02.01-16.09.46:848][354]SourceControl: 	modified:   Game1/Saved/Config/Windows/Engine.ini
-[2018.02.01-16.09.46:848][354]SourceControl: 	modified:   Game1/Saved/Logs/Game1.log
-[2018.02.01-16.09.46:848][354]SourceControl: Untracked files:
-[2018.02.01-16.09.46:848][354]SourceControl:   (use "git add <file>..." to include in what will be committed)
-[2018.02.01-16.09.46:848][354]SourceControl: 	Game1/Saved/Config/CrashReportClient/UE4CC-Windows-CFF9B6DA417F94A5344A78ABF91FAB29/
-[2018.02.01-16.09.46:848][354]SourceControl: 	Game1/Saved/Logs/Game1-backup-2018.02.01-11.07.34.log
-[2018.02.01-16.09.46:848][354]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
-[2018.02.01-16.18.26:962][988]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.02.01-16.18.35:968][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
-[2018.02.01-16.18.36:174][ 52]LogSavePackage: Save=199.68ms
-[2018.02.01-16.18.36:175][ 52]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Level_One_Auto1BC7EF5184DC3EB8F1AC0049297CA9CE1.tmp' to 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto1.umap'
-[2018.02.01-16.18.36:177][ 52]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto1.umap
-[2018.02.01-16.18.36:180][ 52]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 0.224
-[2018.02.01-16.18.36:180][ 52]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.224
-[2018.02.01-17.47.51:172][231]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2018.02.01-18.05.40:196][658]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.02.01-18.05.40:196][658]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2018.02.01-18.05.40:196][658]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.02.01-18.05.40:196][658]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2018.02.01-18.05.40:352][658]LogPackageName: SearchForPackageOnDisk took   0.122s, but failed to resolve S_ClothTarps_03.
-[2018.02.01-18.05.40:353][658]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
-[2018.02.01-18.05.40:417][659]LogPackageName: SearchForPackageOnDisk took   0.131s, but failed to resolve S_ClothTarps_03.
-[2018.02.01-18.05.40:417][659]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
-[2018.02.01-20.03.47:887][504]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.02.01-20.19.48:656][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.01-20.19.48:656][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.01-20.19.48:669][  0]LogInit: Computer: DESKTOP-26BKDR7
+[2018.02.01-20.19.48:669][  0]LogInit: User: Cameron
+[2018.02.01-20.19.48:669][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.01-20.19.48:669][  0]LogInit: High frequency timer resolution =2.648440 MHz
+[2018.02.01-20.19.48:669][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.01-20.19.48:669][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.01-20.19.48:669][  0]LogMemory: Process Physical Memory: 279.30 MB used, 279.30 MB peak
+[2018.02.01-20.19.48:669][  0]LogMemory: Process Virtual Memory: 276.05 MB used, 276.05 MB peak
+[2018.02.01-20.19.48:669][  0]LogMemory: Physical Memory: 7905.27 MB used,  8404.57 MB free, 16309.84 MB total
+[2018.02.01-20.19.48:669][  0]LogMemory: Virtual Memory: 718.40 MB used,  8404.57 MB free, 134217728.00 MB total
+[2018.02.01-20.19.48:808][  0]LogInit: Using OS detected language (en-US).
+[2018.02.01-20.19.48:808][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.01-20.19.48:811][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.01-20.19.49:422][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.01-20.19.49:747][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.01-20.19.49:788][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.02.01-20.19.49:788][  0]LogD3D11RHI:       4058/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.02.01-20.19.49:791][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.01-20.19.49:791][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.01-20.19.49:791][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.01-20.19.49:799][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.01-20.19.49:799][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.01-20.19.49:799][  0]LogWindows: EnumDisplayDevices:
+[2018.02.01-20.19.49:799][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.02.01-20.19.49:800][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.02.01-20.19.49:800][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.02.01-20.19.49:800][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.02.01-20.19.49:800][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.01-20.19.49:800][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.02.01-20.19.49:801][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.01-20.19.49:801][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.01-20.19.49:801][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2018.02.01-20.19.49:823][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.01-20.19.49:871][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.01-20.19.49:917][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (C:/Users/Cameron/Documents/GitHub/Game1/Game1/Intermediate/Shaders/WorkingDirectory/18596/).
+[2018.02.01-20.19.49:917][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Cameron/AppData/Local/Temp/UnrealShaderWorkingDir/6DAD06964826B2E0D9E5D4AE130E5433/'.
+[2018.02.01-20.19.49:917][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.01-20.19.51:125][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.01-20.19.51:179][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.01-20.19.51:239][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.01-20.19.51:290][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.01-20.19.51:349][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.01-20.19.51:400][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.01-20.19.51:460][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.01-20.19.51:517][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.01-20.19.51:565][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.01-20.19.51:617][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.01-20.19.51:671][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.01-20.19.51:724][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.01-20.19.51:775][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.01-20.19.51:822][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.01-20.19.51:925][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.01-20.19.51:925][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.01-20.19.51:981][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.01-20.19.52:015][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.01-20.19.52:123][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.01-20.19.52:145][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.01-20.19.52:197][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.01-20.19.52:239][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.01-20.19.52:290][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.01-20.19.52:334][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.01-20.19.52:334][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.01-20.19.52:818][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.01-20.19.52:894][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.01-20.19.52:894][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.01-20.19.52:894][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Cameron/Documents/GitHub/Game1/Game1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.01-20.19.52:894][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.01-20.19.52:894][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Cameron/Documents/GitHub/Game1/Game1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.01-20.19.52:894][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.01-20.19.52:911][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.01-20.19.52:924][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Cameron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.01-20.19.52:934][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.01-20.19.52:935][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.01-20.19.52:935][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.01-20.19.52:935][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.01-20.19.53:391][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.01-20.19.53:722][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.01-20.19.53:756][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.01-20.19.53:756][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.01-20.19.53:756][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.01-20.19.53:756][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.01-20.19.53:756][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.01-20.19.53:793][  0]LogNetVersion: Game1 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2978213144)
+[2018.02.01-20.19.53:997][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.02.01-20.19.54:589][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.095399 seconds
+[2018.02.01-20.19.54:598][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.01-20.19.54:598][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.01-20.19.54:598][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.01-20.19.54:647][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.01-20.19.57:613][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.01-20.19.57:653][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.01-20.19.58:369][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.01-20.19.58:850][  0]SourceControl: Source control is disabled
+[2018.02.01-20.20.00:936][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.01-20.20.01:227][  0]LogOcInput: OculusInput pre-init called
+[2018.02.01-20.20.01:547][  0]LogEngine: Initializing Engine...
+[2018.02.01-20.20.01:550][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.01-20.20.01:799][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.01-20.20.01:799][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.01-20.20.01:915][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.01-20.20.01:935][  0]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.02.01-20.20.02:101][  0]LogInit: FAudioDevice initialized.
+[2018.02.01-20.20.02:179][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Cameron/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.01-20.20.02:195][  0]LogInit: Texture streaming: Enabled
+[2018.02.01-20.20.02:288][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.01-20.20.02:412][  0]LogInit: Transaction tracking system initialized
+[2018.02.01-20.20.02:706][  0]BlueprintLog: New page: Editor Load
+[2018.02.01-20.20.03:546][  0]LocalizationService: Localization service is disabled
+[2018.02.01-20.20.04:260][  0]LogConsoleResponse: Display: 
+[2018.02.01-20.20.04:469][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.01-20.20.04:469][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.01-20.20.04:469][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.01-20.20.04:723][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/' took 0.06s
+[2018.02.01-20.20.05:726][  0]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-20.20.05:728][  0]LightingResults: New page: Lighting Build
+[2018.02.01-20.20.05:763][  0]MapCheck: New page: Map Check
+[2018.02.01-20.20.05:764][  0]LightingResults: New page: Lighting Build
+[2018.02.01-20.20.06:484][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.01-20.20.06:496][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-20.20.06:511][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-20.20.06:574][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.381ms to complete.
+[2018.02.01-20.20.06:574][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.848
+[2018.02.01-20.20.06:797][  0]LogCollectionManager: Loaded 0 collections in 0.001551 seconds
+[2018.02.01-20.20.06:890][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Collections/' took 0.01s
+[2018.02.01-20.20.06:890][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Developers/Cameron/Collections/' took 0.01s
+[2018.02.01-20.20.06:890][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Collections/' took 0.01s
+[2018.02.01-20.20.06:890][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.01-20.20.06:899][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2363 classes and 519 folders.
+[2018.02.01-20.20.06:955][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.01-20.20.07:503][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.01-20.20.07:579][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.01-20.20.07:598][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.01-20.20.07:599][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.01-20.20.07:650][  0]LogSlate: Took 0.046371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.01-20.20.07:826][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.01-20.20.08:021][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.01-20.20.08:021][  0]LogLoad: (Engine Initialization) Total time: 23.95 seconds
+[2018.02.01-20.20.08:021][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.01-20.20.08:021][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.01-20.20.08:030][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.01-20.20.08:048][  0]SourceControl: On branch master
+[2018.02.01-20.20.08:048][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.02.01-20.20.08:048][  0]SourceControl: Changes not staged for commit:
+[2018.02.01-20.20.08:048][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.02.01-20.20.08:048][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.02.01-20.20.08:048][  0]SourceControl: 	modified:   Game1/Content/Maps/Level_One.umap
+[2018.02.01-20.20.08:048][  0]SourceControl: 	modified:   Game1/Intermediate/CachedAssetRegistry.bin
+[2018.02.01-20.20.08:048][  0]SourceControl: 	modified:   Game1/Saved/AutoScreenshot.png
+[2018.02.01-20.20.08:048][  0]SourceControl: 	modified:   Game1/Saved/Autosaves/PackageRestoreData.json
+[2018.02.01-20.20.08:048][  0]SourceControl: 	modified:   Game1/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.02.01-20.20.08:048][  0]SourceControl: 	modified:   Game1/Saved/Config/Windows/Engine.ini
+[2018.02.01-20.20.08:048][  0]SourceControl: 	deleted:    Game1/Saved/Logs/Game1-backup-2018.01.31-22.58.36.log
+[2018.02.01-20.20.08:048][  0]SourceControl: 	modified:   Game1/Saved/Logs/Game1.log
+[2018.02.01-20.20.08:048][  0]SourceControl: Untracked files:
+[2018.02.01-20.20.08:048][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.02.01-20.20.08:048][  0]SourceControl: 	Game1/Saved/Config/CrashReportClient/UE4CC-Windows-4EC9AA484CA2081C242286BB49A21F48/
+[2018.02.01-20.20.08:048][  0]SourceControl: 	Game1/Saved/Logs/Game1-backup-2018.02.01-15.19.45.log
+[2018.02.01-20.20.08:048][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.02.01-20.20.08:049][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.01-20.20.08:248][  1]LogSlate: Took 0.043548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-20.20.08:279][  2]LogAssetRegistry: Asset discovery search completed in 14.3032 seconds
+[2018.02.01-20.20.08:284][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.01-20.20.08:284][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000436 seconds (updated 0 objects)
+[2018.02.01-20.20.15:700][520]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-20.20.16:033][520]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-20.20.16:059][520]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-20.20.16:059][520]LightingResults: New page: Lighting Build
+[2018.02.01-20.20.16:060][520]LoadErrors: New page: Loading map: Level_One.umap
+[2018.02.01-20.20.16:079][520]MapCheck: New page: Map Check
+[2018.02.01-20.20.16:079][520]LightingResults: New page: Lighting Build
+[2018.02.01-20.20.16:153][520]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-20.20.16:179][520]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-20.20.16:268][520]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.077ms to complete.
+[2018.02.01-20.20.16:270][520]LogFileHelpers: Loading map 'Level_One' took 0.212
