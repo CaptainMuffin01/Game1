@@ -16532,3 +16532,16 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2018.02.01-20.21.40:368][889]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2018.02.01-20.21.40:368][889]SourceControl:  create mode 100644 Game1/Content/Blueprints/Enemy.uasset
 [2018.02.01-20.21.40:376][889]SourceControl: Commited [master f32c476] RT.
+[2018.02.01-20.25.07:139][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-20.25.07:902][285]LogSavePackage: Save=691.82ms
+[2018.02.01-20.25.07:902][285]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One352B6D644730A0ADD1B257A0216B3586.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.01-20.25.07:904][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.01-20.25.11:095][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-20.25.11:817][601]LogSavePackage: Save=682.54ms
+[2018.02.01-20.25.11:817][601]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One5E9636D047FCF562E8F8248D50CEF717.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.01-20.25.11:818][601]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.01-20.25.18:407][261]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-20.25.32:948][261]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.01-20.25.33:574][261]SourceControl: [master 71292ca] w
+[2018.02.01-20.25.33:574][261]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.01-20.25.33:583][261]SourceControl: Commited [master 71292ca] w.
