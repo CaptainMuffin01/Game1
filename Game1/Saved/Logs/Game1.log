@@ -389,3 +389,10 @@ LogInit: Object subsystem initialized
 [2018.02.01-04.14.53:385][134]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.02.01-04.14.53:447][134]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.219ms to complete.
 [2018.02.01-04.14.53:448][134]LogFileHelpers: Loading map 'Level_One' took 0.189
+[2018.02.01-04.18.19:285][659]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-04.18.19:406][659]EditorErrors: Warning: No assets to check in!
+[2018.02.01-04.18.26:509][335]LightingResults: New page: Lighting Build
+[2018.02.01-04.18.26:509][335]MapCheck: New page: Map Check
+[2018.02.01-04.18.26:509][335]LightingResults: New page: Lighting Build
+[2018.02.01-04.18.26:526][335]LogAIModule: Creating AISystem for world Untitled
+[2018.02.01-04.18.26:581][335]LoadErrors: New page: New Map
