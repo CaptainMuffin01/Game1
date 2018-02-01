@@ -418,3 +418,13 @@ LogInit: Object subsystem initialized
 [2018.02.01-04.23.02:560][758]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.02.01-04.23.02:629][758]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.863ms to complete.
 [2018.02.01-04.23.02:629][758]LogFileHelpers: Loading map 'Level_One' took 0.295
+[2018.02.01-04.23.33:871][881]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-04.23.33:882][881]LightingResults: New page: Lighting Build
+[2018.02.01-04.23.33:883][881]LoadErrors: New page: Loading map: Level_One.umap
+[2018.02.01-04.23.33:884][881]MapCheck: New page: Map Check
+[2018.02.01-04.23.33:884][881]LightingResults: New page: Lighting Build
+[2018.02.01-04.23.33:935][881]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-04.23.34:012][881]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-04.23.34:034][881]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-04.23.34:098][881]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.039ms to complete.
+[2018.02.01-04.23.34:098][881]LogFileHelpers: Loading map 'Level_One' took 0.228
