@@ -378,3 +378,14 @@ LogInit: Object subsystem initialized
 [2018.02.01-04.05.13:592][540]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
 [2018.02.01-04.11.41:563][275]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
 [2018.02.01-04.11.41:690][275]EditorErrors: Warning: No assets to check in!
+[2018.02.01-04.14.53:197][134]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-04.14.53:226][134]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-04.14.53:268][134]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-04.14.53:268][134]LightingResults: New page: Lighting Build
+[2018.02.01-04.14.53:269][134]LoadErrors: New page: Loading map: Level_One.umap
+[2018.02.01-04.14.53:277][134]MapCheck: New page: Map Check
+[2018.02.01-04.14.53:277][134]LightingResults: New page: Lighting Build
+[2018.02.01-04.14.53:358][134]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-04.14.53:385][134]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-04.14.53:447][134]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.219ms to complete.
+[2018.02.01-04.14.53:448][134]LogFileHelpers: Loading map 'Level_One' took 0.189
