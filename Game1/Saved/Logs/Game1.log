@@ -1917,3 +1917,55 @@ LogInit: Object subsystem initialized
 [2018.02.01-17.35.14:872][510]SourceControl: 	Game1/Saved/Logs/Git-Temp51FE0EC74C11C51A386BB09C90C77611.txt
 [2018.02.01-17.35.14:872][510]SourceControl: no changes added to commit
 [2018.02.01-17.35.14:879][510]SourceControl: Commited On branch master.
+[2018.02.01-18.04.49:638][844]LogActorFactory: Actor Factory created SM_GroundCover_Leafy01
+[2018.02.01-18.04.52:316][148]LogActorFactory: Actor Factory created SM_Cherry_Tree
+[2018.02.01-18.05.49:313][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock53)
+[2018.02.01-18.06.04:807][708]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.06.05:871][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TinyRock53)
+[2018.02.01-18.06.16:974][146]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.06.19:526][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TinyRock53)
+[2018.02.01-18.06.27:593][378]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.06.33:037][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TinyRock53)
+[2018.02.01-18.07.04:283][823]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.01-18.07.13:620][849]LogSavePackage: Save=631.89ms
+[2018.02.01-18.07.13:620][849]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_Auto10CB749E84DB54B85B648A7A76CA36A40.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto1.umap'
+[2018.02.01-18.07.13:624][849]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto1.umap
+[2018.02.01-18.07.13:632][849]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 0.669
+[2018.02.01-18.07.13:632][849]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.669
+[2018.02.01-18.08.00:531][662]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.08.01:157][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TinyRock55)
+[2018.02.01-18.08.09:328][685]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.08.09:887][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TinyRock54)
+[2018.02.01-18.08.13:178][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TinyRock53)
+[2018.02.01-18.08.18:951][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TinyRock56)
+[2018.02.01-18.08.30:956][237]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.08.37:466][ 10]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_TinyRock56)
+[2018.02.01-18.08.38:877][175]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_TinyRock54)
+[2018.02.01-18.08.40:202][330]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_TinyRock55)
+[2018.02.01-18.08.42:381][587]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_TinyRock53)
+[2018.02.01-18.08.58:655][271]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.09.03:896][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TinyRock60)
+[2018.02.01-18.09.06:037][144]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_TinyRock58)
+[2018.02.01-18.09.07:417][304]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_TinyRock59)
+[2018.02.01-18.09.10:021][611]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_TinyRock53)
+[2018.02.01-18.09.58:578][315]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.10.07:738][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock96)
+[2018.02.01-18.10.09:418][564]Cmd: DELETE
+[2018.02.01-18.10.09:418][564]Cmd: ACTOR DELETE
+[2018.02.01-18.10.09:428][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.01-18.10.09:440][564]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.02.01-18.10.14:553][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock55)
+[2018.02.01-18.10.14:817][202]Cmd: DELETE
+[2018.02.01-18.10.14:817][202]Cmd: ACTOR DELETE
+[2018.02.01-18.10.14:826][202]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.01-18.10.14:835][202]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.02.01-18.10.28:589][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-18.10.29:218][815]LogSavePackage: Save=615.28ms
+[2018.02.01-18.10.29:218][815]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_OneFFE4B71444A3D45DA8DEA49443466D2E.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.01-18.10.29:229][815]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.01-18.10.29:265][815]LogFileHelpers: Saving map 'Level_One' took 0.737
+[2018.02.01-18.10.32:103][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-18.10.40:634][149]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.01-18.10.40:848][149]SourceControl: [master 5379496] smallrocks
+[2018.02.01-18.10.40:848][149]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.01-18.10.40:857][149]SourceControl: Commited [master 5379496] smallrocks.
