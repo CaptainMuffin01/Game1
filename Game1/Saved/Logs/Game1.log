@@ -373,3 +373,7 @@ LogInit: Object subsystem initialized
 [2018.02.01-20.20.16:179][520]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.02.01-20.20.16:268][520]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.077ms to complete.
 [2018.02.01-20.20.16:270][520]LogFileHelpers: Loading map 'Level_One' took 0.212
+[2018.02.01-20.23.57:130][827]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-20.23.57:871][837]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-20.24.06:526][714]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-20.24.06:756][714]EditorErrors: Warning: No assets to check in!
