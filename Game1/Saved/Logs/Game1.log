@@ -411,3 +411,4 @@ LogInit: Object subsystem initialized
 [2018.02.01-18.05.40:353][658]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
 [2018.02.01-18.05.40:417][659]LogPackageName: SearchForPackageOnDisk took   0.131s, but failed to resolve S_ClothTarps_03.
 [2018.02.01-18.05.40:417][659]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2018.02.01-20.03.47:887][504]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
