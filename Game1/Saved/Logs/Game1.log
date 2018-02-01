@@ -403,3 +403,11 @@ LogInit: Object subsystem initialized
 [2018.02.01-16.18.36:180][ 52]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 0.224
 [2018.02.01-16.18.36:180][ 52]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.224
 [2018.02.01-17.47.51:172][231]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.01-18.05.40:196][658]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.02.01-18.05.40:196][658]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.02.01-18.05.40:196][658]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.02.01-18.05.40:196][658]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.02.01-18.05.40:352][658]LogPackageName: SearchForPackageOnDisk took   0.122s, but failed to resolve S_ClothTarps_03.
+[2018.02.01-18.05.40:353][658]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2018.02.01-18.05.40:417][659]LogPackageName: SearchForPackageOnDisk took   0.131s, but failed to resolve S_ClothTarps_03.
+[2018.02.01-18.05.40:417][659]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
