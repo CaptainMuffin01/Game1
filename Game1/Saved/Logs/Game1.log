@@ -393,3 +393,13 @@ LogInit: Object subsystem initialized
 [2018.02.01-20.25.26:070][492]SourceControl: [master ef714ff] save
 [2018.02.01-20.25.26:070][492]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.02.01-20.25.26:082][492]SourceControl: Commited [master ef714ff] save.
+[2018.02.01-20.27.02:535][715]Cmd: MAP LOAD FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-20.27.02:535][715]LightingResults: New page: Lighting Build
+[2018.02.01-20.27.02:536][715]LoadErrors: New page: Loading map: Level_One.umap
+[2018.02.01-20.27.02:537][715]MapCheck: New page: Map Check
+[2018.02.01-20.27.02:537][715]LightingResults: New page: Lighting Build
+[2018.02.01-20.27.02:599][715]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-20.27.02:640][715]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-20.27.02:666][715]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-20.27.02:745][715]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.022ms to complete.
+[2018.02.01-20.27.02:746][715]LogFileHelpers: Loading map 'Level_One' took 0.213
