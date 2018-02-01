@@ -1969,3 +1969,117 @@ LogInit: Object subsystem initialized
 [2018.02.01-18.10.40:848][149]SourceControl: [master 5379496] smallrocks
 [2018.02.01-18.10.40:848][149]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.02.01-18.10.40:857][149]SourceControl: Commited [master 5379496] smallrocks.
+[2018.02.01-18.11.32:174][ 77]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-18.11.32:189][ 77]LightingResults: New page: Lighting Build
+[2018.02.01-18.11.32:191][ 77]LoadErrors: New page: Loading map: Level_One.umap
+[2018.02.01-18.11.32:194][ 77]MapCheck: New page: Map Check
+[2018.02.01-18.11.32:194][ 77]LightingResults: New page: Lighting Build
+[2018.02.01-18.11.32:318][ 77]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-18.11.32:401][ 77]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-18.11.32:438][ 77]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-18.11.32:499][ 77]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.682ms to complete.
+[2018.02.01-18.11.32:499][ 77]LogFileHelpers: Loading map 'Level_One' took 0.326
+[2018.02.01-18.13.55:862][ 90]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.02.01-18.14.20:394][954]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-18.14.20:450][954]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.02.01-18.14.20:450][954]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.02.01-18.14.20:556][954]LogPackageName: SearchForPackageOnDisk took   0.106s, but failed to resolve S_ClothTarps_03.
+[2018.02.01-18.14.20:556][954]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2018.02.01-18.14.20:645][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-18.14.20:645][954]LogHMD: Initializing OVRPlugin session
+[2018.02.01-18.14.21:884][954]PIE: New page: PIE session: Level_One (Feb 1, 2018, 8:14:21 AM)
+[2018.02.01-18.14.21:885][954]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.01-18.14.21:933][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047959s)
+[2018.02.01-18.14.21:936][954]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-18.14.21:937][954]LogPlayLevel: PIE: World Init took: (0.003237s)
+[2018.02.01-18.14.21:937][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.051661s)
+[2018.02.01-18.14.21:962][954]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-18.14.21:972][954]LogInit: FAudioDevice initialized.
+[2018.02.01-18.14.22:017][954]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.01-18.14.22:023][954]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.01-13.14.22
+[2018.02.01-18.14.22:024][954]LogWorld: Bringing up level for play took: 0.005307
+[2018.02.01-18.14.22:101][954]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.01-18.14.22:104][954]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 1.891
+[2018.02.01-18.14.32:488][102]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.14.33:149][176]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.14.36:258][525]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.14.37:676][690]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.14.49:222][ 33]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2018.02.01-18.14.49:222][ 33]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.02.01-18.14.49:222][ 33]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2018.02.01-18.15.01:522][100]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.15.03:582][341]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.15.04:277][422]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.15.05:050][512]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.15.05:623][578]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.15.06:545][686]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.15.07:113][752]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.15.07:685][818]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.15.10:589][163]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.15.17:566][985]LogEditorActor: Deleted Actor: Character
+[2018.02.01-18.15.17:575][985]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.02.01-18.15.19:091][166]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.02.01-18.15.36:416][232]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.15.47:732][543]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.02.01-18.15.47:801][543]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.01-18.15.48:339][543]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.02.01-18.15.48:833][543]LogSlate: Took 0.027874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.01-18.15.48:936][543]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.02.01-18.15.48:948][544]LogRenderer: Reallocating scene render targets to support 1208x536 Format 10 NumSamples 1 (Frame:1).
+[2018.02.01-18.16.04:812][261]LogSlate: Took 0.009893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.01-18.16.39:190][298]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.02.01-18.16.41:872][602]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-18.16.42:000][602]EditorErrors: Warning: No assets to check in!
+[2018.02.01-18.17.00:447][901]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.02.01-18.17.14:182][536]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.02.01-18.17.14:294][537]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.02.01-18.17.14:356][538]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.02.01-18.17.14:414][539]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.02.01-18.18.20:247][604]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.01-18.18.22:015][810]Cmd: DELETE
+[2018.02.01-18.18.22:015][810]Cmd: ACTOR DELETE
+[2018.02.01-18.18.22:025][810]LogEditorActor: Deleted Actor: PlayerStart
+[2018.02.01-18.18.22:037][810]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.02.01-18.18.23:384][970]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.18.23:782][ 12]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.18.24:235][ 64]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.18.26:875][368]LogEditorActor: Deleted Actor: Character
+[2018.02.01-18.18.26:885][368]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.02.01-18.18.28:083][511]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.21.42:133][892]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.uasset' is outside repository
+[2018.02.01-18.21.42:133][892]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/AnimTreeEd_PreviewFloor.uasset' is outside repository
+[2018.02.01-18.21.42:133][892]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundCube.uasset' is outside repository
+[2018.02.01-18.21.42:133][892]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/Cascade/BackgroundCube.uasset' is outside repository
+[2018.02.01-18.21.43:680][ 13]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset' is outside repository
+[2018.02.01-18.21.43:766][ 18]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset' is outside repository
+[2018.02.01-18.21.44:138][ 49]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cone.uasset' is outside repository
+[2018.02.01-18.21.44:219][ 57]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset' is outside repository
+[2018.02.01-18.21.44:464][ 80]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/Cube.uasset' is outside repository
+[2018.02.01-18.21.44:464][ 80]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/Cube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/Cube.uasset' is outside repository
+[2018.02.01-18.21.55:440][258]LogActorFactory: Actor Factory created SM_Cherry_Tree
+[2018.02.01-18.23.30:945][687]LogActorFactory: Actor Factory created SM_Cherry_Tree
+[2018.02.01-18.23.44:154][548]LogActorFactory: Actor Factory created SM_LeavePiles_01
+[2018.02.01-18.23.46:784][706]LogActorFactory: Actor Factory created SM_LeavePiles_01
+[2018.02.01-18.24.01:334][951]LogActorFactory: Actor Factory created SM_LeavePiles_01
+[2018.02.01-18.24.10:721][919]LogActorFactory: Actor Factory created SM_LeavePiles_02
+[2018.02.01-18.24.16:009][443]LogActorFactory: Actor Factory created SM_LeavePiles_01
+[2018.02.01-18.24.38:544][828]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.25.01:967][384]LogActorFactory: Actor Factory created SM_SmallTree02
+[2018.02.01-18.25.04:377][639]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.25.34:087][877]LogActorFactory: Actor Factory created SM_GroundCover_Leafy01
+[2018.02.01-18.25.36:128][ 84]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.25.48:617][449]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.25.49:192][501]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-18.25.50:755][672]Cmd: SELECT NONE
+[2018.02.01-18.26.08:334][691]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-18.26.08:473][691]EditorErrors: Warning: No assets to check in!
+[2018.02.01-18.26.11:642][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-18.26.12:335][ 11]LogSavePackage: Save=667.73ms
+[2018.02.01-18.26.12:335][ 11]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One7E3492FA4B6E1E1CC58312AEC66A28DD.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.01-18.26.12:340][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.01-18.26.12:384][ 11]LogFileHelpers: Saving map 'Level_One' took 0.816
+[2018.02.01-18.26.15:599][360]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-18.26.23:993][360]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.01-18.26.24:142][360]SourceControl: [master 573ee63] trees
+[2018.02.01-18.26.24:142][360]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.01-18.26.24:151][360]SourceControl: Commited [master 573ee63] trees.
