@@ -16556,3 +16556,885 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2018.02.01-20.29.04:326][121]SourceControl: [master 71293c3] ht
 [2018.02.01-20.29.04:326][121]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.02.01-20.29.04:334][121]SourceControl: Commited [master 71293c3] ht.
+[2018.02.01-20.30.09:658][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cherry_Tree211)
+[2018.02.01-20.34.32:805][861]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-20.39.24:675][870]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-20.39.56:293][325]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-20.41.23:385][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.02.01-20.41.44:134][639]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.01-20.41.53:218][168]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:024][213]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:069][215]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:108][217]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:165][219]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:211][221]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:269][223]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:322][225]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:397][227]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:436][229]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:530][231]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:608][233]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:678][235]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:714][237]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:770][239]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:829][241]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:880][243]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:936][245]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.54:999][247]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:048][249]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:108][251]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:163][253]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:200][255]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:253][257]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:300][259]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:359][261]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:431][263]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:531][265]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:656][267]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:698][269]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:747][271]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:805][273]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:860][275]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:899][277]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:951][279]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.55:988][281]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:036][283]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:070][285]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:123][287]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:188][289]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:225][291]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:227][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2018.02.01-20.41.56:227][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.02.01-20.41.56:278][293]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:316][295]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:364][297]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:400][299]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:445][301]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:499][303]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:573][305]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:644][307]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:704][309]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:761][311]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:817][313]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:869][315]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:921][317]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.56:975][319]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:035][321]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:087][323]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:147][325]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:184][327]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:234][329]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:270][331]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:320][333]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:366][335]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:412][337]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:472][339]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:603][341]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:695][343]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:745][345]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:784][347]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:825][349]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:879][351]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:914][353]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.57:969][355]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.58:013][357]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.58:071][359]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.58:127][361]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.58:162][363]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.58:222][365]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.58:258][367]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.58:318][369]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.58:357][371]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.58:404][373]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.58:439][375]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.41.58:633][380]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.01:283][530]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2018.02.01-20.42.09:796][ 17]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.02.01-20.42.09:796][ 17]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.02.01-20.42.22:833][786]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.22:914][790]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.22:944][792]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:000][794]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:040][796]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:091][798]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:129][800]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:173][802]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:615][826]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:655][828]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:713][830]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:760][832]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:802][834]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:877][836]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:924][838]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.23:971][840]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:030][842]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:097][844]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:185][846]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:228][848]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:277][850]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:332][852]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:373][854]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:423][856]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:520][858]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:604][860]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:705][862]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:762][864]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:826][866]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:888][868]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:948][870]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.24:990][872]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:037][874]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:077][876]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:137][878]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:170][880]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:248][882]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:305][884]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:369][886]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:432][888]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:509][890]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:581][892]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:638][894]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:707][896]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:765][898]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:814][900]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:871][902]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:938][904]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.25:959][905]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2018.02.01-20.42.25:959][905]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.02.01-20.42.25:978][906]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:029][908]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:085][910]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:130][912]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:183][914]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:222][916]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:269][918]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:331][920]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:374][922]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:434][924]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:524][926]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:623][928]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:703][930]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:738][932]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:787][934]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:851][936]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:890][938]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:940][940]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.26:979][942]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.27:024][944]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.27:066][946]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.27:119][948]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.27:156][950]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.42.47:531][282]LogActorFactory: Actor Factory created Cube
+[2018.02.01-20.42.48:724][344]LogActorFactory: Actor Factory created Cube
+[2018.02.01-20.43.11:210][970]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.11:766][  0]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.11:805][  2]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.11:865][  4]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.11:910][  6]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.11:959][  8]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:027][ 10]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:077][ 12]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:140][ 14]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:199][ 16]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:261][ 18]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:325][ 20]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:389][ 22]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:438][ 24]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:574][ 26]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:687][ 28]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:754][ 30]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:788][ 32]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:843][ 34]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:900][ 36]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.12:966][ 38]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:019][ 40]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:076][ 42]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:118][ 44]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:184][ 46]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:223][ 48]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:280][ 50]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:313][ 52]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:383][ 54]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:434][ 56]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:538][ 58]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:593][ 60]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:649][ 62]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:706][ 64]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:759][ 66]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:824][ 68]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:884][ 70]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:921][ 72]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.13:969][ 74]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:002][ 76]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:054][ 78]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:100][ 80]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:140][ 82]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:189][ 84]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:240][ 86]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:295][ 88]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:367][ 90]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:430][ 92]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:431][ 92]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2018.02.01-20.43.14:431][ 92]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.02.01-20.43.14:498][ 94]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:571][ 96]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:653][ 98]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:695][100]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:733][102]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:775][104]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:817][106]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:851][108]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:903][110]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:933][112]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.14:981][114]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.15:034][116]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.15:089][118]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.15:146][120]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.15:209][122]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.43.15:775][144]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2018.02.01-20.43.17:334][222]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-20.43.31:089][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2018.02.01-20.44.28:826][328]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 0.033
+[2018.02.01-20.44.28:828][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemy] ([1] browsable assets)...
+[2018.02.01-20.44.28:828][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy]
+[2018.02.01-20.44.28:903][328]LogSavePackage: Save=19.22ms
+[2018.02.01-20.44.28:903][328]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy_Auto4561D60734B397CC53F9B51983F2053B3.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/Enemy_Auto4.uasset'
+[2018.02.01-20.44.28:904][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/Enemy_Auto4.uasset
+[2018.02.01-20.44.28:904][328]LogFileHelpers: Auto-saving content packages took 0.077
+[2018.02.01-20.44.49:528][924]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.44.50:735][992]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.44.50:812][994]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.44.50:882][996]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.44.50:942][998]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.44.50:993][  0]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.44.51:039][  2]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.44.51:112][  4]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.44.51:201][  6]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.44.52:429][ 54]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2018.02.01-20.44.52:605][ 58]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2018.02.01-20.44.52:605][ 58]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.02.01-20.44.59:253][506]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:195][546]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:227][548]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:304][550]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:342][552]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:399][554]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:451][556]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:502][558]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:558][560]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:639][562]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:722][564]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:778][566]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.00:779][566]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2018.02.01-20.45.00:847][568]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.02:248][672]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.02.01-20.45.02:617][700]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.02:922][715]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.02:978][718]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.03:043][721]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.03:102][724]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.03:168][727]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.04:846][834]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.05:027][843]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.05:063][846]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.05:119][849]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.05:183][852]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.05:252][855]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.05:299][857]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.05:346][859]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.05:402][861]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.05:471][863]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.07:779][ 38]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.08:288][ 62]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.08:344][ 65]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.08:421][ 68]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.08:490][ 71]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.08:592][ 74]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.08:695][ 77]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.08:794][ 80]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.08:890][ 83]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.08:975][ 86]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.09:069][ 89]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.09:197][ 92]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.10:713][183]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.10:920][190]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.10:955][192]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2018.02.01-20.45.10:956][192]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.02.01-20.45.10:978][193]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.11:029][196]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.11:098][199]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.11:142][202]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.11:202][205]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.11:269][208]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.11:303][210]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.11:355][212]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.11:391][214]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.11:437][216]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.11:475][218]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.11:539][220]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.12:898][325]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:161][338]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:214][341]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:283][344]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:321][346]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:367][348]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:408][350]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:447][352]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:492][354]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:554][356]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:651][358]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:686][360]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:725][362]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:786][364]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:828][366]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:863][368]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:911][370]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.13:969][372]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:012][374]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:070][376]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:123][378]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:171][380]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:224][382]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:275][384]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:318][386]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:372][388]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:425][390]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:505][392]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:590][394]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:661][396]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:684][398]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:707][400]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:739][402]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:763][404]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:799][406]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:821][408]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:856][410]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:903][412]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.14:952][414]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.15:000][416]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.15:053][418]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.15:093][420]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.15:162][422]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.15:238][423]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.15:255][424]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.15:913][482]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository
+[2018.02.01-20.45.15:913][482]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.02.01-20.45.16:524][540]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:539][541]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:552][542]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:562][543]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:573][544]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:587][545]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:596][546]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:610][547]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:620][548]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:628][549]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:639][550]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:650][551]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:663][552]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:678][553]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:692][554]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:704][555]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:713][556]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:723][557]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:732][558]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:740][559]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:748][560]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:757][561]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.16:766][562]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.17:510][631]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.17:530][632]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.17:542][633]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:053][676]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:061][677]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:069][678]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:078][679]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:087][680]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:095][681]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:104][682]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:114][683]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:123][684]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:135][685]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:145][686]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:156][687]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:166][688]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:175][689]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:184][690]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:194][691]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:203][692]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:215][693]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:226][694]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:243][695]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:254][696]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:262][697]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:272][698]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:281][699]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:291][700]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:309][701]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:319][702]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:329][703]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:338][704]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:346][705]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:355][706]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:363][707]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:372][708]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:383][709]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:400][710]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:417][711]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:426][712]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:435][713]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:447][714]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:472][715]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:483][716]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:493][717]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:506][718]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:516][719]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:528][720]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:540][721]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:551][722]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:668][730]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:677][731]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:685][732]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:694][733]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:706][734]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:723][735]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:741][736]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:751][737]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:762][738]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:772][739]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:788][740]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:803][741]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:811][742]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:820][743]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:828][744]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:841][745]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:849][746]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:859][747]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:870][748]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:882][749]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:892][750]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:902][751]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:912][752]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:922][753]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:932][754]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:940][755]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:951][756]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:965][757]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:978][758]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:987][759]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.18:997][760]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.19:010][761]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.19:019][762]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.19:029][763]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.19:040][764]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.19:054][765]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.19:065][766]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.19:897][840]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:171][865]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:181][866]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:190][867]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:200][868]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:208][869]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:221][870]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:238][871]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:245][872]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:253][873]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:262][874]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:273][875]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:287][876]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:294][877]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:303][878]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:314][879]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:329][880]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:337][881]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:348][882]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:358][883]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:369][884]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:378][885]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:387][886]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:395][887]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:410][888]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:423][889]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:437][890]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:447][891]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:456][892]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:469][893]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:477][894]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:493][895]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:504][896]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:514][897]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:529][898]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:545][899]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:560][900]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:571][901]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:582][902]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:593][903]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:614][904]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:627][905]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:637][906]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:645][907]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:654][908]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:662][909]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:670][910]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:679][911]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:687][912]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:703][913]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:717][914]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:730][915]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:740][916]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:750][917]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:760][918]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:772][919]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:788][920]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:804][921]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:812][922]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:821][923]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:829][924]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:838][925]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:847][926]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:856][927]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:870][928]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:890][929]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:899][930]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:906][931]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:915][932]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:923][933]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:932][934]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:941][935]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:954][936]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:962][937]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:973][938]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.20:995][939]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:004][940]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:015][941]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:027][942]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:035][943]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:044][944]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:056][945]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:080][946]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:089][947]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:098][948]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:106][949]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:115][950]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:125][951]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:137][952]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:154][953]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:163][954]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:172][955]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:181][956]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:190][957]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:201][958]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:210][959]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:220][960]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:243][961]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:253][962]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:262][963]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:271][964]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:710][995]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:720][996]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:729][997]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:750][998]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:765][999]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:778][  0]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:793][  1]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:807][  2]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:825][  3]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:842][  4]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:856][  5]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:874][  6]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:888][  7]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:908][  8]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:970][ 13]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.21:979][ 14]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:004][ 15]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:015][ 16]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:025][ 17]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:041][ 18]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:051][ 19]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:062][ 20]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:162][ 31]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:170][ 32]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:181][ 33]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:191][ 34]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:201][ 35]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:211][ 36]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:222][ 37]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:231][ 38]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:240][ 39]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:252][ 40]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:261][ 41]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:273][ 42]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:287][ 43]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:298][ 44]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:310][ 45]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:324][ 46]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:333][ 47]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:342][ 48]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:367][ 49]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:382][ 50]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:402][ 51]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:426][ 52]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:436][ 53]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:448][ 54]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:480][ 55]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:497][ 56]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:543][ 57]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:571][ 58]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:656][ 59]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:667][ 60]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:681][ 61]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:707][ 62]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:721][ 63]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:734][ 64]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:760][ 65]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:779][ 66]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:794][ 67]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:812][ 68]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:855][ 69]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:879][ 70]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:881][ 70]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:907][ 71]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:917][ 72]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:945][ 73]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:968][ 74]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.22:985][ 75]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:013][ 76]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:029][ 77]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:048][ 78]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:066][ 79]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:086][ 80]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:099][ 81]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:115][ 82]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:127][ 83]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:158][ 84]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:169][ 85]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:188][ 86]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:210][ 87]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:223][ 88]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:234][ 89]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:253][ 90]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:267][ 91]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:283][ 92]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:296][ 93]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:320][ 95]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:361][ 97]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:383][ 99]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:453][101]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:501][103]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:613][105]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:714][108]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:784][111]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:869][114]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:931][117]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.23:997][120]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:079][123]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:160][126]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:234][129]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:301][132]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:394][135]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:472][138]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:587][141]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:661][144]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:732][147]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:800][150]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:872][153]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:874][153]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2018.02.01-20.45.24:933][156]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.24:998][159]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.25:062][162]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.25:129][165]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.25:214][168]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.45.25:352][172]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.02.01-20.45.30:326][560]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.01-20.45.35:649][ 26]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.01-20.45.37:608][167]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.01-20.46.14:874][399]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.15:555][434]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.15:641][436]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.15:762][438]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.15:825][440]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.15:891][443]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.15:977][446]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.16:053][449]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.16:115][452]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.16:191][455]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.16:263][458]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.16:329][461]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.16:418][464]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.16:488][467]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.16:676][470]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.16:806][473]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.16:894][476]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.16:938][479]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.17:009][482]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.17:081][485]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.17:192][488]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2018.02.01-20.46.17:897][518]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.02.01-20.46.20:522][665]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.20:804][678]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.20:859][681]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.20:944][684]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.21:017][687]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.21:110][690]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.21:176][693]LogAnimation: Warning: SkeletalMesh DefaultSkeletalMesh has no skeleton. This needs to fixed before an animation can be set
+[2018.02.01-20.46.22:202][729]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset' is outside repository
+[2018.02.01-20.46.23:877][812]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository
+[2018.02.01-20.46.31:498][158]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset' is outside repository
+[2018.02.01-20.46.31:498][158]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository
+[2018.02.01-20.46.31:498][158]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository
+[2018.02.01-20.46.31:498][158]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset' is outside repository
+[2018.02.01-20.46.31:498][158]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository
+[2018.02.01-20.46.31:498][158]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset' is outside repository
+[2018.02.01-20.46.31:664][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/UI/ArrowMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/UI/ArrowMaterial.uasset' is outside repository
+[2018.02.01-20.46.32:382][192]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundMaterial.uasset' is outside repository
+[2018.02.01-20.46.32:382][192]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/BaseColor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/BaseColor.uasset' is outside repository
+[2018.02.01-20.46.32:382][192]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset' is outside repository
+[2018.02.01-20.46.32:558][198]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset01.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset01.uasset' is outside repository
+[2018.02.01-20.46.32:791][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset' is outside repository
+[2018.02.01-20.46.34:325][267]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository
+[2018.02.01-20.46.34:411][270]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BlinkingCaret.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BlinkingCaret.uasset' is outside repository
+[2018.02.01-20.46.34:807][282]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset' is outside repository
+[2018.02.01-20.46.34:827][283]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicTemplateMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicTemplateMaterial.uasset' is outside repository
+[2018.02.01-20.46.34:827][283]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset' is outside repository
+[2018.02.01-20.46.35:066][291]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MATInst.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MATInst.uasset' is outside repository
+[2018.02.01-20.46.35:137][294]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MAT.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MAT.uasset' is outside repository
+[2018.02.01-20.46.38:973][452]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_ModuleDisable_MAT.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_ModuleDisable_MAT.uasset' is outside repository
+[2018.02.01-20.46.39:090][457]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_ModuleEnable_MAT.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_ModuleEnable_MAT.uasset' is outside repository
+[2018.02.01-20.46.39:161][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BlinkingCaret.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BlinkingCaret.uasset' is outside repository
+[2018.02.01-20.46.39:161][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset' is outside repository
+[2018.02.01-20.46.39:161][460]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MAT.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MAT.uasset' is outside repository
+[2018.02.01-20.46.39:241][463]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_RenderCross_MAT.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_RenderCross_MAT.uasset' is outside repository
+[2018.02.01-20.46.39:817][478]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_RenderPoint_MAT.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_RenderPoint_MAT.uasset' is outside repository
+[2018.02.01-20.46.40:223][492]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Linear.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Linear.uasset' is outside repository
+[2018.02.01-20.46.40:749][510]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Smooth.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Smooth.uasset' is outside repository
+[2018.02.01-20.46.40:772][511]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/ClothMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/ClothMaterial.uasset' is outside repository
+[2018.02.01-20.46.40:822][512]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Spherical.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Spherical.uasset' is outside repository
+[2018.02.01-20.46.41:739][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset' is outside repository
+[2018.02.01-20.46.41:739][534]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cross_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cross_Mat.uasset' is outside repository
+[2018.02.01-20.46.41:779][535]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/CubeMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/CubeMaterial.uasset' is outside repository
+[2018.02.01-20.46.42:117][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/CustomStencil.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/CustomStencil.uasset' is outside repository
+[2018.02.01-20.46.42:248][552]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset' is outside repository
+[2018.02.01-20.46.43:023][579]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/DebugMeshMaterialFakeLight.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/DebugMeshMaterialFakeLight.uasset' is outside repository
+[2018.02.01-20.46.43:169][584]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultDecalMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultDecalMaterial.uasset' is outside repository
+[2018.02.01-20.46.43:293][588]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset' is outside repository
+[2018.02.01-20.46.43:470][594]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultMaterial.uasset' is outside repository
+[2018.02.01-20.46.43:864][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset' is outside repository
+[2018.02.01-20.46.43:864][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset' is outside repository
+[2018.02.01-20.46.43:972][601]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset' is outside repository
+[2018.02.01-20.46.44:080][603]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset' is outside repository
+[2018.02.01-20.46.44:080][603]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultParticle.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/DefaultParticle.uasset' is outside repository
+[2018.02.01-20.46.49:882][794]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository
+[2018.02.01-20.46.49:882][794]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset' is outside repository
+[2018.02.01-20.46.49:882][794]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/UI/ArrowMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/UI/ArrowMaterial.uasset' is outside repository
+[2018.02.01-20.46.50:264][807]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset' is outside repository
+[2018.02.01-20.46.50:264][807]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository
+[2018.02.01-20.46.50:264][807]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository
+[2018.02.01-20.46.50:264][807]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset' is outside repository
+[2018.02.01-20.46.51:999][879]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_ModuleDisable_MAT.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_ModuleDisable_MAT.uasset' is outside repository
+[2018.02.01-20.46.53:361][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset' is outside repository
+[2018.02.01-20.46.53:361][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BlinkingCaret.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BlinkingCaret.uasset' is outside repository
+[2018.02.01-20.46.53:361][918]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MAT.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MAT.uasset' is outside repository
+[2018.02.01-20.46.53:858][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset' is outside repository
+[2018.02.01-20.46.54:129][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset02.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset02.uasset' is outside repository
+[2018.02.01-20.46.54:433][943]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset' is outside repository
+[2018.02.01-20.46.54:943][959]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset01.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset01.uasset' is outside repository
+[2018.02.01-20.46.55:022][962]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/UI/ArrowMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/VREditor/UI/ArrowMaterial.uasset' is outside repository
+[2018.02.01-20.46.55:261][975]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundMaterial.uasset' is outside repository
+[2018.02.01-20.46.55:261][975]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/BaseColor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/BaseColor.uasset' is outside repository
+[2018.02.01-20.57.54:654][810]BlueprintLog: New page: Compile EnemyAI
+[2018.02.01-20.57.56:031][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyAI" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/EnemyAI.uasset" SILENT=true
+[2018.02.01-20.57.56:126][844]LogSavePackage: Save=50.86ms
+[2018.02.01-20.57.56:126][844]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyAI0EEC016B42361E312A8655A9BC64C81D.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/EnemyAI.uasset'
+[2018.02.01-20.57.56:142][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/EnemyAI.uasset
+[2018.02.01-20.57.59:715][ 19]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.01-20.58.14:723][176]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-20.58.14:794][176]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.01-20.58.14:798][176]LogPlayLevel: [PlayLevel] Compiling Enemy before play...
+[2018.02.01-20.58.15:310][176]LogPlayLevel: PlayLevel: Blueprint regeneration took 516 ms (1 blueprints)
+[2018.02.01-20.58.15:310][176]LogHMD: Initializing OVRPlugin session
+[2018.02.01-20.58.15:357][176]PIE: New page: PIE session: Level_One (Feb 1, 2018, 10:58:15 AM)
+[2018.02.01-20.58.15:357][176]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.01-20.58.15:394][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036716s)
+[2018.02.01-20.58.15:394][176]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-20.58.15:394][176]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.02.01-20.58.15:395][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.038143s)
+[2018.02.01-20.58.15:443][176]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-20.58.15:458][176]LogInit: FAudioDevice initialized.
+[2018.02.01-20.58.15:491][176]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.01-20.58.15:503][176]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.01-15.58.15
+[2018.02.01-20.58.15:504][176]LogWorld: Bringing up level for play took: 0.012552
+[2018.02.01-20.58.15:509][176]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 1.296
+[2018.02.01-21.00.20:073][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-21.00.20:897][369]LogSavePackage: Save=767.07ms
+[2018.02.01-21.00.20:897][369]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One370635EC413D5EC5C8567E8D1A360237.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.01-21.00.20:901][369]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.01-21.00.28:057][ 25]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.01-21.00.37:233][873]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-21.00.37:253][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-21.00.37:253][873]LogHMD: Initializing OVRPlugin session
+[2018.02.01-21.00.37:278][873]PIE: New page: PIE session: Level_One (Feb 1, 2018, 11:00:37 AM)
+[2018.02.01-21.00.37:278][873]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.01-21.00.37:314][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035084s)
+[2018.02.01-21.00.37:315][873]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-21.00.37:315][873]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2018.02.01-21.00.37:316][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.037697s)
+[2018.02.01-21.00.37:357][873]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-21.00.37:367][873]LogInit: FAudioDevice initialized.
+[2018.02.01-21.00.37:400][873]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.01-21.00.37:411][873]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.01-16.00.37
+[2018.02.01-21.00.37:412][873]LogWorld: Bringing up level for play took: 0.011562
+[2018.02.01-21.00.37:428][873]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.785
+[2018.02.01-21.01.58:222][159]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.01-21.02.25:180][504]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.01-21.02.30:219][801]BlueprintLog: New page: Compile Enemy
+[2018.02.01-21.02.31:737][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.01-21.02.31:869][833]LogSavePackage: Save=55.17ms
+[2018.02.01-21.02.31:869][833]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy9F8135FD4BB654166144AC91003CD042.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.01-21.02.31:884][833]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.01-21.02.34:270][983]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-21.02.34:301][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-21.02.34:301][983]LogHMD: Initializing OVRPlugin session
+[2018.02.01-21.02.34:327][983]PIE: New page: PIE session: Level_One (Feb 1, 2018, 11:02:34 AM)
+[2018.02.01-21.02.34:327][983]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.01-21.02.34:379][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051438s)
+[2018.02.01-21.02.34:380][983]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-21.02.34:380][983]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2018.02.01-21.02.34:381][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.053689s)
+[2018.02.01-21.02.34:434][983]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-21.02.34:454][983]LogInit: FAudioDevice initialized.
+[2018.02.01-21.02.34:486][983]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.01-21.02.34:498][983]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.01-16.02.34
+[2018.02.01-21.02.34:499][983]LogWorld: Bringing up level for play took: 0.012657
+[2018.02.01-21.02.34:529][983]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.317
+[2018.02.01-21.03.01:302][839]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.02.01-21.03.01:738][867]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.02.01-21.03.21:937][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-21.03.22:832][354]LogSavePackage: Save=822.30ms
+[2018.02.01-21.03.22:832][354]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One1E0FDD9747AF8568EEA086A2FD9B63B2.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.01-21.03.22:848][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.01-21.03.25:013][494]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-21.03.25:080][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-21.03.25:080][494]LogHMD: Initializing OVRPlugin session
+[2018.02.01-21.03.25:204][494]PIE: New page: PIE session: Level_One (Feb 1, 2018, 11:03:25 AM)
+[2018.02.01-21.03.25:204][494]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.01-21.03.25:255][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051004s)
+[2018.02.01-21.03.25:256][494]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-21.03.25:256][494]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2018.02.01-21.03.25:256][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.052716s)
+[2018.02.01-21.03.25:312][494]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.01-21.03.25:324][494]LogInit: FAudioDevice initialized.
+[2018.02.01-21.03.25:356][494]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.01-21.03.25:368][494]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.01-16.03.25
+[2018.02.01-21.03.25:369][494]LogWorld: Bringing up level for play took: 0.012526
+[2018.02.01-21.03.25:373][494]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 1.16
+[2018.02.01-21.03.57:155][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-21.03.58:057][613]LogSavePackage: Save=816.83ms
+[2018.02.01-21.03.58:057][613]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One894B9A924DBBFD86C23D8B99798048BF.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.01-21.03.58:059][613]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.01-21.04.07:599][169]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-21.04.21:811][169]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.01-21.04.22:374][169]SourceControl: [master ce0cefa] Enemy+AI
+[2018.02.01-21.04.22:374][169]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2018.02.01-21.04.22:374][169]SourceControl:  rewrite Game1/Content/Blueprints/Enemy.uasset (70%)
+[2018.02.01-21.04.22:374][169]SourceControl:  create mode 100644 Game1/Content/Blueprints/EnemyAI.uasset
+[2018.02.01-21.04.22:382][169]SourceControl: Commited [master ce0cefa] Enemy+AI.
