@@ -658,3 +658,31 @@ LogInit: Object subsystem initialized
 [2018.02.01-04.20.42:024][370]SourceControl: [master 308c889] New Landscape
 [2018.02.01-04.20.42:024][370]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.02.01-04.20.42:036][370]SourceControl: Commited [master 308c889] New Landscape.
+[2018.02.01-04.22.54:323][241]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-04.22.54:331][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-04.22.54:331][241]PIE: New page: PIE session: Level_One (Jan 31, 2018, 6:22:54 PM)
+[2018.02.01-04.22.54:331][241]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.01-04.22.54:343][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011117s)
+[2018.02.01-04.22.54:343][241]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-04.22.54:343][241]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2018.02.01-04.22.54:344][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.012238s)
+[2018.02.01-04.22.54:372][241]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.02.01-04.22.54:386][241]LogInit: FAudioDevice initialized.
+[2018.02.01-04.22.54:423][241]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.01-04.22.54:425][241]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.01.31-23.22.54
+[2018.02.01-04.22.54:425][241]LogWorld: Bringing up level for play took: 0.002222
+[2018.02.01-04.22.54:428][241]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.778
+[2018.02.01-04.25.53:098][782]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-04.25.53:108][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-04.25.53:108][782]PIE: New page: PIE session: Level_One (Jan 31, 2018, 6:25:53 PM)
+[2018.02.01-04.25.53:108][782]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.01-04.25.53:119][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011369s)
+[2018.02.01-04.25.53:120][782]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-04.25.53:121][782]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2018.02.01-04.25.53:121][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.012948s)
+[2018.02.01-04.25.53:146][782]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.02.01-04.25.53:163][782]LogInit: FAudioDevice initialized.
+[2018.02.01-04.25.53:197][782]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.01-04.25.53:199][782]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.01.31-23.25.53
+[2018.02.01-04.25.53:200][782]LogWorld: Bringing up level for play took: 0.002017
+[2018.02.01-04.25.53:202][782]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.448
