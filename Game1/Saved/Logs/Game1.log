@@ -16545,3 +16545,14 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2018.02.01-20.25.33:574][261]SourceControl: [master 71292ca] w
 [2018.02.01-20.25.33:574][261]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.02.01-20.25.33:583][261]SourceControl: Commited [master 71292ca] w.
+[2018.02.01-20.28.42:844][843]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-20.28.43:025][843]EditorErrors: Warning: No assets to check in!
+[2018.02.01-20.28.45:521][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.01-20.28.46:257][ 48]LogSavePackage: Save=686.86ms
+[2018.02.01-20.28.46:257][ 48]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One9CEE2DE64D8BE23A31FD8E996DE8BC55.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.01-20.28.46:260][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.01-20.28.57:842][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-20.29.04:145][121]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.01-20.29.04:326][121]SourceControl: [master 71293c3] ht
+[2018.02.01-20.29.04:326][121]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.01-20.29.04:334][121]SourceControl: Commited [master 71293c3] ht.
