@@ -396,3 +396,15 @@ LogInit: Object subsystem initialized
 [2018.02.01-04.18.26:509][335]LightingResults: New page: Lighting Build
 [2018.02.01-04.18.26:526][335]LogAIModule: Creating AISystem for world Untitled
 [2018.02.01-04.18.26:581][335]LoadErrors: New page: New Map
+[2018.02.01-04.19.16:563][653]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2018.02.01-04.19.16:815][653]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-04.19.16:882][653]Cmd: MAP LOAD FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.01-04.19.16:882][653]LightingResults: New page: Lighting Build
+[2018.02.01-04.19.16:883][653]LoadErrors: New page: Loading map: Level_One.umap
+[2018.02.01-04.19.16:883][653]MapCheck: New page: Map Check
+[2018.02.01-04.19.16:883][653]LightingResults: New page: Lighting Build
+[2018.02.01-04.19.18:896][653]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.01-04.19.18:937][653]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.01-04.19.18:996][653]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.672ms to complete.
+[2018.02.01-04.19.18:997][653]LogFileHelpers: Loading map 'Level_One' took 2.116
+[2018.02.01-04.19.18:997][653]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
