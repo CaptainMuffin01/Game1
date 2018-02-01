@@ -1907,3 +1907,13 @@ LogInit: Object subsystem initialized
 [2018.02.01-17.33.21:614][ 57]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
 [2018.02.01-17.33.21:826][ 59]LogPackageName: SearchForPackageOnDisk took   0.120s, but failed to resolve S_ClothTarps_03.
 [2018.02.01-17.33.21:826][ 59]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2018.02.01-17.35.03:647][510]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.01-17.35.14:733][510]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.01-17.35.14:872][510]SourceControl: On branch master
+[2018.02.01-17.35.14:872][510]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.02.01-17.35.14:872][510]SourceControl: Changes not staged for commit:
+[2018.02.01-17.35.14:872][510]SourceControl: 	modified:   Game1/Saved/Logs/Game1.log
+[2018.02.01-17.35.14:872][510]SourceControl: Untracked files:
+[2018.02.01-17.35.14:872][510]SourceControl: 	Game1/Saved/Logs/Git-Temp51FE0EC74C11C51A386BB09C90C77611.txt
+[2018.02.01-17.35.14:872][510]SourceControl: no changes added to commit
+[2018.02.01-17.35.14:879][510]SourceControl: Commited On branch master.
