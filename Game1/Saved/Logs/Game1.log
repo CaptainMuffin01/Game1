@@ -1476,3 +1476,76 @@ LogInit: Object subsystem initialized
 [2018.02.01-23.12.50:417][228]SourceControl:  create mode 100644 Game1/Content/Geometry/GrassClump.uasset
 [2018.02.01-23.12.50:417][228]SourceControl:  create mode 100644 Game1/Content/Geometry/NewGrassM_Inst.uasset
 [2018.02.01-23.12.50:429][228]SourceControl: Commited [master 2bb0b3a] Grass.
+[2018.02.01-23.13.46:209][841]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.01-23.13.46:224][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.01-23.13.46:224][841]PIE: New page: PIE session: Level_One (Feb 1, 2018, 1:13:46 PM)
+[2018.02.01-23.13.46:224][841]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.01-23.13.46:271][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046210s)
+[2018.02.01-23.13.46:272][841]LogAIModule: Creating AISystem for world Level_One
+[2018.02.01-23.13.46:272][841]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2018.02.01-23.13.46:273][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.048115s)
+[2018.02.01-23.13.46:294][841]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.01-23.13.46:309][841]LogInit: FAudioDevice initialized.
+[2018.02.01-23.13.46:340][841]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.01-23.13.46:351][841]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.01-18.13.46
+[2018.02.01-23.13.46:352][841]LogWorld: Bringing up level for play took: 0.011000
+[2018.02.01-23.13.46:355][841]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.741
+[2018.02.01-23.16.45:779][187]LogMaterial: Warning: Material /Game/Assets/Environments/Earth/Materials/M_TreeBark.M_TreeBark needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.02.01-23.16.45:782][187]LogMaterial: Missing cached shader map for material M_TreeBark, compiling. 
+[2018.02.01-23.16.45:846][187]LogMaterial: Warning: Material /Game/Assets/Environments/Earth/Materials/M_Cherry_Tree.M_Cherry_Tree needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.02.01-23.16.45:854][187]LogMaterial: Missing cached shader map for material M_Cherry_Tree, compiling. 
+[2018.02.01-23.19.11:764][437]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.11:764][437]LogEditorTransaction: Undo Foliage Editing
+[2018.02.01-23.19.16:381][736]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.16:381][736]LogEditorTransaction: Undo Edit Min
+[2018.02.01-23.19.18:686][915]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.18:686][915]LogEditorTransaction: Undo Foliage Editing
+[2018.02.01-23.19.20:603][ 96]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.20:603][ 96]LogEditorTransaction: Undo Foliage Editing
+[2018.02.01-23.19.23:312][361]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.23:312][361]LogEditorTransaction: Undo Foliage Editing
+[2018.02.01-23.19.26:189][609]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.26:190][609]LogEditorTransaction: Undo Foliage Editing
+[2018.02.01-23.19.28:265][800]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.28:265][800]LogEditorTransaction: Undo Edit Min
+[2018.02.01-23.19.31:998][176]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.31:998][176]LogEditorTransaction: Undo Move Actors
+[2018.02.01-23.19.33:358][277]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.33:359][277]LogEditorTransaction: Undo Foliage Editing
+[2018.02.01-23.19.35:755][471]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.35:756][471]LogEditorTransaction: Undo Move Actors
+[2018.02.01-23.19.37:249][605]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.37:249][605]LogEditorTransaction: Undo Foliage Editing
+[2018.02.01-23.19.39:664][805]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.39:664][805]LogEditorTransaction: Undo Foliage Editing
+[2018.02.01-23.19.45:754][372]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.45:754][372]LogEditorTransaction: Undo Foliage Editing
+[2018.02.01-23.19.47:640][518]Cmd: TRANSACTION UNDO
+[2018.02.01-23.19.47:640][518]LogEditorTransaction: Undo Edit Max
+[2018.02.01-23.20.13:267][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cherry_Tree231)
+[2018.02.01-23.20.18:891][463]LogActorFactory: Actor Factory created SM_Cherry_Tree
+[2018.02.01-23.20.19:674][515]LogActorFactory: Actor Factory created SM_Cherry_Tree
+[2018.02.01-23.20.35:813][199]Cmd: DELETE
+[2018.02.01-23.20.35:813][199]Cmd: ACTOR DELETE
+[2018.02.01-23.20.35:848][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.01-23.20.35:858][199]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.02.01-23.22.42:000][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.01-23.22.43:007][694]LogSavePackage: Save=988.99ms
+[2018.02.01-23.22.43:007][694]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Level_One_Auto5B33785394783F950DB3372AE0628953D.tmp' to 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto5.umap'
+[2018.02.01-23.22.43:010][694]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto5.umap
+[2018.02.01-23.22.43:013][694]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 1.026
+[2018.02.01-23.22.43:013][694]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.026
+[2018.02.01-23.22.43:016][694]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Environments/Earth/Materials/M_Cherry_Tree] ([1] browsable assets)...
+[2018.02.01-23.22.43:029][694]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Environments/Earth/Materials/M_Cherry_Tree.M_Cherry_Tree]
+[2018.02.01-23.22.43:029][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Environments/Earth/Materials/M_Cherry_Tree]
+[2018.02.01-23.22.43:059][694]LogSavePackage: Save=18.58ms
+[2018.02.01-23.22.43:059][694]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/M_Cherry_Tree_Auto5F2165065427157BD31F5D48A6A368241.tmp' to 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Assets/Environments/Earth/Materials/M_Cherry_Tree_Auto5.uasset'
+[2018.02.01-23.22.43:062][694]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Assets/Environments/Earth/Materials/M_Cherry_Tree_Auto5.uasset
+[2018.02.01-23.22.43:064][694]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Environments/Earth/Materials/M_TreeBark] ([1] browsable assets)...
+[2018.02.01-23.22.43:076][694]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Environments/Earth/Materials/M_TreeBark.M_TreeBark]
+[2018.02.01-23.22.43:076][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Environments/Earth/Materials/M_TreeBark]
+[2018.02.01-23.22.43:104][694]LogSavePackage: Save=16.66ms
+[2018.02.01-23.22.43:104][694]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/M_TreeBark_Auto599A67D2240C7D58A790F36A87A28B2B4.tmp' to 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Assets/Environments/Earth/Materials/M_TreeBark_Auto5.uasset'
+[2018.02.01-23.22.43:107][694]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Assets/Environments/Earth/Materials/M_TreeBark_Auto5.uasset
+[2018.02.01-23.22.43:107][694]LogFileHelpers: Auto-saving content packages took 0.093
+[2018.02.02-00.57.46:746][789]LogInit: XAudio2 using 'Speakers (Klipsch PM2.1 BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
