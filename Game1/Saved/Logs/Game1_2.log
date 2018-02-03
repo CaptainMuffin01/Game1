@@ -1189,3 +1189,7 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2018.02.02-02.14.48:624][933]SourceControl:  create mode 100644 Game1/Content/FirstPersonBP/Blueprints/bullet.uasset
 [2018.02.02-02.14.48:624][933]SourceControl:  create mode 100644 Game1/Content/Meshes/Bullet.uasset
 [2018.02.02-02.14.48:632][933]SourceControl: Commited [master d4ce722] Bullets Enemy Update.
+[2018.02.02-02.15.14:755][365]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 0.027
+[2018.02.02-02.15.56:433][294]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.02.02-02.15.57:612][427]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.02-02.25.15:113][ 35]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 0.024
