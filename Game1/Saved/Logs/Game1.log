@@ -595,3 +595,363 @@ LogInit: Object subsystem initialized
 [2018.02.04-04.54.00:568][568]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
 [2018.02.04-04.54.20:031][794]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
 [2018.02.04-04.54.20:228][794]EditorErrors: Warning: No assets to check in!
+[2018.02.04-04.56.08:389][566]Cmd: TRANSACTION UNDO
+[2018.02.04-04.56.08:389][566]LogEditorTransaction: Undo Move Actors
+[2018.02.04-04.56.08:393][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.04-04.56.08:393][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.04-04.56.08:393][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level_One.Level_One:PersistentLevel.ModelComponent_674' invalid (1058 verts, 0 indices).
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level_One.Level_One:PersistentLevel.ModelComponent_674.BodySetup_671 when we are unable to.
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level_One.Level_One:PersistentLevel.ModelComponent_675' invalid (1058 verts, 0 indices).
+[2018.02.04-04.56.08:394][566]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level_One.Level_One:PersistentLevel.ModelComponent_675.BodySetup_672 when we are unable to.
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 27
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 28
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 29
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 30
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 31
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 32
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level_One.Level_One:PersistentLevel.ModelComponent_676' invalid (1058 verts, 0 indices).
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level_One.Level_One:PersistentLevel.ModelComponent_676.BodySetup_673 when we are unable to.
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.04-04.56.08:395][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 27
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 28
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 29
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 30
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Level_One.Level_One:PersistentLevel.ModelComponent_677' invalid (1058 verts, 0 indices).
+[2018.02.04-04.56.08:396][566]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Level_One.Level_One:PersistentLevel.ModelComponent_677.BodySetup_674 when we are unable to.
+[2018.02.04-04.56.08:398][566]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrushRoof2.BrushComponent0) Component already registered.
+[2018.02.04-04.56.15:200][217]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-04.57.23:772][870]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-04.58.03:913][393]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-04.58.21:237][378]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-04.58.51:277][743]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-04.59.42:027][553]Cmd: DELETE
+[2018.02.04-04.59.42:027][553]Cmd: ACTOR DELETE
+[2018.02.04-04.59.42:053][553]LogEditorActor: Deleted Actor: Brush
+[2018.02.04-04.59.42:077][553]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.02.04-04.59.59:423][580]Cmd: DELETE
+[2018.02.04-04.59.59:423][580]Cmd: ACTOR DELETE
+[2018.02.04-04.59.59:449][580]LogEditorActor: Deleted Actor: Brush
+[2018.02.04-04.59.59:470][580]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.02.04-05.00.47:350][953]Cmd: TRANSACTION UNDO
+[2018.02.04-05.00.47:351][953]LogEditorTransaction: Undo Scale Actors
+[2018.02.04-05.00.47:357][953]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.02.04-05.00.59:830][349]Cmd: TRANSACTION UNDO
+[2018.02.04-05.00.59:830][349]LogEditorTransaction: Undo Scale Actors
+[2018.02.04-05.00.59:835][349]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.02.04-05.01.08:558][354]Cmd: TRANSACTION UNDO
+[2018.02.04-05.01.08:558][354]LogEditorTransaction: Undo Scale Actors
+[2018.02.04-05.01.08:564][354]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.02.04-05.01.27:157][454]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-05.01.45:991][529]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-05.02.55:809][511]Cmd: DELETE
+[2018.02.04-05.02.55:809][511]Cmd: ACTOR DELETE
+[2018.02.04-05.02.55:836][511]LogEditorActor: Deleted Actor: Brush
+[2018.02.04-05.02.55:861][511]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.02.04-05.04.28:010][997]Cmd: TRANSACTION UNDO
+[2018.02.04-05.04.28:010][997]LogEditorTransaction: Undo Move Actors
+[2018.02.04-05.04.28:015][997]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2018.02.04-05.04.40:177][393]Cmd: TRANSACTION UNDO
+[2018.02.04-05.04.40:177][393]LogEditorTransaction: Undo Move Actors
+[2018.02.04-05.04.40:181][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2018.02.04-05.04.54:229][983]Cmd: TRANSACTION UNDO
+[2018.02.04-05.04.54:229][983]LogEditorTransaction: Undo Move Actors
+[2018.02.04-05.04.54:236][983]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2018.02.04-05.04.54:862][ 42]Cmd: TRANSACTION UNDO
+[2018.02.04-05.04.54:862][ 42]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.04.56:071][179]Cmd: TRANSACTION UNDO
+[2018.02.04-05.04.56:071][179]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.05.09:115][665]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-05.05.17:620][640]LogEditorActor: Deleted Actor: Brush
+[2018.02.04-05.05.17:644][640]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.02.04-05.05.19:842][895]LogEditorActor: Deleted Actor: Brush
+[2018.02.04-05.05.19:862][895]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.02.04-05.06.00:439][445]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush Roof3)
+[2018.02.04-05.06.29:709][853]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.29:709][853]LogEditorTransaction: Undo Scale Actors
+[2018.02.04-05.06.29:715][853]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.02.04-05.06.29:715][853]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2018.02.04-05.06.29:716][853]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrushRoof3_29.BrushComponent0) Component already registered.
+[2018.02.04-05.06.30:237][900]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.30:237][900]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.30:755][957]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.30:755][957]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.31:386][ 31]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.31:386][ 31]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.31:886][ 90]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.31:886][ 90]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.32:442][151]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.32:442][151]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.32:970][210]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.32:970][210]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.33:460][264]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.33:460][264]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.33:894][315]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.33:894][315]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.34:332][366]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.34:332][366]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.39:944][ 21]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.39:944][ 21]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.40:701][104]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.40:701][104]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.41:320][177]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.41:320][177]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.42:018][259]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.42:018][259]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.42:949][364]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.42:949][364]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.43:618][443]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.43:618][443]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.44:053][491]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.44:053][491]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.44:493][542]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.44:493][542]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.44:958][592]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.44:958][592]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.45:592][663]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.45:592][663]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.46:112][721]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.46:112][721]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.46:577][772]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.46:577][772]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.48:567][  3]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.48:567][  3]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.49:047][ 59]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.49:047][ 59]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.49:944][161]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.49:944][161]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.50:505][227]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.50:505][227]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.51:719][367]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.51:719][367]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.52:384][442]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.52:384][442]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.52:920][502]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.52:920][502]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.53:543][575]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.53:543][575]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.54:252][655]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.54:252][655]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.55:383][782]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.55:383][782]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.56:017][853]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.56:017][853]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.56:472][903]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.56:472][903]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.04-05.06.56:799][938]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.56:799][938]LogEditorTransaction: Undo Move Actors
+[2018.02.04-05.06.56:803][938]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2018.02.04-05.06.56:805][938]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.02.04-05.06.56:805][938]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2018.02.04-05.06.57:080][965]Cmd: TRANSACTION UNDO
+[2018.02.04-05.06.57:080][965]LogEditorTransaction: Undo Select Brush Surface
+[2018.02.04-05.07.02:543][596]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.02:543][596]LogEditorTransaction: Redo Select Brush Surface
+[2018.02.04-05.07.06:238][ 10]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.06:238][ 10]LogEditorTransaction: Redo Move Actors
+[2018.02.04-05.07.08:822][294]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.08:822][294]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.12:235][684]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.12:235][684]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.15:191][ 13]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.15:191][ 13]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.17:488][269]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.17:488][269]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.19:248][473]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.19:248][473]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.19:924][553]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.19:924][553]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.20:790][651]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.20:790][651]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.21:346][713]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.21:346][713]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.21:795][763]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.21:795][763]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.22:325][825]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.22:325][825]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.22:855][884]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.22:855][884]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.23:207][925]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.23:208][925]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.23:515][958]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.23:515][958]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.23:800][988]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.23:800][988]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.24:094][ 19]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.24:094][ 19]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.24:366][ 47]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.24:366][ 47]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.24:663][ 77]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.24:663][ 77]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.24:984][114]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.24:984][114]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.25:515][173]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.25:515][173]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.25:913][219]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.25:913][219]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.26:255][256]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.26:255][256]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.26:805][320]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.26:805][320]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.27:104][355]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.27:105][355]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.27:498][401]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.27:498][401]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.28:125][470]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.28:125][470]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.28:445][507]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.28:445][507]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.28:772][545]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.28:772][545]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.29:270][600]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.29:271][600]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.29:683][645]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.29:683][645]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.30:016][681]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.30:016][681]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.30:387][724]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.30:387][724]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.30:728][764]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.30:728][764]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.31:037][797]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.31:037][797]LogEditorTransaction: Redo Clicking on Actors
+[2018.02.04-05.07.31:336][828]Cmd: TRANSACTION REDO
+[2018.02.04-05.07.31:336][828]LogEditorTransaction: Redo Scale Actors
+[2018.02.04-05.07.52:956][266]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-05.08.00:558][ 77]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-05.08.31:986][678]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-05.09.21:602][310]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-05.09.25:403][716]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-05.09.25:424][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-05.09.25:424][716]LogHMD: Initializing OVRPlugin session
+[2018.02.04-05.09.25:451][716]PIE: New page: PIE session: Level_One (Feb 3, 2018, 7:09:25 PM)
+[2018.02.04-05.09.25:451][716]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-05.09.25:516][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065004s)
+[2018.02.04-05.09.25:517][716]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-05.09.25:518][716]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2018.02.04-05.09.25:518][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.066669s)
+[2018.02.04-05.09.25:552][716]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.02.04-05.09.25:564][716]LogInit: FAudioDevice initialized.
+[2018.02.04-05.09.25:597][716]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-05.09.25:611][716]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.04-00.09.25
+[2018.02.04-05.09.25:612][716]LogWorld: Bringing up level for play took: 0.013504
+[2018.02.04-05.09.25:616][716]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.038
+[2018.02.04-05.10.14:198][342]LogEditorActor: Deleted Actor: Brush
+[2018.02.04-05.10.14:220][342]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.02.04-05.10.28:895][  6]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-05.10.28:914][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-05.10.28:914][  6]LogHMD: Initializing OVRPlugin session
+[2018.02.04-05.10.28:939][  6]PIE: New page: PIE session: Level_One (Feb 3, 2018, 7:10:28 PM)
+[2018.02.04-05.10.28:939][  6]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-05.10.29:001][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061878s)
+[2018.02.04-05.10.29:001][  6]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-05.10.29:002][  6]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2018.02.04-05.10.29:002][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.063518s)
+[2018.02.04-05.10.29:031][  6]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.02.04-05.10.29:041][  6]LogInit: FAudioDevice initialized.
+[2018.02.04-05.10.29:077][  6]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-05.10.29:089][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.04-00.10.29
+[2018.02.04-05.10.29:090][  6]LogWorld: Bringing up level for play took: 0.012032
+[2018.02.04-05.10.29:093][  6]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.485
+[2018.02.04-05.11.28:618][801]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-05.12.24:298][117]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.04-05.13.19:956][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.04-05.13.21:308][401]LogSavePackage: Save=1321.77ms
+[2018.02.04-05.13.21:308][401]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Level_One61D9449E44A817E0FAD7959A4C914F26.tmp' to 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.04-05.13.21:314][401]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.04-05.13.21:363][401]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.04-05.13.24:018][665]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.02.04-05.13.32:796][665]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.04-05.13.32:891][665]SourceControl: [master 15dd235] .
+[2018.02.04-05.13.32:891][665]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.04-05.13.32:903][665]SourceControl: Commited [master 15dd235] ..
+[2018.02.04-05.13.54:691][127]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.02.04-05.13.54:865][127]EditorErrors: Warning: No assets to check in!
