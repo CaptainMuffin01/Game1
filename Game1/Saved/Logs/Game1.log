@@ -537,3 +537,10 @@ LogInit: Object subsystem initialized
 [2018.02.04-03.34.34:774][390]Cmd: ACTOR DELETE
 [2018.02.04-03.34.34:794][390]LogEditorActor: Deleted Actor: StaticMeshActor
 [2018.02.04-03.34.34:806][390]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.02.04-03.35.01:612][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.04-03.35.03:329][772]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.04-03.35.03:370][772]LogSavePackage: Save=1736.29ms
+[2018.02.04-03.35.03:370][772]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Level_One_Auto1797013A34CEF132E3D912A84A1F6902A.tmp' to 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto1.umap'
+[2018.02.04-03.35.03:376][772]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto1.umap
+[2018.02.04-03.35.03:380][772]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 1.784
+[2018.02.04-03.35.03:380][772]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.784
