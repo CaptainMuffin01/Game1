@@ -16658,3 +16658,568 @@ Script call stack:
 [2018.02.04-03.23.54:597][ 22]SourceControl: [master 2f79a1a] cvxv
 [2018.02.04-03.23.54:597][ 22]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2018.02.04-03.23.54:605][ 22]SourceControl: Commited [master 2f79a1a] cvxv.
+[2018.02.04-03.25.24:085][884]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.25.25:338][926]LogSavePackage: Save=37.32ms
+[2018.02.04-03.25.25:338][926]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile38DB4AF243F9CB91B30282BB56C0BFB7.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.25.25:340][926]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.25.26:426][ 55]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.25.28:239][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.25.28:286][162]LogSavePackage: Save=42.58ms
+[2018.02.04-03.25.28:286][162]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyE822863C4BF75515D089C6BA09D581CB.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.25.28:288][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.25.32:368][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.04-03.25.33:657][551]LogSavePackage: Save=1254.37ms
+[2018.02.04-03.25.33:657][551]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One76810C7B4DF54FACB1C6CBA149D78C64.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.04-03.25.33:661][551]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.04-03.25.33:898][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.04-03.25.36:822][551]LogSavePackage: Save=2812.65ms
+[2018.02.04-03.25.36:822][551]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_BuiltDataA495A8344AC23EB2D82726B50FB196E7.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.04-03.25.36:833][551]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
+[2018.02.04-03.25.38:470][734]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.25.38:510][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.25.38:510][734]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.25.38:535][734]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:25:38 PM)
+[2018.02.04-03.25.38:536][734]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.25.38:596][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060283s)
+[2018.02.04-03.25.38:598][734]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.25.38:598][734]LogPlayLevel: PIE: World Init took: (0.001600s)
+[2018.02.04-03.25.38:599][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.062678s)
+[2018.02.04-03.25.38:637][734]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.25.38:644][734]LogInit: FAudioDevice initialized.
+[2018.02.04-03.25.38:679][734]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.25.38:692][734]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.25.38
+[2018.02.04-03.25.38:693][734]LogWorld: Bringing up level for play took: 0.013910
+[2018.02.04-03.25.38:697][734]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.312
+[2018.02.04-03.25.41:872][ 78]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-460.260 Y=-801.452 Z=270.905] for [FirstPersonProjectile_C]
+[2018.02.04-03.28.21:065][887]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.28.23:574][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.28.23:623][ 95]LogSavePackage: Save=40.95ms
+[2018.02.04-03.28.23:623][ 95]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy2A9463C742498F28A2D2E097721E03E6.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.28.23:627][ 95]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.28.46:268][870]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.28.46:314][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.28.46:314][870]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.28.46:337][870]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:28:46 PM)
+[2018.02.04-03.28.46:338][870]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.28.46:396][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059024s)
+[2018.02.04-03.28.46:397][870]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.28.46:398][870]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2018.02.04-03.28.46:398][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060676s)
+[2018.02.04-03.28.46:438][870]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.28.46:446][870]LogInit: FAudioDevice initialized.
+[2018.02.04-03.28.46:481][870]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.28.46:496][870]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.28.46
+[2018.02.04-03.28.46:497][870]LogWorld: Bringing up level for play took: 0.015174
+[2018.02.04-03.28.46:501][870]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.508
+[2018.02.04-03.29.13:841][ 46]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.29.16:253][227]LogSavePackage: Save=35.70ms
+[2018.02.04-03.29.16:253][227]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectileCA6F7C1442B1AF453BB267ACD0877240.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.29.16:256][227]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.29.19:002][542]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.29.19:029][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.29.19:029][542]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.29.19:053][542]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:29:19 PM)
+[2018.02.04-03.29.19:053][542]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.29.19:112][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058420s)
+[2018.02.04-03.29.19:113][542]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.29.19:113][542]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2018.02.04-03.29.19:114][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060032s)
+[2018.02.04-03.29.19:153][542]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.29.19:160][542]LogInit: FAudioDevice initialized.
+[2018.02.04-03.29.19:191][542]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.29.19:205][542]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.29.19
+[2018.02.04-03.29.19:206][542]LogWorld: Bringing up level for play took: 0.014285
+[2018.02.04-03.29.19:209][542]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.2
+[2018.02.04-03.31.01:375][484]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.31.02:720][564]LogSavePackage: Save=36.95ms
+[2018.02.04-03.31.02:720][564]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectileF0329970497A163AC6BAEABB4FDE00E2.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.31.02:723][564]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.31.04:614][780]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.31.04:643][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.31.04:643][780]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.31.04:667][780]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:31:04 PM)
+[2018.02.04-03.31.04:667][780]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.31.04:726][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058826s)
+[2018.02.04-03.31.04:727][780]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.31.04:727][780]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2018.02.04-03.31.04:728][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060509s)
+[2018.02.04-03.31.04:768][780]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.31.04:776][780]LogInit: FAudioDevice initialized.
+[2018.02.04-03.31.04:812][780]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.31.04:827][780]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.31.04
+[2018.02.04-03.31.04:828][780]LogWorld: Bringing up level for play took: 0.014865
+[2018.02.04-03.31.04:831][780]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.178
+[2018.02.04-03.31.13:378][739]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1090.569 Y=554.925 Z=386.502] for [FirstPersonProjectile_C]
+[2018.02.04-03.31.13:597][764]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1092.806 Y=590.063 Z=378.187] for [FirstPersonProjectile_C]
+[2018.02.04-03.31.13:772][784]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1093.314 Y=599.068 Z=370.741] for [FirstPersonProjectile_C]
+[2018.02.04-03.31.57:536][953]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.31.58:606][  0]LogSavePackage: Save=37.89ms
+[2018.02.04-03.31.58:606][  0]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile7F21D5A34795E570B09EB4893E8130B3.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.31.58:610][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.32.01:183][293]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.32.01:211][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.32.01:211][293]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.32.01:234][293]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:32:01 PM)
+[2018.02.04-03.32.01:235][293]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.32.01:292][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057011s)
+[2018.02.04-03.32.01:292][293]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.32.01:293][293]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2018.02.04-03.32.01:293][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.058344s)
+[2018.02.04-03.32.01:334][293]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.32.01:341][293]LogInit: FAudioDevice initialized.
+[2018.02.04-03.32.01:376][293]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.32.01:391][293]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.32.01
+[2018.02.04-03.32.01:392][293]LogWorld: Bringing up level for play took: 0.014914
+[2018.02.04-03.32.01:396][293]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.387
+[2018.02.04-03.32.39:522][692]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.32.39:561][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.32.39:561][692]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.32.39:627][692]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:32:39 PM)
+[2018.02.04-03.32.39:627][692]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.32.39:688][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060755s)
+[2018.02.04-03.32.39:690][692]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.32.39:690][692]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2018.02.04-03.32.39:690][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.062773s)
+[2018.02.04-03.32.39:731][692]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.32.39:737][692]LogInit: FAudioDevice initialized.
+[2018.02.04-03.32.39:772][692]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.32.39:786][692]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.32.39
+[2018.02.04-03.32.39:787][692]LogWorld: Bringing up level for play took: 0.014559
+[2018.02.04-03.32.39:790][692]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.781
+[2018.02.04-03.33.29:685][371]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.33.30:745][415]LogSavePackage: Save=37.86ms
+[2018.02.04-03.33.30:745][415]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile3A8198A84EFA4F3E12C5828D0CEC185C.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.33.30:749][415]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.33.32:351][600]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.33.32:385][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.33.32:385][600]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.33.32:409][600]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:33:32 PM)
+[2018.02.04-03.33.32:409][600]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.33.32:467][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057645s)
+[2018.02.04-03.33.32:468][600]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.33.32:468][600]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2018.02.04-03.33.32:469][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.059101s)
+[2018.02.04-03.33.32:506][600]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.33.32:515][600]LogInit: FAudioDevice initialized.
+[2018.02.04-03.33.32:548][600]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.33.32:563][600]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.33.32
+[2018.02.04-03.33.32:564][600]LogWorld: Bringing up level for play took: 0.015222
+[2018.02.04-03.33.32:568][600]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.441
+[2018.02.04-03.34.14:005][478]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.34.15:334][555]LogSavePackage: Save=39.85ms
+[2018.02.04-03.34.15:334][555]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectileD608A4434CBE0FAE189E8AB50D13E5C7.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.34.15:337][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.34.17:213][767]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.34.17:245][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.34.17:245][767]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.34.17:269][767]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:34:17 PM)
+[2018.02.04-03.34.17:269][767]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.34.17:329][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059644s)
+[2018.02.04-03.34.17:330][767]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.34.17:330][767]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2018.02.04-03.34.17:331][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.061161s)
+[2018.02.04-03.34.17:368][767]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.34.17:375][767]LogInit: FAudioDevice initialized.
+[2018.02.04-03.34.17:409][767]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.34.17:422][767]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.34.17
+[2018.02.04-03.34.17:423][767]LogWorld: Bringing up level for play took: 0.013487
+[2018.02.04-03.34.17:426][767]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.416
+[2018.02.04-03.34.23:870][492]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.552 Y=29.270 Z=287.007] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.24:048][512]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=365.389 Y=19.134 Z=286.929] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.29:481][117]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-304.449 Y=-130.411 Z=340.662] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.29:697][141]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-292.061 Y=-139.267 Z=346.109] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.29:893][163]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-297.015 Y=-135.975 Z=352.967] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.30:104][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-322.998 Y=-115.218 Z=344.009] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.30:488][230]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-310.037 Y=-126.363 Z=325.967] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.30:673][251]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-310.955 Y=-125.629 Z=326.427] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.30:805][266]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-314.799 Y=-122.467 Z=327.435] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.30:954][283]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-315.564 Y=-121.820 Z=330.381] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.31:120][302]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-319.745 Y=-118.180 Z=333.346] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.31:282][320]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-331.200 Y=-107.200 Z=330.005] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.31:423][336]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-331.975 Y=-106.399 Z=329.451] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.31:583][354]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-331.327 Y=-107.069 Z=329.603] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.31:754][373]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-328.928 Y=-109.504 Z=329.719] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.31:914][391]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-330.215 Y=-108.207 Z=329.991] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.32:061][407]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-330.544 Y=-107.872 Z=330.786] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.32:225][425]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-331.313 Y=-107.083 Z=332.283] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.32:380][442]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-331.594 Y=-106.794 Z=332.113] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.32:538][460]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-331.580 Y=-106.808 Z=331.457] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.32:702][478]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-332.974 Y=-105.354 Z=331.511] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.33:575][574]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-271.869 Y=-20.675 Z=147.033] for [FirstPersonProjectile_C]
+[2018.02.04-03.34.33:806][600]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-270.239 Y=-33.132 Z=148.481] for [FirstPersonProjectile_C]
+[2018.02.04-03.36.50:671][ 64]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.36.52:032][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.36.52:082][137]LogSavePackage: Save=40.79ms
+[2018.02.04-03.36.52:082][137]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyA3AF810E4F07F6EA02B33EAE5A6E01A8.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.36.52:085][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.36.53:790][334]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.36.53:831][334]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.04-03.36.53:837][334]LogPlayLevel: [PlayLevel] Compiling FirstPersonProjectile before play...
+[2018.02.04-03.36.54:219][334]LogPlayLevel: PlayLevel: Blueprint regeneration took 388 ms (1 blueprints)
+[2018.02.04-03.36.54:219][334]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.36.54:245][334]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:36:54 PM)
+[2018.02.04-03.36.54:245][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.36.54:305][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060372s)
+[2018.02.04-03.36.54:306][334]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.36.54:307][334]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2018.02.04-03.36.54:307][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.062289s)
+[2018.02.04-03.36.54:347][334]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.36.54:354][334]LogInit: FAudioDevice initialized.
+[2018.02.04-03.36.54:391][334]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.36.54:408][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.36.54
+[2018.02.04-03.36.54:409][334]LogWorld: Bringing up level for play took: 0.016774
+[2018.02.04-03.36.54:413][334]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 1.404
+[2018.02.04-03.37.31:473][664]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.04-03.37.58:148][938]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.37.58:176][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.37.58:177][938]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.37.58:202][938]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:37:58 PM)
+[2018.02.04-03.37.58:202][938]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.37.58:261][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059711s)
+[2018.02.04-03.37.58:263][938]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.37.58:263][938]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2018.02.04-03.37.58:263][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.061657s)
+[2018.02.04-03.37.58:304][938]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.37.58:311][938]LogInit: FAudioDevice initialized.
+[2018.02.04-03.37.58:342][938]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.37.58:356][938]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.37.58
+[2018.02.04-03.37.58:357][938]LogWorld: Bringing up level for play took: 0.014040
+[2018.02.04-03.37.58:361][938]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.648
+[2018.02.04-03.38.03:090][472]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.04-03.38.05:792][697]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.38.05:821][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.38.05:821][697]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.38.05:844][697]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:38:05 PM)
+[2018.02.04-03.38.05:844][697]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.38.05:898][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054033s)
+[2018.02.04-03.38.05:899][697]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.38.05:899][697]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2018.02.04-03.38.05:900][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.055990s)
+[2018.02.04-03.38.05:937][697]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.38.05:944][697]LogInit: FAudioDevice initialized.
+[2018.02.04-03.38.05:980][697]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.38.05:994][697]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.38.05
+[2018.02.04-03.38.06:009][697]LogWorld: Bringing up level for play took: 0.028934
+[2018.02.04-03.38.06:013][697]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 1.004
+[2018.02.04-03.38.17:223][978]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.02.04-03.38.17:884][ 42]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.04-03.38.30:959][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cherry_Tree217)
+[2018.02.04-03.39.35:313][343]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.02.04-03.39.35:313][343]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.02.04-03.39.35:313][343]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.02.04-03.39.44:060][388]LogEditorTransaction: Undo Set Scale
+[2018.02.04-03.39.44:063][388]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.Arrow) Component already registered.
+[2018.02.04-03.39.44:063][388]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.CharMoveComp) Component already registered.
+[2018.02.04-03.39.44:063][388]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.CharacterMesh0) Component already registered.
+[2018.02.04-03.39.44:064][388]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_57:PersistentLevel.Enemy_C_2.Arrow) Component already registered.
+[2018.02.04-03.39.44:064][388]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_57:PersistentLevel.Enemy_C_2.CharMoveComp) Component already registered.
+[2018.02.04-03.39.44:064][388]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_57:PersistentLevel.Enemy_C_2.CharacterMesh0) Component already registered.
+[2018.02.04-03.40.16:368][139]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.40.17:595][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.40.17:673][195]LogSavePackage: Save=74.44ms
+[2018.02.04-03.40.17:673][195]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyA55816714173502270DF61B4C356FC29.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.40.17:678][195]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.40.36:567][408]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.40.37:785][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.40.37:829][446]LogSavePackage: Save=39.96ms
+[2018.02.04-03.40.37:829][446]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyE51BD57B41381F1458E6A3BE9DDED164.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.40.37:833][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.40.39:437][617]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.40.39:470][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.40.39:470][617]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.40.39:494][617]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:40:39 PM)
+[2018.02.04-03.40.39:494][617]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.40.39:552][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057407s)
+[2018.02.04-03.40.39:553][617]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.40.39:553][617]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2018.02.04-03.40.39:554][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.059401s)
+[2018.02.04-03.40.39:597][617]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.40.39:603][617]LogInit: FAudioDevice initialized.
+[2018.02.04-03.40.39:638][617]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.40.39:654][617]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.40.39
+[2018.02.04-03.40.39:654][617]LogWorld: Bringing up level for play took: 0.015095
+[2018.02.04-03.40.39:658][617]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.648
+[2018.02.04-03.41.44:899][186]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.41.46:175][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.41.46:220][219]LogSavePackage: Save=41.31ms
+[2018.02.04-03.41.46:220][219]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy69D14CB548400AEF218B08A68D154D07.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.41.46:224][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.41.48:280][460]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.41.48:312][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.41.48:312][460]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.41.48:336][460]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:41:48 PM)
+[2018.02.04-03.41.48:336][460]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.41.48:395][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059557s)
+[2018.02.04-03.41.48:396][460]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.41.48:397][460]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2018.02.04-03.41.48:397][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.061398s)
+[2018.02.04-03.41.48:437][460]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.41.48:446][460]LogInit: FAudioDevice initialized.
+[2018.02.04-03.41.48:477][460]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.41.48:491][460]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.41.48
+[2018.02.04-03.41.48:492][460]LogWorld: Bringing up level for play took: 0.014298
+[2018.02.04-03.41.48:495][460]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.514
+[2018.02.04-03.42.13:846][385]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-03.42.13:846][385]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-03.42.13:846][385]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-03.42.15:711][603]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.42.18:757][895]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.42.18:789][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.42.18:789][895]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.42.18:812][895]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:42:18 PM)
+[2018.02.04-03.42.18:813][895]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.42.18:868][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055873s)
+[2018.02.04-03.42.18:869][895]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.42.18:870][895]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2018.02.04-03.42.18:870][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.058005s)
+[2018.02.04-03.42.18:910][895]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.42.18:917][895]LogInit: FAudioDevice initialized.
+[2018.02.04-03.42.18:951][895]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.42.18:965][895]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.42.18
+[2018.02.04-03.42.18:966][895]LogWorld: Bringing up level for play took: 0.013840
+[2018.02.04-03.42.18:969][895]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.041
+[2018.02.04-03.42.31:756][355]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.42.32:932][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.42.32:982][401]LogSavePackage: Save=40.24ms
+[2018.02.04-03.42.32:982][401]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy18D484B947D041BC92444880E2518827.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.42.32:985][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.42.35:708][718]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.04-03.42.46:942][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.04-03.42.48:187][687]LogSavePackage: Save=1203.51ms
+[2018.02.04-03.42.48:187][687]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One3508FE0846573CA136029093788CFB77.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.04-03.42.48:192][687]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.04-03.42.48:398][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.04-03.42.51:242][687]LogSavePackage: Save=2760.00ms
+[2018.02.04-03.42.51:242][687]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_BuiltData13DF320140D424B83B92E7892F1B72D6.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.04-03.42.51:253][687]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
+[2018.02.04-03.43.25:269][911]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.04-03.43.26:511][  1]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.04-03.43.29:032][266]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.04-03.43.38:443][199]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.04-03.43.47:062][934]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2018.02.04-03.43.49:001][ 81]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.02.04-03.43.56:061][809]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.02.04-03.43.58:091][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.04-03.43.59:332][989]LogSavePackage: Save=1205.41ms
+[2018.02.04-03.43.59:332][989]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One007DB48A4180E839CA98978F6699D036.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.04-03.43.59:336][989]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.04-03.43.59:560][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.04-03.44.02:318][989]LogSavePackage: Save=2754.20ms
+[2018.02.04-03.44.02:318][989]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_BuiltData53C4C42F4150772A701C418900C6E70A.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.04-03.44.02:330][989]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
+[2018.02.04-03.44.03:980][112]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-03.44.04:071][112]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-03.44.04:090][112]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-03.44.04:133][112]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.04-03.44.06:959][432]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.02.04-03.44.06:959][432]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.02.04-03.44.06:959][432]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.04-03.44.06:959][432]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.04-03.44.16:233][540]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-03.44.16:258][540]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.04-03.44.18:529][804]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-03.44.18:555][804]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.04-03.44.21:133][104]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.02.04-03.44.21:133][104]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.02.04-03.44.21:133][104]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.04-03.44.21:133][104]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.04-03.44.23:620][402]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-03.44.23:640][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.04-03.44.25:975][675]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.02.04-03.44.25:975][675]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.02.04-03.44.25:975][675]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.04-03.44.25:975][675]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.04-03.44.28:805][ 13]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-03.44.28:827][ 13]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.04-03.44.31:146][282]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.02.04-03.44.31:146][282]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.02.04-03.44.31:146][282]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.04-03.44.31:146][282]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.04-03.44.54:949][113]LogMaterialEditor: Applying material bullet
+[2018.02.04-03.44.55:607][113]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-03.44.55:661][113]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-03.44.55:700][113]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-03.44.55:762][113]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy bullet, compiling. 
+[2018.02.04-03.44.57:079][113]TextureStreamingBuild: Display: Compiling optional shaders took 1.322 seconds.
+[2018.02.04-03.44.57:618][170]LogMaterialEditor: Saving and Compiling material bullet
+[2018.02.04-03.44.59:513][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/bullet" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/bullet.uasset" SILENT=true
+[2018.02.04-03.44.59:540][170]LogSavePackage: Save=19.36ms
+[2018.02.04-03.44.59:540][170]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/bullet93970B0749CB75B9053AD7820557EF5E.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/bullet.uasset'
+[2018.02.04-03.44.59:543][170]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/bullet.uasset
+[2018.02.04-03.44.59:551][170]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.02.04-03.44.59:551][170]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.02.04-03.44.59:551][170]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.04-03.44.59:551][170]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.04-03.45.07:783][112]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.45.07:816][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.45.07:816][112]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.45.07:840][112]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:45:07 PM)
+[2018.02.04-03.45.07:840][112]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.45.07:898][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057336s)
+[2018.02.04-03.45.07:899][112]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.45.07:899][112]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2018.02.04-03.45.07:899][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.059219s)
+[2018.02.04-03.45.07:938][112]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.45.07:945][112]LogInit: FAudioDevice initialized.
+[2018.02.04-03.45.07:979][112]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.45.07:995][112]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.45.07
+[2018.02.04-03.45.07:996][112]LogWorld: Bringing up level for play took: 0.015734
+[2018.02.04-03.45.07:999][112]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.99
+[2018.02.04-03.45.58:594][754]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.45.59:778][796]LogSavePackage: Save=35.66ms
+[2018.02.04-03.45.59:778][796]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile12BB315E43D2B4F7B18D1D8FCDF985C4.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.45.59:782][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.46.01:103][949]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.46.01:129][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.46.01:130][949]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.46.01:153][949]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:46:01 PM)
+[2018.02.04-03.46.01:154][949]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.46.01:210][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056197s)
+[2018.02.04-03.46.01:211][949]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.46.01:211][949]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2018.02.04-03.46.01:211][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.058124s)
+[2018.02.04-03.46.01:252][949]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.46.01:259][949]LogInit: FAudioDevice initialized.
+[2018.02.04-03.46.01:291][949]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.46.01:306][949]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.46.01
+[2018.02.04-03.46.01:307][949]LogWorld: Bringing up level for play took: 0.015248
+[2018.02.04-03.46.01:311][949]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.301
+[2018.02.04-03.47.42:216][344]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.47.43:304][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.47.43:354][380]LogSavePackage: Save=41.03ms
+[2018.02.04-03.47.43:354][380]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy395272F24F0EC0967EC91683B117DD88.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.47.43:357][380]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.47.45:265][598]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.47.45:298][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.47.45:299][598]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.47.45:324][598]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:47:45 PM)
+[2018.02.04-03.47.45:324][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.47.45:390][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065825s)
+[2018.02.04-03.47.45:391][598]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.47.45:391][598]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2018.02.04-03.47.45:392][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.067712s)
+[2018.02.04-03.47.45:430][598]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.47.45:438][598]LogInit: FAudioDevice initialized.
+[2018.02.04-03.47.45:471][598]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.47.45:485][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.47.45
+[2018.02.04-03.47.45:486][598]LogWorld: Bringing up level for play took: 0.014246
+[2018.02.04-03.47.45:490][598]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.481
+[2018.02.04-03.47.57:902][990]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2567.624 Y=434.194 Z=275.977] for [FirstPersonProjectile_C]
+[2018.02.04-03.47.58:350][ 39]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2583.898 Y=392.710 Z=285.207] for [FirstPersonProjectile_C]
+[2018.02.04-03.47.58:798][ 88]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2531.809 Y=306.081 Z=281.429] for [FirstPersonProjectile_C]
+[2018.02.04-03.47.59:038][115]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2540.639 Y=311.899 Z=282.269] for [FirstPersonProjectile_C]
+[2018.02.04-03.48.00:249][248]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2549.462 Y=319.156 Z=299.261] for [FirstPersonProjectile_C]
+[2018.02.04-03.48.26:826][344]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.48.27:947][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.48.27:992][384]LogSavePackage: Save=40.96ms
+[2018.02.04-03.48.27:992][384]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyFABE50ED473EE612FB65BDA2AFFEDAB9.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.48.27:996][384]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.48.32:347][883]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.48.32:381][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.48.32:381][883]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.48.32:405][883]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:48:32 PM)
+[2018.02.04-03.48.32:405][883]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.48.32:463][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058117s)
+[2018.02.04-03.48.32:464][883]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.48.32:465][883]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2018.02.04-03.48.32:465][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060047s)
+[2018.02.04-03.48.32:508][883]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.48.32:514][883]LogInit: FAudioDevice initialized.
+[2018.02.04-03.48.32:550][883]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.48.32:564][883]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.48.32
+[2018.02.04-03.48.32:565][883]LogWorld: Bringing up level for play took: 0.013846
+[2018.02.04-03.48.32:569][883]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.441
+[2018.02.04-03.49.11:077][321]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-03.49.11:077][321]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-03.49.11:077][321]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-03.49.11:077][321]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-03.49.13:919][649]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.49.14:913][680]LogSavePackage: Save=37.11ms
+[2018.02.04-03.49.14:913][680]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile77E89B7549A704B0A91210B4A4CAF983.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.49.14:916][680]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.49.16:310][840]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.49.16:338][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.49.16:338][840]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.49.16:362][840]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:49:16 PM)
+[2018.02.04-03.49.16:362][840]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.49.16:420][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058396s)
+[2018.02.04-03.49.16:421][840]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.49.16:421][840]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2018.02.04-03.49.16:422][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060110s)
+[2018.02.04-03.49.16:461][840]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.49.16:471][840]LogInit: FAudioDevice initialized.
+[2018.02.04-03.49.16:505][840]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.49.16:518][840]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.49.16
+[2018.02.04-03.49.16:518][840]LogWorld: Bringing up level for play took: 0.013019
+[2018.02.04-03.49.16:522][840]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.487
+[2018.02.04-03.50.16:670][681]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.50.17:761][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.50.17:806][721]LogSavePackage: Save=42.29ms
+[2018.02.04-03.50.17:806][721]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy6CD523004DDA119B8493B0A6F09CBFEB.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.50.17:810][721]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.50.19:907][966]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.50.19:949][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.50.19:949][966]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.50.19:974][966]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:50:19 PM)
+[2018.02.04-03.50.19:974][966]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.50.20:033][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058898s)
+[2018.02.04-03.50.20:034][966]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.50.20:034][966]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2018.02.04-03.50.20:034][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060359s)
+[2018.02.04-03.50.20:073][966]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.50.20:080][966]LogInit: FAudioDevice initialized.
+[2018.02.04-03.50.20:114][966]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.50.20:130][966]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.50.20
+[2018.02.04-03.50.20:131][966]LogWorld: Bringing up level for play took: 0.015611
+[2018.02.04-03.50.20:135][966]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 1.125
+[2018.02.04-03.51.31:073][302]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.51.32:043][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.51.32:088][322]LogSavePackage: Save=41.28ms
+[2018.02.04-03.51.32:088][322]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy2636769C42BB5847AF1FFAA66CD7FB0A.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.51.32:092][322]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.54.24:410][924]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_DestroyActor' [The specified module could not be found.]
+[2018.02.04-03.54.32:124][845]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.54.33:360][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.54.33:409][884]LogSavePackage: Save=40.12ms
+[2018.02.04-03.54.33:409][884]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy8A7F829644F502D3006200B569D6A573.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.54.33:414][884]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.57.29:341][653]LogSavePackage: Save=1231.03ms
+[2018.02.04-03.57.29:341][653]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_Auto472B15200427C8E96CA61F89DA7FE5EED.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto4.umap'
+[2018.02.04-03.57.29:344][653]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto4.umap
+[2018.02.04-03.57.29:347][653]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 1.287
+[2018.02.04-03.57.29:347][653]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.287
+[2018.02.04-03.57.58:715][113]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.57.59:847][169]LogSavePackage: Save=36.09ms
+[2018.02.04-03.57.59:847][169]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile3BF39287440F17411661FF94AEB7EB6C.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.57.59:851][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.58.01:546][362]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.58.01:589][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.58.01:589][362]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.58.01:613][362]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:58:01 PM)
+[2018.02.04-03.58.01:613][362]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.58.01:672][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058724s)
+[2018.02.04-03.58.01:673][362]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.58.01:674][362]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2018.02.04-03.58.01:674][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060385s)
+[2018.02.04-03.58.01:713][362]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.58.01:721][362]LogInit: FAudioDevice initialized.
+[2018.02.04-03.58.01:756][362]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.58.01:770][362]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.58.01
+[2018.02.04-03.58.01:771][362]LogWorld: Bringing up level for play took: 0.015159
+[2018.02.04-03.58.01:775][362]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.765
+[2018.02.04-03.58.23:455][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.04-03.58.24:720][771]LogSavePackage: Save=1233.60ms
+[2018.02.04-03.58.24:720][771]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One513C606A4431D1A78B09E787DE888A21.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.04-03.58.24:725][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.04-03.58.24:959][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.04-03.58.27:809][771]LogSavePackage: Save=2760.70ms
+[2018.02.04-03.58.27:810][771]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_BuiltData3D2EED314B2C2B62D82C548026B9EB08.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.04-03.58.27:821][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
+[2018.02.04-03.58.32:839][310]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.04-03.58.39:385][310]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.04-03.58.40:095][310]SourceControl: [master 33dc816] sd
+[2018.02.04-03.58.40:095][310]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2018.02.04-03.58.40:095][310]SourceControl:  rewrite Game1/Content/Blueprints/Enemy.uasset (94%)
+[2018.02.04-03.58.40:095][310]SourceControl:  rewrite Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset (81%)
+[2018.02.04-03.58.40:095][310]SourceControl:  rewrite Game1/Content/FirstPersonBP/Blueprints/bullet.uasset (96%)
+[2018.02.04-03.58.40:103][310]SourceControl: Commited [master 33dc816] sd.
