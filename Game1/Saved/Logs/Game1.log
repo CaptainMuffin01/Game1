@@ -376,3 +376,17 @@ LogInit: Object subsystem initialized
 [2018.02.04-03.13.57:437][425]LogWorld: Bringing up level for play took: 0.012724
 [2018.02.04-03.13.57:480][425]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
 [2018.02.04-03.13.57:503][425]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 1.925
+[2018.02.04-03.17.07:785][960]SourceControl: On branch master
+[2018.02.04-03.17.07:785][960]SourceControl: Your branch and 'origin/master' have diverged,
+[2018.02.04-03.17.07:785][960]SourceControl: and have 2 and 4 different commits each, respectively.
+[2018.02.04-03.17.07:785][960]SourceControl:   (use "git pull" to merge the remote branch into yours)
+[2018.02.04-03.17.07:785][960]SourceControl: nothing to commit, working tree clean
+[2018.02.04-03.17.11:158][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.04-03.17.12:280][337]LogSavePackage: Save=1093.57ms
+[2018.02.04-03.17.12:280][337]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Level_One33EABB04444BE9433D1E6A9EE3742B46.tmp' to 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.04-03.17.12:284][337]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.04-03.17.15:114][658]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.02.04-03.17.20:021][658]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.04-03.17.20:118][658]SourceControl: [master c177db6] .
+[2018.02.04-03.17.20:118][658]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.04-03.17.20:133][658]SourceControl: Commited [master c177db6] ..
