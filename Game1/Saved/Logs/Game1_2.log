@@ -17223,3 +17223,966 @@ Script call stack:
 [2018.02.04-03.58.40:095][310]SourceControl:  rewrite Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset (81%)
 [2018.02.04-03.58.40:095][310]SourceControl:  rewrite Game1/Content/FirstPersonBP/Blueprints/bullet.uasset (96%)
 [2018.02.04-03.58.40:103][310]SourceControl: Commited [master 33dc816] sd.
+[2018.02.04-03.59.54:189][855]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.04-04.00.08:260][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.00.08:289][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.00.08:289][ 30]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.00.08:314][ 30]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:00:08 PM)
+[2018.02.04-04.00.08:314][ 30]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.00.08:374][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059573s)
+[2018.02.04-04.00.08:375][ 30]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.00.08:375][ 30]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2018.02.04-04.00.08:376][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.061599s)
+[2018.02.04-04.00.08:421][ 30]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.00.08:428][ 30]LogInit: FAudioDevice initialized.
+[2018.02.04-04.00.08:463][ 30]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.00.08:477][ 30]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.00.08
+[2018.02.04-04.00.08:477][ 30]LogWorld: Bringing up level for play took: 0.013828
+[2018.02.04-04.00.08:481][ 30]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.528
+[2018.02.04-04.01.56:280][705]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-04.02.06:489][665]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.02.06:519][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.02.06:519][665]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.02.06:545][665]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:02:06 PM)
+[2018.02.04-04.02.06:545][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.02.06:605][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059118s)
+[2018.02.04-04.02.06:606][665]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.02.06:606][665]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2018.02.04-04.02.06:606][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060572s)
+[2018.02.04-04.02.06:645][665]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.02.06:652][665]LogInit: FAudioDevice initialized.
+[2018.02.04-04.02.06:684][665]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.02.06:699][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.02.06
+[2018.02.04-04.02.06:700][665]LogWorld: Bringing up level for play took: 0.015047
+[2018.02.04-04.02.06:705][665]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.305
+[2018.02.04-04.02.23:010][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.02.23:039][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.02.23:039][ 38]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.02.23:063][ 38]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:02:23 PM)
+[2018.02.04-04.02.23:063][ 38]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.02.23:120][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056662s)
+[2018.02.04-04.02.23:121][ 38]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.02.23:121][ 38]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2018.02.04-04.02.23:121][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.058189s)
+[2018.02.04-04.02.23:162][ 38]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.02.23:169][ 38]LogInit: FAudioDevice initialized.
+[2018.02.04-04.02.23:205][ 38]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.02.23:220][ 38]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.02.23
+[2018.02.04-04.02.23:221][ 38]LogWorld: Bringing up level for play took: 0.014793
+[2018.02.04-04.02.23:224][ 38]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.215
+[2018.02.04-04.03.33:303][ 44]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-04.03.34:380][ 66]LogSavePackage: Save=36.75ms
+[2018.02.04-04.03.34:381][ 66]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile24DC993D48A1B05D8ADECB9F504AEB91.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-04.03.34:385][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-04.04.47:523][725]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-04.04.48:662][754]LogSavePackage: Save=37.90ms
+[2018.02.04-04.04.48:662][754]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile85C8FBBC462E1587971D9695B5FAC2D3.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-04.04.48:666][754]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-04.05.10:292][452]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.05.10:320][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.05.10:320][452]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.05.10:345][452]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:05:10 PM)
+[2018.02.04-04.05.10:345][452]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.05.10:403][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058073s)
+[2018.02.04-04.05.10:404][452]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.05.10:405][452]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2018.02.04-04.05.10:405][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.059902s)
+[2018.02.04-04.05.10:444][452]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.05.10:451][452]LogInit: FAudioDevice initialized.
+[2018.02.04-04.05.10:488][452]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.05.10:501][452]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.05.10
+[2018.02.04-04.05.10:502][452]LogWorld: Bringing up level for play took: 0.014172
+[2018.02.04-04.05.10:505][452]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.504
+[2018.02.04-04.05.52:107][542]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.04-04.08.46:446][737]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.08.47:927][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-04.08.47:978][783]LogSavePackage: Save=41.50ms
+[2018.02.04-04.08.47:979][783]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy80E57E1F40FAB052AFCFA4BE3D935B50.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-04.08.47:983][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.08.50:989][131]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.08.51:033][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.08.51:034][131]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.08.51:058][131]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:08:51 PM)
+[2018.02.04-04.08.51:058][131]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.08.51:118][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059773s)
+[2018.02.04-04.08.51:119][131]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.08.51:119][131]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2018.02.04-04.08.51:120][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.061454s)
+[2018.02.04-04.08.51:159][131]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.08.51:168][131]LogInit: FAudioDevice initialized.
+[2018.02.04-04.08.51:202][131]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.08.51:218][131]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.08.51
+[2018.02.04-04.08.51:219][131]LogWorld: Bringing up level for play took: 0.015411
+[2018.02.04-04.08.51:222][131]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.213
+[2018.02.04-04.11.39:259][702]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.11.40:623][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-04.11.40:668][740]LogSavePackage: Save=41.70ms
+[2018.02.04-04.11.40:668][740]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy6582D4D447EE4D5C6E7611BC2CF2786D.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-04.11.40:673][740]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.11.42:802][989]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.11.42:844][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.11.42:844][989]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.11.42:869][989]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:11:42 PM)
+[2018.02.04-04.11.42:869][989]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.11.42:928][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059577s)
+[2018.02.04-04.11.42:929][989]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.11.42:930][989]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2018.02.04-04.11.42:930][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.061724s)
+[2018.02.04-04.11.42:969][989]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.11.42:977][989]LogInit: FAudioDevice initialized.
+[2018.02.04-04.11.43:012][989]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.11.43:027][989]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.11.43
+[2018.02.04-04.11.43:028][989]LogWorld: Bringing up level for play took: 0.015143
+[2018.02.04-04.11.43:032][989]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.023
+[2018.02.04-04.12.43:176][122]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::Delay' [Element not found.]
+[2018.02.04-04.13.17:126][ 26]LogSavePackage: Save=1247.02ms
+[2018.02.04-04.13.17:126][ 26]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_Auto5C655EDEA484C2F1E6F96FD9EB4F10B79.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto5.umap'
+[2018.02.04-04.13.17:129][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto5.umap
+[2018.02.04-04.13.17:132][ 26]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 1.300
+[2018.02.04-04.13.17:132][ 26]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.300
+[2018.02.04-04.15.13:164][802]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.15.14:751][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-04.15.14:802][857]LogSavePackage: Save=41.97ms
+[2018.02.04-04.15.14:802][857]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy6E11B7D34ACA3425CFEFD8BB7A0352F6.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-04.15.14:806][857]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.15.16:252][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.15.16:292][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.15.16:292][ 26]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.15.16:318][ 26]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:15:16 PM)
+[2018.02.04-04.15.16:318][ 26]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.15.16:379][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060649s)
+[2018.02.04-04.15.16:380][ 26]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.15.16:380][ 26]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2018.02.04-04.15.16:380][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.062399s)
+[2018.02.04-04.15.16:418][ 26]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.15.16:425][ 26]LogInit: FAudioDevice initialized.
+[2018.02.04-04.15.16:456][ 26]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.15.16:473][ 26]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.15.16
+[2018.02.04-04.15.16:475][ 26]LogWorld: Bringing up level for play took: 0.017168
+[2018.02.04-04.15.16:479][ 26]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.531
+[2018.02.04-04.20.22:925][319]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.22:927][319]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3036' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.22:947][320]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3038' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.22:966][321]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3040' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.22:968][321]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3042' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.22:988][322]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3044' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:006][323]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3046' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:025][324]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3048' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:042][325]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3050' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:044][325]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3052' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:062][326]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3054' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:081][327]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3056' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:099][328]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3058' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:119][329]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3060' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:138][330]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3062' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:156][331]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3064' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:176][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3066' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:195][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3068' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:214][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3070' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:233][335]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3072' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:252][336]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3074' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:270][337]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3076' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:288][338]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3078' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:307][339]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3080' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:325][340]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3082' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:343][341]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3084' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:362][342]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3086' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:381][343]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3088' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:400][344]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3090' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:419][345]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3092' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:438][346]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3094' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:456][347]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3096' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:475][348]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3098' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:494][349]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:513][350]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:531][351]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3104' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:550][352]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:570][353]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:588][354]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:607][355]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:626][356]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3114' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:645][357]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3116' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:664][358]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3118' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:688][359]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3120' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:708][360]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3122' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:727][361]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3124' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:746][362]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3126' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:765][363]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3128' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:786][364]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3130' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:806][365]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3132' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:826][366]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3134' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:845][367]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3136' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:864][368]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3138' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:884][369]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3140' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:902][370]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3142' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:921][371]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3144' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:939][372]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.23:957][373]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3148' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.27:829][554]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.27:830][554]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3152' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.27:833][554]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3154' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.27:853][555]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3156' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.27:872][556]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3158' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.27:890][557]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3160' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.27:909][558]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3162' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.27:927][559]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3164' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.27:946][560]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3166' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.27:964][561]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3168' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.27:983][562]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3170' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:002][563]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3172' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:021][564]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3174' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:040][565]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3176' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:059][566]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3178' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:077][567]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3180' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:096][568]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3182' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:115][569]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3184' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:134][570]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3186' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:153][571]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3188' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:173][572]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3190' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:192][573]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3192' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:210][574]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3194' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:229][575]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3196' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:247][576]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3198' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:266][577]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3200' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:284][578]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3202' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:303][579]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3204' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:323][580]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3206' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:342][581]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3208' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:359][582]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3210' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:379][583]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3212' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.28:397][584]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3214' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:330][665]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:332][665]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3218' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:335][665]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3220' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:354][666]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3222' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:357][666]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3224' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:377][667]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3226' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:395][668]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3228' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:414][669]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3230' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:433][670]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3232' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:453][671]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3234' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:472][672]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3236' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:490][673]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3238' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:510][674]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3240' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:528][675]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3242' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:548][676]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3244' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:567][677]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3246' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:586][678]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3248' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:605][679]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3250' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:624][680]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3252' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:644][681]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3254' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:662][682]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3256' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:681][683]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3258' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:700][684]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3260' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:719][685]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3262' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:737][686]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3264' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:739][686]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3266' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:741][686]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3268' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:760][687]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3270' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:781][688]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3272' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:800][689]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3274' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.20.30:819][690]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.ProgressBar_3276' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.04-04.22.08:360][ 96]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.04-04.22.08:552][ 96]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.04-04.22.08:759][ 96]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.04-04.22.12:449][ 96]SourceControl: rm 'Game1/Content/Blueprints/idamagable.uasset'
+[2018.02.04-04.22.12:594][ 96]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.140 s
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: 
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: Ensure condition failed: InterfaceClass [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\AssetRegistry\Private\AssetRegistry.cpp] [Line: 2353]
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: Invalid inteface class (index 0) detected on 'Enemy_C' - possibly deleted?
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: Stack: 
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x000000006D502786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x000000006D2A123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x000000006D2BB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x000000007C4C9604 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x0000000054B8C526 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x0000000054CC7AF5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x0000000054CC58C6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x0000000055574AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x00000000BBC65A26 UE4Editor.exe!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x00000000BBC75430 UE4Editor.exe!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x00000000BBC754AA UE4Editor.exe!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x00000000BBC82379 UE4Editor.exe!UnknownFunction []
+[2018.02.04-04.22.12:602][ 96]LogOutputDevice: Error: [Callstack] 0x00000000BBC83D57 UE4Editor.exe!UnknownFunction []
+[2018.02.04-04.22.12:603][ 96]LogOutputDevice: Error: [Callstack] 0x00000000A2B41FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.04-04.22.12:603][ 96]LogOutputDevice: Error: [Callstack] 0x00000000A52EEFB1 ntdll.dll!UnknownFunction []
+[2018.02.04-04.22.12:603][ 96]LogOutputDevice: Error: 
+[2018.02.04-04.22.12:611][ 96]LogStats:                SubmitErrorReport -  0.000 s
+[2018.02.04-04.22.16:860][ 96]LogStats:                    SendNewReport -  4.248 s
+[2018.02.04-04.22.16:860][ 96]LogStats:             FDebug::EnsureFailed -  4.406 s
+[2018.02.04-04.25.29:986][428]LogEditorTransaction: Undo Remove Local Variable
+[2018.02.04-04.27.58:993][965]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.28.10:847][218]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.28.12:124][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-04.28.12:175][254]LogSavePackage: Save=41.80ms
+[2018.02.04-04.28.12:175][254]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyB4B0A46C4830B1E29626D38D737459B7.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-04.28.12:180][254]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.29.00:784][ 34]BlueprintLog: New page: Compile HealthBar
+[2018.02.04-04.29.01:730][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HealthBar" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/HealthBar.uasset" SILENT=true
+[2018.02.04-04.29.01:758][114]LogSavePackage: Save=26.32ms
+[2018.02.04-04.29.01:758][114]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/HealthBar7457BFB04C0F3D4E632A0ABAC35087D9.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/HealthBar.uasset'
+[2018.02.04-04.29.01:761][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/HealthBar.uasset
+[2018.02.04-04.29.06:739][659]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.29.06:786][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.29.06:786][659]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.29.06:811][659]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:29:06 PM)
+[2018.02.04-04.29.06:812][659]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.29.06:872][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060340s)
+[2018.02.04-04.29.06:874][659]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.29.06:874][659]LogPlayLevel: PIE: World Init took: (0.002309s)
+[2018.02.04-04.29.06:875][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.063330s)
+[2018.02.04-04.29.06:913][659]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.29.06:921][659]LogInit: FAudioDevice initialized.
+[2018.02.04-04.29.06:956][659]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.29.06:969][659]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.29.06
+[2018.02.04-04.29.06:970][659]LogWorld: Bringing up level for play took: 0.013871
+[2018.02.04-04.29.06:974][659]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.035
+[2018.02.04-04.30.10:228][110]LogSavePackage: Save=28.34ms
+[2018.02.04-04.30.10:228][110]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/HeathBar8EE6306143129F1580B937B50F3BA81B.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset'
+[2018.02.04-04.30.10:230][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset
+[2018.02.04-04.30.13:927][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HealthBar" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/HealthBar.uasset" SILENT=true
+[2018.02.04-04.30.13:962][513]LogSavePackage: Save=26.10ms
+[2018.02.04-04.30.13:962][513]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/HealthBar6BB0628147E8978A8505F49C9CFC36F2.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/HealthBar.uasset'
+[2018.02.04-04.30.13:964][513]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/HealthBar.uasset
+[2018.02.04-04.30.18:717][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-04.30.18:752][ 43]LogSavePackage: Save=31.12ms
+[2018.02.04-04.30.18:752][ 43]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy194787D84C965E2272BA3C82C00AB7EA.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-04.30.18:753][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.31.11:954][314]BlueprintLog: New page: Compile HealthBar
+[2018.02.04-04.31.13:468][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HealthBar" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/HealthBar.uasset" SILENT=true
+[2018.02.04-04.31.13:499][436]LogSavePackage: Save=27.85ms
+[2018.02.04-04.31.13:499][436]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/HealthBar0B495A3341D075989D57E9BB69AD56DA.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/HealthBar.uasset'
+[2018.02.04-04.31.13:503][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/HealthBar.uasset
+[2018.02.04-04.31.17:734][935]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.31.17:764][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.31.17:765][935]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.31.17:788][935]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:31:17 PM)
+[2018.02.04-04.31.17:789][935]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.31.17:848][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059400s)
+[2018.02.04-04.31.17:849][935]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.31.17:849][935]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2018.02.04-04.31.17:850][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.061196s)
+[2018.02.04-04.31.17:887][935]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.31.17:894][935]LogInit: FAudioDevice initialized.
+[2018.02.04-04.31.17:930][935]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.31.17:945][935]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.31.17
+[2018.02.04-04.31.17:947][935]LogWorld: Bringing up level for play took: 0.015676
+[2018.02.04-04.31.17:951][935]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.941
+[2018.02.04-04.33.03:308][418]BlueprintLog: New page: Compile HealthBar
+[2018.02.04-04.33.34:348][965]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.33.37:665][262]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.33.37:697][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.33.37:698][262]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.33.37:721][262]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:33:37 PM)
+[2018.02.04-04.33.37:721][262]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.33.37:783][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061698s)
+[2018.02.04-04.33.37:784][262]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.33.37:784][262]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2018.02.04-04.33.37:785][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.063521s)
+[2018.02.04-04.33.37:822][262]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.33.37:829][262]LogInit: FAudioDevice initialized.
+[2018.02.04-04.33.37:864][262]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.33.37:880][262]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.33.37
+[2018.02.04-04.33.37:881][262]LogWorld: Bringing up level for play took: 0.016162
+[2018.02.04-04.33.37:885][262]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.876
+[2018.02.04-04.34.31:251][388]LogSavePackage: Save=1223.84ms
+[2018.02.04-04.34.31:251][388]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_Auto6D498D16C4A9A2A38C3F798B0888C39B6.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto6.umap'
+[2018.02.04-04.34.31:254][388]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto6.umap
+[2018.02.04-04.34.31:257][388]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 1.271
+[2018.02.04-04.34.31:257][388]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.271
+[2018.02.04-04.34.31:260][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy] ([1] browsable assets)...
+[2018.02.04-04.34.31:275][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy.Enemy]
+[2018.02.04-04.34.31:275][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy]
+[2018.02.04-04.34.31:325][388]LogSavePackage: Save=41.51ms
+[2018.02.04-04.34.31:325][388]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy_Auto6E46CFCA945AC4EA58861349AC89BDD1E.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/Enemy_Auto6.uasset'
+[2018.02.04-04.34.31:327][388]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/Enemy_Auto6.uasset
+[2018.02.04-04.34.31:328][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HealthBar] ([1] browsable assets)...
+[2018.02.04-04.34.31:328][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HealthBar]
+[2018.02.04-04.34.31:359][388]LogSavePackage: Save=27.49ms
+[2018.02.04-04.34.31:359][388]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/HealthBar_Auto62D4EFA8347F552E9DF2E0DBC4E8BA208.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/HealthBar_Auto6.uasset'
+[2018.02.04-04.34.31:360][388]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/HealthBar_Auto6.uasset
+[2018.02.04-04.34.31:360][388]LogFileHelpers: Auto-saving content packages took 0.101
+[2018.02.04-04.34.40:402][457]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.34.42:104][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-04.34.42:149][546]LogSavePackage: Save=41.32ms
+[2018.02.04-04.34.42:149][546]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyB9C2214244508DF5A27B41B8FCC3A444.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-04.34.42:156][546]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.34.44:715][840]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.34.44:748][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.34.44:748][840]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.34.44:771][840]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:34:44 PM)
+[2018.02.04-04.34.44:772][840]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.34.44:830][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058399s)
+[2018.02.04-04.34.44:831][840]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.34.44:831][840]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2018.02.04-04.34.44:832][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060120s)
+[2018.02.04-04.34.44:868][840]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.34.44:875][840]LogInit: FAudioDevice initialized.
+[2018.02.04-04.34.44:909][840]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.34.44:925][840]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.34.44
+[2018.02.04-04.34.44:926][840]LogWorld: Bringing up level for play took: 0.015837
+[2018.02.04-04.34.44:929][840]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.08
+[2018.02.04-04.35.36:240][912]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-04.35.36:240][912]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-04.35.36:240][912]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-04.35.36:240][912]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-04.35.36:240][912]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-04.35.36:242][912]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-04.35.36:243][912]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-04.35.36:243][912]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-04.35.36:243][912]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-04.35.36:243][912]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-04.35.41:742][554]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-04.35.41:742][554]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-04.35.41:742][554]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-04.35.41:742][554]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-04.35.41:742][554]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.02.04-04.36.01:559][914]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.36.47:833][118]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-04.36.48:798][147]LogSavePackage: Save=36.35ms
+[2018.02.04-04.36.48:798][147]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile77AEEA624E419605E76865A1EF60BEC3.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-04.36.48:802][147]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-04.36.50:216][311]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.36.50:240][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.36.50:240][311]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.36.50:264][311]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:36:50 PM)
+[2018.02.04-04.36.50:264][311]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.36.50:320][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055200s)
+[2018.02.04-04.36.50:321][311]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.36.50:321][311]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2018.02.04-04.36.50:322][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.057006s)
+[2018.02.04-04.36.50:359][311]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.36.50:367][311]LogInit: FAudioDevice initialized.
+[2018.02.04-04.36.50:397][311]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.36.50:412][311]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.36.50
+[2018.02.04-04.36.50:413][311]LogWorld: Bringing up level for play took: 0.015068
+[2018.02.04-04.36.50:417][311]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.592
+[2018.02.04-04.37.01:858][647]Cmd: TRANSACTION UNDO
+[2018.02.04-04.37.01:858][647]LogEditorTransaction: Undo Change Collision Profile
+[2018.02.04-04.37.09:586][550]LogEditorTransaction: Undo Change Collision Profile
+[2018.02.04-04.37.10:607][671]LogEditorTransaction: Undo Edit Object Type
+[2018.02.04-04.37.10:610][671]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_74:PersistentLevel.Enemy_C_2.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.10:611][671]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy3.Arrow) Component already registered.
+[2018.02.04-04.37.10:611][671]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_74:PersistentLevel.Enemy_C_2.CharMoveComp) Component already registered.
+[2018.02.04-04.37.10:611][671]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_74:PersistentLevel.Enemy_C_2.Arrow) Component already registered.
+[2018.02.04-04.37.10:611][671]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy3.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.10:611][671]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy3.CharMoveComp) Component already registered.
+[2018.02.04-04.37.10:611][671]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy2.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.10:611][671]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.Arrow) Component already registered.
+[2018.02.04-04.37.10:611][671]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy2.CharMoveComp) Component already registered.
+[2018.02.04-04.37.10:612][671]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy2.Arrow) Component already registered.
+[2018.02.04-04.37.10:612][671]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.10:612][671]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.CharMoveComp) Component already registered.
+[2018.02.04-04.37.12:424][885]LogEditorTransaction: Undo Edit Collision Profile Name
+[2018.02.04-04.37.12:428][885]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_74:PersistentLevel.Enemy_C_2.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.12:428][885]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy3.Arrow) Component already registered.
+[2018.02.04-04.37.12:428][885]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_74:PersistentLevel.Enemy_C_2.CharMoveComp) Component already registered.
+[2018.02.04-04.37.12:428][885]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_74:PersistentLevel.Enemy_C_2.Arrow) Component already registered.
+[2018.02.04-04.37.12:428][885]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy3.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.12:428][885]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy3.CharMoveComp) Component already registered.
+[2018.02.04-04.37.12:428][885]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy2.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.12:428][885]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.Arrow) Component already registered.
+[2018.02.04-04.37.12:429][885]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy2.CharMoveComp) Component already registered.
+[2018.02.04-04.37.12:429][885]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy2.Arrow) Component already registered.
+[2018.02.04-04.37.12:429][885]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.12:429][885]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.CharMoveComp) Component already registered.
+[2018.02.04-04.37.13:348][992]LogEditorTransaction: Undo Change Collision Profile
+[2018.02.04-04.37.13:352][992]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy3.Arrow) Component already registered.
+[2018.02.04-04.37.13:352][992]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_74:PersistentLevel.Enemy_C_2.CharMoveComp) Component already registered.
+[2018.02.04-04.37.13:352][992]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_74:PersistentLevel.Enemy_C_2.Arrow) Component already registered.
+[2018.02.04-04.37.13:352][992]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy3.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.13:353][992]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy3.CharMoveComp) Component already registered.
+[2018.02.04-04.37.13:353][992]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy2.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.13:353][992]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_74:PersistentLevel.Enemy_C_2.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.13:353][992]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy2.CharMoveComp) Component already registered.
+[2018.02.04-04.37.13:353][992]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy2.Arrow) Component already registered.
+[2018.02.04-04.37.13:353][992]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.CharacterMesh0) Component already registered.
+[2018.02.04-04.37.13:353][992]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.CharMoveComp) Component already registered.
+[2018.02.04-04.37.13:353][992]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.Arrow) Component already registered.
+[2018.02.04-04.37.14:359][110]LogEditorTransaction: Undo Break Pin Link
+[2018.02.04-04.38.34:314][378]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.38.34:354][378]LogWorld: --- Actors Currently in /Engine/Transient.World_9:PersistentLevel ---
+[2018.02.04-04.38.34:354][378]LogWorld:   /Engine/Transient.World_9:PersistentLevel.WorldSettings
+[2018.02.04-04.38.34:354][378]LogWorld:   /Engine/Transient.World_9:PersistentLevel.Brush_9
+[2018.02.04-04.38.34:354][378]LogWorld:   /Engine/Transient.World_9:PersistentLevel.DefaultPhysicsVolume_9
+[2018.02.04-04.38.34:354][378]LogWorld:   /Engine/Transient.World_9:PersistentLevel.ParticleEventManager_9
+[2018.02.04-04.38.34:354][378]LogWorld:   NONE
+[2018.02.04-04.38.34:354][378]LogWorld:   NONE
+[2018.02.04-04.38.34:354][378]LogWorld:   NONE
+[2018.02.04-04.38.34:354][378]LogWorld:   NONE
+[2018.02.04-04.38.34:354][378]LogWorld:   /Engine/Transient.World_9:PersistentLevel.Enemy_C_2
+[2018.02.04-04.38.34:354][378]LogWorld:   /Engine/Transient.World_9:PersistentLevel.Enemy_C_3
+[2018.02.04-04.38.34:489][378]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.134 s
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: 
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1544]
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: Could not remove actor /Engine/Transient.World_9:PersistentLevel.REINST_Enemy_C_1 from world (check level is /Engine/Transient.World_9:PersistentLevel)
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: Stack: 
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006D502786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006D2A123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006D2BB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000005736DF86 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x0000000056A08C15 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x0000000056A0ED63 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000005511B7B5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000005511D11D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000550DE7DF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000540F187F UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x0000000054091704 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000550E633E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x0000000054091133 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000540E0FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000540E5D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F6F7BBF UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F7FD3A2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F7576D2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F758C29 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F7D8C25 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F892B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F8BEA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F6D5EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F6A8095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F7428A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F72B092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000006F71D902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000008616E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x0000000086161A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000861703EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x000000008615D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000A471B85D USER32.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000A471B1EF USER32.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x0000000086171516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000BBC650C8 UE4Editor.exe!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000BBC75430 UE4Editor.exe!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000BBC754AA UE4Editor.exe!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000BBC82379 UE4Editor.exe!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000BBC83D57 UE4Editor.exe!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000A2B41FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: [Callstack] 0x00000000A52EEFB1 ntdll.dll!UnknownFunction []
+[2018.02.04-04.38.34:489][378]LogOutputDevice: Error: 
+[2018.02.04-04.38.34:498][378]LogStats:                SubmitErrorReport -  0.000 s
+[2018.02.04-04.38.34:828][378]LogStats:                    SendNewReport -  0.330 s
+[2018.02.04-04.38.34:828][378]LogStats:             FDebug::EnsureFailed -  0.474 s
+[2018.02.04-04.38.36:532][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-04.38.36:576][455]LogSavePackage: Save=40.10ms
+[2018.02.04-04.38.36:576][455]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyCB8C34B64E760F882C68DAB0ED813ED6.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-04.38.36:580][455]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.42.43:966][912]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.04-04.43.12:036][102]SourceControl: On branch master
+[2018.02.04-04.43.12:036][102]SourceControl: Your branch is behind 'origin/master' by 5 commits, and can be fast-forwarded.
+[2018.02.04-04.43.12:036][102]SourceControl:   (use "git pull" to update your local branch)
+[2018.02.04-04.43.12:036][102]SourceControl: Changes to be committed:
+[2018.02.04-04.43.12:036][102]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.02.04-04.43.12:036][102]SourceControl: 	new file:   Game1/Content/Blueprints/HealthBar.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	deleted:    Game1/Content/Blueprints/idamagable.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: Changes not staged for commit:
+[2018.02.04-04.43.12:036][102]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.02.04-04.43.12:036][102]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.02.04-04.43.12:036][102]SourceControl: 	modified:   Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	modified:   Game1/Content/Blueprints/HealthBar.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	modified:   Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	modified:   Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	modified:   Game1/Saved/Autosaves/Game/Maps/Level_One_Auto5.umap
+[2018.02.04-04.43.12:036][102]SourceControl: 	modified:   Game1/Saved/Autosaves/Game/Maps/Level_One_Auto6.umap
+[2018.02.04-04.43.12:036][102]SourceControl: 	modified:   Game1/Saved/Autosaves/PackageRestoreData.json
+[2018.02.04-04.43.12:036][102]SourceControl: 	modified:   Game1/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.02.04-04.43.12:036][102]SourceControl: 	modified:   Game1/Saved/Config/Windows/Engine.ini
+[2018.02.04-04.43.12:036][102]SourceControl: 	modified:   Game1/Saved/Logs/Game1_2.log
+[2018.02.04-04.43.12:036][102]SourceControl: Untracked files:
+[2018.02.04-04.43.12:036][102]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Autosaves/Game/Blueprints/Enemy_Auto6.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Autosaves/Game/Blueprints/HealthBar_Auto6.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Backup/Enemy_2018-02-03-23-08-47.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Backup/Enemy_2018-02-03-23-15-14.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Backup/Enemy_2018-02-03-23-28-12.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Backup/Enemy_2018-02-03-23-34-31.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Backup/FirstPersonProjectile_2018-02-03-23-03-34.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Backup/FirstPersonProjectile_2018-02-03-23-36-48.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Backup/HealthBar_2018-02-03-23-30-13.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Backup/HeathBar_2018-02-03-23-30-10.uasset
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Backup/Level_One_2018-02-03-23-13-15.umap
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Backup/Level_One_2018-02-03-23-34-30.umap
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Crashes/UE4CC-Windows-EB9C271343362A16DDAB6697E00D6CC6_0000/
+[2018.02.04-04.43.12:036][102]SourceControl: 	Game1/Saved/Crashes/UE4CC-Windows-EB9C271343362A16DDAB6697E00D6CC6_0001/
+[2018.02.04-04.43.12:638][102]LogMetaData: Removing '/Game/Blueprints/EnemyHealthBar.SKEL_EnemyHealthBar_C' ref from Metadata '/Game/Blueprints/HealthBar.PackageMetaData'
+[2018.02.04-04.43.12:639][102]LogMetaData: Removing '/Game/Blueprints/EnemyHealthBar.EnemyHealthBar_C' ref from Metadata '/Game/Blueprints/HealthBar.PackageMetaData'
+[2018.02.04-04.43.12:639][102]LogMetaData: Removing '/Game/Blueprints/EnemyHealthBar.EnemyHealthBar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/HealthBar.PackageMetaData'
+[2018.02.04-04.43.12:639][102]LogMetaData: Removing '/Game/Blueprints/EnemyHealthBar.EnemyHealthBar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/HealthBar.PackageMetaData'
+[2018.02.04-04.43.12:639][102]LogMetaData: Removing '/Game/Blueprints/EnemyHealthBar.EnemyHealthBar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/HealthBar.PackageMetaData'
+[2018.02.04-04.43.12:639][102]LogMetaData: Removing '/Game/Blueprints/EnemyHealthBar.EnemyHealthBar:GetPercent_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/HealthBar.PackageMetaData'
+[2018.02.04-04.43.12:639][102]LogMetaData: Removing '/Game/Blueprints/EnemyHealthBar.EnemyHealthBar:GetPercent_0.K2Node_FunctionResult_1' ref from Metadata '/Game/Blueprints/HealthBar.PackageMetaData'
+[2018.02.04-04.43.12:639][102]LogMetaData: Removing '/Game/Blueprints/EnemyHealthBar.EnemyHealthBar:GetVisibility_0.K2Node_FunctionResult_2' ref from Metadata '/Game/Blueprints/HealthBar.PackageMetaData'
+[2018.02.04-04.43.12:639][102]LogMetaData: Removing '/Game/Blueprints/EnemyHealthBar.EnemyHealthBar:GetVisibility_0.K2Node_FunctionEntry_1' ref from Metadata '/Game/Blueprints/HealthBar.PackageMetaData'
+[2018.02.04-04.43.12:680][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyHealthBar" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/EnemyHealthBar.uasset" SILENT=true
+[2018.02.04-04.43.12:710][102]LogSavePackage: Save=28.35ms
+[2018.02.04-04.43.12:710][102]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyHealthBar88A5A0B040B7409C3FD95FBCFFEEB4F4.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/EnemyHealthBar.uasset'
+[2018.02.04-04.43.12:713][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/EnemyHealthBar.uasset
+[2018.02.04-04.43.17:996][521]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.04-04.44.17:297][478]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.44.18:721][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-04.44.18:777][528]LogSavePackage: Save=46.60ms
+[2018.02.04-04.44.18:777][528]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyD3321A8B479118B239E945B447DC81B1.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-04.44.18:782][528]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.44.20:845][760]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-04.44.20:888][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-04.44.20:888][760]LogHMD: Initializing OVRPlugin session
+[2018.02.04-04.44.20:912][760]PIE: New page: PIE session: Level_One (Feb 3, 2018, 6:44:20 PM)
+[2018.02.04-04.44.20:913][760]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-04.44.20:973][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060966s)
+[2018.02.04-04.44.20:974][760]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-04.44.20:975][760]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2018.02.04-04.44.20:975][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.062595s)
+[2018.02.04-04.44.21:015][760]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-04.44.21:022][760]LogInit: FAudioDevice initialized.
+[2018.02.04-04.44.21:056][760]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-04.44.21:071][760]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-23.44.21
+[2018.02.04-04.44.21:072][760]LogWorld: Bringing up level for play took: 0.015539
+[2018.02.04-04.44.21:078][760]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.068
+[2018.02.04-04.45.09:579][419]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.45.09:603][419]LogBlueprint: Error: [Compiler Enemy] The type of  Object  is undetermined.  Connect something to  Cast To Enemy  to imply a specific type.
+[2018.02.04-04.45.09:604][419]LogBlueprint: Error: [Compiler Enemy] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.02.04-04.45.10:319][419]LogBlueprint: Warning: [Compiler Enemy] [8797.54] Compile of Enemy failed. 2 Fatal Issue(s) 0 Warning(s) [in 739 ms] (/Game/Blueprints/Enemy.Enemy)
+[2018.02.04-04.45.10:936][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-04.45.10:985][466]LogSavePackage: Save=44.95ms
+[2018.02.04-04.45.10:985][466]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy229F40214A39E2EAB71D4FBB7C73E655.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-04.45.10:989][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.45.36:520][450]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.45.36:537][450]LogBlueprint: Warning: [Compiler Enemy] 'Enemy' does not inherit from 'Enemy Health Bar' ( Cast To Enemy  would always fail).
+[2018.02.04-04.45.37:250][450]LogBlueprint: Warning: [Compiler Enemy] [8824.47] Compile of Enemy successful, but with 1 Warning(s) [in 730 ms] (/Game/Blueprints/Enemy.Enemy)
+[2018.02.04-04.47.02:670][497]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.47.03:786][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-04.47.03:831][512]LogSavePackage: Save=41.01ms
+[2018.02.04-04.47.03:832][512]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy61ECA36F4C57439A2BC545B76A5A7349.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-04.47.03:836][512]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.48.57:369][ 71]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::LessEqual_FloatFloat' [Element not found.]
+[2018.02.04-04.50.57:316][405]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-04.50.58:338][438]LogSavePackage: Save=36.42ms
+[2018.02.04-04.50.58:338][438]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile604822AB4CCABCD66492CDBD7CFFE0F7.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-04.50.58:341][438]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-04.51.01:575][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.04-04.51.02:829][794]LogSavePackage: Save=1211.76ms
+[2018.02.04-04.51.02:829][794]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_OneB28C8E074B2A69804526B194034146F9.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.04-04.51.02:836][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.04-04.51.03:150][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.04-04.51.06:129][794]LogSavePackage: Save=2888.24ms
+[2018.02.04-04.51.06:129][794]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_BuiltDataD5A6FB894DB9EA6EAC8FF7B953C4AA74.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.04-04.51.06:140][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
+[2018.02.04-04.51.10:257][267]BlueprintLog: New page: Compile Enemy
+[2018.02.04-04.51.12:448][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-04.51.12:498][364]LogSavePackage: Save=41.15ms
+[2018.02.04-04.51.12:498][364]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy79B785534EB6C03854E6E49211E78FB0.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-04.51.12:502][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-04.51.15:629][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.04-04.51.16:864][682]LogSavePackage: Save=1205.15ms
+[2018.02.04-04.51.16:864][682]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_OneE0A0B24E4F4A73EDDACB6383D54E492E.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.04-04.51.16:869][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.04-04.51.17:226][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.04-04.51.19:950][682]LogSavePackage: Save=2719.74ms
+[2018.02.04-04.51.19:950][682]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_BuiltData03688F064D9D92EBE3B26E93E97CD89C.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.04-04.51.19:961][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
+[2018.02.04-04.51.27:921][227]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.02.04-04.51.28:150][227]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.04-04.51.28:327][227]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.04-04.51.28:847][228]Cmd: QUIT_EDITOR
+[2018.02.04-04.51.29:276][228]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.04-04.51.29:354][228]LogExit: Preparing to exit.
+[2018.02.04-04.51.30:343][228]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/' was aborted.
+[2018.02.04-04.51.30:475][228]LogExit: Editor shut down
+[2018.02.04-04.51.30:482][228]LogExit: Transaction tracking system shut down
+[2018.02.04-04.51.30:855][228]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.04-04.51.30:855][228]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/' was aborted.
+[2018.02.04-04.51.30:855][228]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.04-04.51.30:855][228]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.04-04.51.30:855][228]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.04-04.51.30:855][228]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.04-04.51.30:856][228]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.04-04.51.31:307][228]LogExit: Object subsystem successfully closed.
+[2018.02.04-04.51.31:357][228]LogD3D11RHI: Shutdown
+[2018.02.04-04.51.31:357][228]LogD3D11RHI: CleanupD3DDevice
+[2018.02.04-04.51.31:485][228]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.04-04.51.31:502][228]LogModuleManager: Shutting down and abandoning module MaterialEditor (560)
+[2018.02.04-04.51.31:502][228]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (558)
+[2018.02.04-04.51.31:502][228]LogModuleManager: Shutting down and abandoning module SequencerWidgets (556)
+[2018.02.04-04.51.31:502][228]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (554)
+[2018.02.04-04.51.31:502][228]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.02.04-04.51.31:502][228]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.02.04-04.51.31:502][228]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.02.04-04.51.31:502][228]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.02.04-04.51.31:502][228]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.02.04-04.51.31:502][228]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.04-04.51.31:510][228]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.02.04-04.51.31:510][228]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.02.04-04.51.31:510][228]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.02.04-04.51.31:510][228]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Collections/' was aborted.
+[2018.02.04-04.51.31:510][228]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Developers/Ryan/Collections/' was aborted.
+[2018.02.04-04.51.31:510][228]LogDirectoryWatcher: A directory notification for 'C:/Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Collections/' was aborted.
+[2018.02.04-04.51.31:510][228]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.04-04.51.31:511][228]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.04-04.51.31:511][228]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.04-04.51.31:511][228]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.04-04.51.31:511][228]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.04-04.51.31:511][228]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.04-04.51.31:511][228]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.04-04.51.31:511][228]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.04-04.51.31:511][228]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.04-04.51.31:511][228]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.04-04.51.31:511][228]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.04-04.51.31:511][228]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.04-04.51.31:512][228]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.04-04.51.31:513][228]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.04-04.51.31:514][228]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.04-04.51.31:514][228]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.04-04.51.31:514][228]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.04-04.51.31:514][228]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.04-04.51.31:514][228]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.04-04.51.32:315][228]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.04-04.51.32:315][228]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.04-04.51.32:315][228]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.04-04.51.32:315][228]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.04-04.51.32:315][228]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.04-04.51.32:315][228]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.04-04.51.32:315][228]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.04-04.51.32:315][228]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.04-04.51.32:315][228]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.04-04.51.32:316][228]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.04-04.51.32:316][228]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.04-04.51.32:316][228]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.04-04.51.32:316][228]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.04-04.51.32:316][228]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.04-04.51.32:316][228]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.04-04.51.32:316][228]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.04-04.51.32:316][228]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.04-04.51.32:316][228]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.04-04.51.32:316][228]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.04-04.51.32:317][228]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.04-04.51.32:317][228]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.04-04.51.32:317][228]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.04-04.51.32:317][228]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.04-04.51.32:317][228]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.04-04.51.32:370][228]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.04-04.51.32:370][228]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.04-04.51.32:370][228]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.04-04.51.32:370][228]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.04-04.51.32:370][228]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.04-04.51.32:370][228]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.04-04.51.32:370][228]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.04-04.51.32:370][228]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.04-04.51.32:370][228]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.04-04.51.32:370][228]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.04-04.51.32:391][228]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.04-04.51.32:393][228]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.04-04.51.32:393][228]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.04-04.51.32:393][228]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.04-04.51.32:393][228]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.04-04.51.32:393][228]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.04-04.51.32:393][228]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.04-04.51.32:395][228]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.04-04.51.32:630][228]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.04-04.51.32:631][228]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.04-04.51.32:632][228]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.04-04.51.32:632][228]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.04-04.51.32:632][228]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.04-04.51.32:632][228]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.04-04.51.32:633][228]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.04-04.51.32:633][228]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.04-04.51.32:633][228]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.04-04.51.32:634][228]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.04-04.51.32:634][228]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.04-04.51.32:634][228]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.04-04.51.32:634][228]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.04-04.51.32:634][228]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.04-04.51.32:634][228]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.04-04.51.32:634][228]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.04-04.51.32:634][228]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.04-04.51.32:734][228]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.04-04.51.32:835][228]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.04-04.51.32:835][228]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.04-04.51.32:835][228]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.04-04.51.32:835][228]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.04-04.51.32:835][228]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.04-04.51.32:835][228]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.04-04.51.32:838][228]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.04-04.51.32:838][228]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.04-04.51.32:838][228]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.04-04.51.32:838][228]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.04-04.51.32:840][228]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.04-04.51.32:841][228]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.04-04.51.32:841][228]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.04-04.51.32:841][228]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.04-04.51.32:841][228]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.04-04.51.32:841][228]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.04-04.51.32:847][228]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.04-04.51.32:850][228]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.04-04.51.32:850][228]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.04-04.51.32:850][228]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.04-04.51.32:850][228]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.04-04.51.32:850][228]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.04-04.51.32:850][228]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.04-04.51.32:850][228]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.04-04.51.32:850][228]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.04-04.51.32:859][228]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.04-04.51.32:859][228]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.04-04.51.32:859][228]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.04-04.51.32:859][228]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.04-04.51.32:859][228]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.04-04.51.32:859][228]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.04-04.51.32:859][228]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.04-04.51.32:859][228]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.04-04.51.32:859][228]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.04-04.51.32:947][228]LogDerivedDataCache: Shutdown
+[2018.02.04-04.51.32:947][228]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.04-04.51.32:947][228]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.04-04.51.32:947][228]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.04-04.51.32:948][228]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.04-04.51.32:949][228]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.04-04.51.32:949][228]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.02.04-04.51.32:949][228]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B741C820C-4709-BC53-5DAF-F0B010F561F5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=a673814544279ce46f6135809adaf604%7Cfec4826529d245d98e73ff82f185adde%7C21447c6a-dcef-4c43-b5a1-1fc95c7aa48c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.04-04.51.32:949][228]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B741C820C-4709-BC53-5DAF-F0B010F561F5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=a673814544279ce46f6135809adaf604%7Cfec4826529d245d98e73ff82f185adde%7C21447c6a-dcef-4c43-b5a1-1fc95c7aa48c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.04-04.51.32:966][228]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.04-04.51.32:968][228]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.04-04.51.32:968][228]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.04-04.51.32:968][228]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.04-04.51.32:968][228]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.04-04.51.32:968][228]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.04-04.51.32:968][228]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.04-04.51.32:968][228]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.04-04.51.32:977][228]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.04-04.51.32:977][228]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.04-04.51.32:977][228]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.04-04.51.32:977][228]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.04-04.51.32:977][228]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.04-04.51.32:977][228]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.04-04.51.32:977][228]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.04-04.51.32:977][228]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.04-04.51.32:977][228]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.04-04.51.32:977][228]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.04-04.51.32:977][228]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.04-04.51.32:982][228]LogExit: Exiting.
+[2018.02.04-04.51.33:007][228]Log file closed, 02/03/18 23:51:33
