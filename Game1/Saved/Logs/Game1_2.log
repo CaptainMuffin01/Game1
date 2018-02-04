@@ -15965,3 +15965,696 @@ Script call stack:
 [2018.02.04-01.37.49:317][940]SourceControl:  rewrite Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset (73%)
 [2018.02.04-01.37.49:317][940]SourceControl:  create mode 100644 Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset
 [2018.02.04-01.37.49:326][940]SourceControl: Commited [master d4eb6b9] healthbar.
+[2018.02.04-01.39.16:021][339]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.04-01.39.54:773][956]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.39.54:785][956]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.39.54:821][956]LogBlueprint: Warning: [Compiler HeathBar] [7682.04] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 48 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.39.55:515][ 10]LogSavePackage: Save=24.83ms
+[2018.02.04-01.39.55:515][ 10]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/HeathBar2A70210A479019C46B4E1FB035CFF074.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset'
+[2018.02.04-01.39.55:518][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset
+[2018.02.04-01.40.00:032][550]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.40.00:044][550]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.40.00:074][550]LogBlueprint: Warning: [Compiler HeathBar] [7687.29] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 41 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.40.20:298][954]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.40.20:310][954]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.40.20:343][954]LogBlueprint: Warning: [Compiler HeathBar] [7707.56] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 44 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.40.26:665][711]LogEditorTransaction: Undo Create Pin Link
+[2018.02.04-01.40.27:113][761]LogEditorTransaction: Undo Create Pin Link
+[2018.02.04-01.40.28:153][883]LogEditorTransaction: Undo Break Pin Link
+[2018.02.04-01.40.30:987][220]LogEditorTransaction: Undo Create Pin Link
+[2018.02.04-01.40.59:826][642]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.40.59:837][642]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.40.59:869][642]LogBlueprint: Warning: [Compiler HeathBar] [7747.09] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 43 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.41.42:933][356]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.41.42:944][356]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.41.42:979][356]LogBlueprint: Warning: [Compiler HeathBar] [7790.20] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 46 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.42.13:372][999]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.42.13:384][999]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.42.13:415][999]LogBlueprint: Warning: [Compiler HeathBar] [7820.63] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 43 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.42.13:583][ 18]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.42.13:594][ 18]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.42.13:628][ 18]LogBlueprint: Warning: [Compiler HeathBar] [7820.84] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 44 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.42.13:763][ 33]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.42.13:774][ 33]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.42.13:803][ 33]LogBlueprint: Warning: [Compiler HeathBar] [7821.02] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 40 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.42.13:879][ 41]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.42.13:890][ 41]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.42.13:920][ 41]LogBlueprint: Warning: [Compiler HeathBar] [7821.14] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 41 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.43.03:462][967]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.43.03:473][967]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.43.03:507][967]LogBlueprint: Warning: [Compiler HeathBar] [7870.72] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 45 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.43.03:659][983]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.43.03:670][983]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.43.03:702][983]LogBlueprint: Warning: [Compiler HeathBar] [7870.92] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 42 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.43.03:861][  0]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.43.03:872][  0]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.43.03:903][  0]LogBlueprint: Warning: [Compiler HeathBar] [7871.12] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 41 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.43.09:459][586]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-01.43.09:484][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-01.43.10:868][586]LogHMD: Initializing OVRPlugin session
+[2018.02.04-01.43.10:894][586]PIE: New page: PIE session: Level_One (Feb 3, 2018, 3:43:10 PM)
+[2018.02.04-01.43.10:894][586]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-01.43.10:954][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059845s)
+[2018.02.04-01.43.10:955][586]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-01.43.10:956][586]LogPlayLevel: PIE: World Init took: (0.001727s)
+[2018.02.04-01.43.10:956][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.062173s)
+[2018.02.04-01.43.10:996][586]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.04-01.43.11:005][586]LogInit: FAudioDevice initialized.
+[2018.02.04-01.43.11:035][586]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-01.43.11:048][586]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-20.43.11
+[2018.02.04-01.43.11:049][586]LogWorld: Bringing up level for play took: 0.013816
+[2018.02.04-01.43.11:052][586]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 2.043
+[2018.02.04-01.43.44:748][520]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.43.44:760][520]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.43.44:824][520]LogBlueprint: Warning: [Compiler HeathBar] [7912.04] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 75 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.43.54:296][645]LogBlueprint: Warning: Unknown type of hyperlinked object (FillColorAndOpacityDelegate), cannot focus it
+[2018.02.04-01.44.21:618][907]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.44.21:629][907]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.44.21:661][907]LogBlueprint: Warning: [Compiler HeathBar] [7948.88] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 42 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.45.02:279][762]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.45.02:318][762]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.45.02:318][762]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Percent Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.45.02:580][762]LogBlueprint: Warning: [Compiler HeathBar] [7989.80] Compile of HeathBar failed. 2 Fatal Issue(s) 0 Warning(s) [in 300 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.45.12:674][971]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.45.12:682][971]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.45.12:682][971]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Percent Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.45.12:712][971]LogBlueprint: Warning: [Compiler HeathBar] [7999.93] Compile of HeathBar failed. 2 Fatal Issue(s) 0 Warning(s) [in 37 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.45.38:433][948]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.45.38:445][948]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.45.38:586][948]LogBlueprint: Warning: [Compiler HeathBar] [8025.80] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 152 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.17:530][609]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.17:576][609]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.17:839][609]LogBlueprint: Warning: [Compiler HeathBar] [8065.05] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 308 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.18:904][735]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.18:914][735]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.18:946][735]LogBlueprint: Warning: [Compiler HeathBar] [8066.16] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 42 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.20:932][972]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.21:433][ 32]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.22:041][105]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.22:233][128]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.24:553][405]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.24:820][437]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.25:044][464]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.25:253][489]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.25:462][514]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.25:686][541]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.25:895][566]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.26:128][594]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.26:345][620]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.26:603][651]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.26:853][681]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.27:112][712]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.27:895][806]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.28:120][833]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.28:345][860]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.28:554][885]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.28:754][909]LogBlueprint: Warning: Unknown type of hyperlinked object (ProgressBar_122), cannot focus it
+[2018.02.04-01.46.30:400][ 76]LogSavePackage: Save=22.64ms
+[2018.02.04-01.46.30:400][ 76]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/HeathBar327E06134488B7AB06D3BE9E341DF9B5.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset'
+[2018.02.04-01.46.30:404][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset
+[2018.02.04-01.46.31:059][153]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.31:070][153]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.31:103][153]LogBlueprint: Warning: [Compiler HeathBar] [8078.32] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 43 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.31:994][259]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.32:005][259]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.32:035][259]LogBlueprint: Warning: [Compiler HeathBar] [8079.25] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 40 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.32:203][278]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.32:214][278]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.32:244][278]LogBlueprint: Warning: [Compiler HeathBar] [8079.46] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 40 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.32:353][290]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.32:364][290]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.32:393][290]LogBlueprint: Warning: [Compiler HeathBar] [8079.61] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 39 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.32:535][306]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.32:546][306]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.32:577][306]LogBlueprint: Warning: [Compiler HeathBar] [8079.79] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 42 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.32:686][318]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.32:697][318]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.32:727][318]LogBlueprint: Warning: [Compiler HeathBar] [8079.94] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 40 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.32:877][335]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.32:887][335]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.32:918][335]LogBlueprint: Warning: [Compiler HeathBar] [8080.13] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 40 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.33:051][350]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.33:062][350]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.33:090][350]LogBlueprint: Warning: [Compiler HeathBar] [8080.31] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 39 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.33:257][369]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.33:269][369]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.33:300][369]LogBlueprint: Warning: [Compiler HeathBar] [8080.52] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 43 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.33:416][382]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.33:427][382]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.33:461][382]LogBlueprint: Warning: [Compiler HeathBar] [8080.68] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 43 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.46.33:577][395]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.46.33:588][395]LogBlueprint: Error: [Compiler HeathBar] Binding: Property ' Fill Color and Opacity Delegate ' on Widget ' ProgressBar_122 ': Binding: 'None' : 'None' was not found on 'Heath Bar'.
+[2018.02.04-01.46.33:616][395]LogBlueprint: Warning: [Compiler HeathBar] [8080.83] Compile of HeathBar failed. 1 Fatal Issue(s) 0 Warning(s) [in 38 ms] (/Game/FirstPersonBP/Blueprints/HeathBar.HeathBar)
+[2018.02.04-01.48.29:328][950]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.48.29:586][951]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 0.025
+[2018.02.04-01.48.29:588][951]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/HeathBar] ([1] browsable assets)...
+[2018.02.04-01.48.29:588][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/HeathBar]
+[2018.02.04-01.48.29:622][951]LogSavePackage: Save=28.35ms
+[2018.02.04-01.48.29:623][951]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/HeathBar_Auto7473717AC405C004DB9050E81FD72E72C.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/FirstPersonBP/Blueprints/HeathBar_Auto7.uasset'
+[2018.02.04-01.48.29:624][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/FirstPersonBP/Blueprints/HeathBar_Auto7.uasset
+[2018.02.04-01.48.29:624][951]LogFileHelpers: Auto-saving content packages took 0.037
+[2018.02.04-01.48.30:500][ 25]LogSavePackage: Save=27.87ms
+[2018.02.04-01.48.30:500][ 25]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/HeathBar629F523B4A6BE743CADDF797D4C2AA59.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset'
+[2018.02.04-01.48.30:504][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset
+[2018.02.04-01.48.37:222][816]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-01.48.37:246][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-01.48.37:247][816]LogHMD: Initializing OVRPlugin session
+[2018.02.04-01.48.37:270][816]PIE: New page: PIE session: Level_One (Feb 3, 2018, 3:48:37 PM)
+[2018.02.04-01.48.37:270][816]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-01.48.37:328][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057290s)
+[2018.02.04-01.48.37:328][816]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-01.48.37:329][816]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2018.02.04-01.48.37:329][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.059026s)
+[2018.02.04-01.48.37:366][816]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.04-01.48.37:375][816]LogInit: FAudioDevice initialized.
+[2018.02.04-01.48.37:406][816]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-01.48.37:421][816]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-20.48.37
+[2018.02.04-01.48.37:422][816]LogWorld: Bringing up level for play took: 0.014951
+[2018.02.04-01.48.37:425][816]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.416
+[2018.02.04-01.49.21:761][ 66]BlueprintLog: New page: Compile HeathBar
+[2018.02.04-01.49.22:551][113]LogSavePackage: Save=26.88ms
+[2018.02.04-01.49.22:551][113]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/HeathBar50F94088462896C9FF280EA4115EC7D8.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset'
+[2018.02.04-01.49.22:555][113]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset
+[2018.02.04-01.49.44:162][273]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.02.04-01.49.45:449][317]LogSavePackage: Save=143.59ms
+[2018.02.04-01.49.45:449][317]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonCharacter85613EA547D7EB3619ED90A51B4774C0.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.04-01.49.45:453][317]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.04-01.49.47:207][508]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-01.49.47:236][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-01.49.47:237][508]LogHMD: Initializing OVRPlugin session
+[2018.02.04-01.49.47:261][508]PIE: New page: PIE session: Level_One (Feb 3, 2018, 3:49:47 PM)
+[2018.02.04-01.49.47:261][508]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-01.49.47:318][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057051s)
+[2018.02.04-01.49.47:319][508]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-01.49.47:320][508]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2018.02.04-01.49.47:320][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.058815s)
+[2018.02.04-01.49.47:357][508]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.04-01.49.47:366][508]LogInit: FAudioDevice initialized.
+[2018.02.04-01.49.47:400][508]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-01.49.47:414][508]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-20.49.47
+[2018.02.04-01.49.47:414][508]LogWorld: Bringing up level for play took: 0.013409
+[2018.02.04-01.49.47:417][508]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.408
+[2018.02.04-01.54.16:423][231]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.02.04-01.54.17:594][261]LogSavePackage: Save=151.27ms
+[2018.02.04-01.54.17:594][261]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonCharacterABEECD924A62F8EA6F8D43949AC4942A.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.04-01.54.17:598][261]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.04-01.54.19:349][463]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-01.54.19:373][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-01.54.19:373][463]LogHMD: Initializing OVRPlugin session
+[2018.02.04-01.54.19:397][463]PIE: New page: PIE session: Level_One (Feb 3, 2018, 3:54:19 PM)
+[2018.02.04-01.54.19:397][463]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-01.54.19:453][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055829s)
+[2018.02.04-01.54.19:454][463]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-01.54.19:454][463]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2018.02.04-01.54.19:454][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.057577s)
+[2018.02.04-01.54.19:489][463]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.04-01.54.19:498][463]LogInit: FAudioDevice initialized.
+[2018.02.04-01.54.19:530][463]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-01.54.19:546][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-20.54.19
+[2018.02.04-01.54.19:546][463]LogWorld: Bringing up level for play took: 0.014684
+[2018.02.04-01.54.19:550][463]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.54
+[2018.02.04-01.56.29:273][589]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.02.04-01.56.30:508][635]LogSavePackage: Save=156.64ms
+[2018.02.04-01.56.30:508][635]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonCharacterAD1C64EE49CB1B678FD98AB04D48FE6C.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.04-01.56.30:512][635]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.04-01.56.31:725][776]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-01.56.31:749][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-01.56.31:749][776]LogHMD: Initializing OVRPlugin session
+[2018.02.04-01.56.31:774][776]PIE: New page: PIE session: Level_One (Feb 3, 2018, 3:56:31 PM)
+[2018.02.04-01.56.31:774][776]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-01.56.31:832][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058029s)
+[2018.02.04-01.56.31:833][776]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-01.56.31:833][776]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2018.02.04-01.56.31:834][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.059928s)
+[2018.02.04-01.56.31:870][776]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.04-01.56.31:879][776]LogInit: FAudioDevice initialized.
+[2018.02.04-01.56.31:913][776]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-01.56.31:927][776]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-20.56.31
+[2018.02.04-01.56.31:927][776]LogWorld: Bringing up level for play took: 0.014028
+[2018.02.04-01.56.31:931][776]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.922
+[2018.02.04-01.58.03:439][953]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.02.04-01.58.04:607][989]LogSavePackage: Save=162.40ms
+[2018.02.04-01.58.04:608][989]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonCharacter6222D55647E74AC5B2A60FB2971F6408.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.04-01.58.04:611][989]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.04-01.59.18:471][676]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.02.04-01.59.19:310][676]LogSavePackage: Save=156.71ms
+[2018.02.04-01.59.19:311][676]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonCharacter993DF06D4EB1F2E542921E8780B7DA75.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.04-01.59.19:313][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.04-02.01.43:137][648]BlueprintLog: New page: Compile Enemy
+[2018.02.04-02.01.44:766][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-02.01.44:804][720]LogSavePackage: Save=26.34ms
+[2018.02.04-02.01.44:804][720]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyD97C661945D3C06E2F683F84DA395B40.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-02.01.44:807][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-02.08.49:382][ 83]LogSavePackage: Save=1303.15ms
+[2018.02.04-02.08.49:382][ 83]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_Auto8867FE0D94BCB3B3747003EACA60B9545.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto8.umap'
+[2018.02.04-02.08.49:385][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto8.umap
+[2018.02.04-02.08.49:394][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 1.371
+[2018.02.04-02.08.49:395][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.371
+[2018.02.04-02.08.49:401][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy] ([1] browsable assets)...
+[2018.02.04-02.08.49:416][ 83]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy.Enemy]
+[2018.02.04-02.08.49:416][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy]
+[2018.02.04-02.08.49:462][ 83]LogSavePackage: Save=32.57ms
+[2018.02.04-02.08.49:462][ 83]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy_Auto8BC330BFB46DF9760B75860BDAE806FCF.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/Enemy_Auto8.uasset'
+[2018.02.04-02.08.49:464][ 83]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/Enemy_Auto8.uasset
+[2018.02.04-02.08.49:464][ 83]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.02.04-02.17.12:586][384]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-02.18.50:763][191]LogSavePackage: Save=1224.26ms
+[2018.02.04-02.18.50:763][191]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_Auto994F6F56D49C7E5640D41CE8B960EE401.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto9.umap'
+[2018.02.04-02.18.50:766][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto9.umap
+[2018.02.04-02.18.50:773][191]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 1.292
+[2018.02.04-02.18.50:773][191]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.292
+[2018.02.04-02.18.50:775][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy] ([1] browsable assets)...
+[2018.02.04-02.18.50:790][191]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy.Enemy]
+[2018.02.04-02.18.50:791][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy]
+[2018.02.04-02.18.50:827][191]LogSavePackage: Save=25.44ms
+[2018.02.04-02.18.50:827][191]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy_Auto9294684D742D15998794778A50CA6BAF8.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/Enemy_Auto9.uasset'
+[2018.02.04-02.18.50:829][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/Enemy_Auto9.uasset
+[2018.02.04-02.18.50:830][191]LogFileHelpers: Auto-saving content packages took 0.055
+[2018.02.04-02.19.12:541][627]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2018.02.04-02.19.12:558][627]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-02.19.13:265][627]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-02.19.13:285][627]LogMaterial: Missing cached shader map for material bullet, compiling. 
+[2018.02.04-02.19.13:327][627]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.02.04-02.19.16:437][962]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.02.04-02.19.16:437][962]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.02.04-02.19.16:437][962]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.04-02.19.16:437][962]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.04-02.20.00:943][152]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-02.20.00:943][152]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-02.20.26:033][149]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-02.20.26:033][149]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.04-02.20.27:861][365]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-02.20.29:014][409]LogSavePackage: Save=34.38ms
+[2018.02.04-02.20.29:014][409]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile639D4384438A9618223F6E9432F0B84E.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-02.20.29:018][409]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-02.20.30:874][625]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-02.20.30:900][625]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.04-02.20.30:901][625]LogPlayLevel: [PlayLevel] Compiling Enemy before play...
+[2018.02.04-02.20.31:401][625]LogPlayLevel: PlayLevel: Blueprint regeneration took 500 ms (1 blueprints)
+[2018.02.04-02.20.31:401][625]LogHMD: Initializing OVRPlugin session
+[2018.02.04-02.20.31:425][625]PIE: New page: PIE session: Level_One (Feb 3, 2018, 4:20:31 PM)
+[2018.02.04-02.20.31:426][625]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-02.20.31:485][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059847s)
+[2018.02.04-02.20.31:486][625]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-02.20.31:487][625]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2018.02.04-02.20.31:487][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.061637s)
+[2018.02.04-02.20.31:525][625]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-02.20.31:533][625]LogInit: FAudioDevice initialized.
+[2018.02.04-02.20.31:565][625]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-02.20.31:581][625]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-21.20.31
+[2018.02.04-02.20.31:582][625]LogWorld: Bringing up level for play took: 0.015076
+[2018.02.04-02.20.31:585][625]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.575
+[2018.02.04-02.24.55:428][398]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-02.24.55:446][398]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-02.24.55:874][398]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [0383.09] Compile of FirstPersonProjectile successful, but with 1 Warning(s) [in 445 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-02.24.56:815][460]LogSavePackage: Save=45.59ms
+[2018.02.04-02.24.56:815][460]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile4867BB2C4373F0631DA94C821FFCEF41.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-02.24.56:819][460]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-02.29.56:086][ 75]LogSavePackage: Save=1334.83ms
+[2018.02.04-02.29.56:086][ 75]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_Auto0A40CD60249EF9204D517F9979CFC6FB0.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto0.umap'
+[2018.02.04-02.29.56:089][ 75]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto0.umap
+[2018.02.04-02.29.56:092][ 75]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 1.403
+[2018.02.04-02.29.56:092][ 75]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.403
+[2018.02.04-02.29.56:095][ 75]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy] ([1] browsable assets)...
+[2018.02.04-02.29.56:111][ 75]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy.Enemy]
+[2018.02.04-02.29.56:111][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy]
+[2018.02.04-02.29.56:152][ 75]LogSavePackage: Save=28.80ms
+[2018.02.04-02.29.56:152][ 75]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy_Auto0D18113E843D3F6288B2827AC02BB4A13.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/Enemy_Auto0.uasset'
+[2018.02.04-02.29.56:154][ 75]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Blueprints/Enemy_Auto0.uasset
+[2018.02.04-02.29.56:155][ 75]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonProjectile] ([1] browsable assets)...
+[2018.02.04-02.29.56:169][ 75]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile]
+[2018.02.04-02.29.56:169][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonProjectile]
+[2018.02.04-02.29.56:229][ 75]LogSavePackage: Save=47.05ms
+[2018.02.04-02.29.56:230][ 75]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile_Auto06A16AE19456EE6C922B547967EB3EE78.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonProjectile_Auto0.uasset'
+[2018.02.04-02.29.56:232][ 75]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonProjectile_Auto0.uasset
+[2018.02.04-02.29.56:232][ 75]LogFileHelpers: Auto-saving content packages took 0.138
+[2018.02.04-02.31.05:327][208]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-02.31.05:343][208]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-02.31.05:755][208]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [0752.97] Compile of FirstPersonProjectile successful, but with 1 Warning(s) [in 428 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-02.31.06:338][246]LogSavePackage: Save=43.49ms
+[2018.02.04-02.31.06:338][246]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile2F86FDF1463777ACA662CD82D597B04E.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-02.31.06:344][246]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-02.32.28:512][955]BlueprintLog: New page: Compile Enemy
+[2018.02.04-02.32.30:043][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-02.32.30:074][ 26]LogSavePackage: Save=25.19ms
+[2018.02.04-02.32.30:074][ 26]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyB2507F29474EEA6D54411C99B93CD6C9.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-02.32.30:080][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-02.36.46:016][337]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.02.04-02.36.46:862][337]LogSavePackage: Save=150.88ms
+[2018.02.04-02.36.46:862][337]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonCharacterF22D7B8749F7CF7506C8E09D312704B9.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.04-02.36.46:863][337]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.04-02.36.48:940][581]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.04-02.40.18:803][550]LogSavePackage: Save=1280.19ms
+[2018.02.04-02.40.18:803][550]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_Auto1E8CA9EA143646CD49CCD00BDD432C334.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto1.umap'
+[2018.02.04-02.40.18:806][550]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto1.umap
+[2018.02.04-02.40.18:809][550]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 1.349
+[2018.02.04-02.40.18:810][550]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.349
+[2018.02.04-02.48.43:898][318]BlueprintLog: New page: Compile Enemy
+[2018.02.04-02.49.04:240][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-02.49.04:294][225]LogSavePackage: Save=39.94ms
+[2018.02.04-02.49.04:294][225]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy9D4135BE4719E122732730AB2656FD47.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-02.49.04:298][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-02.49.45:691][161]BlueprintLog: New page: Compile Enemy
+[2018.02.04-02.49.47:027][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-02.49.47:072][229]LogSavePackage: Save=39.05ms
+[2018.02.04-02.49.47:073][229]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy08F66B134F71AE70166876A01C7FAF9C.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-02.49.47:076][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-02.49.48:820][432]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-02.49.48:857][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-02.49.48:857][432]LogHMD: Initializing OVRPlugin session
+[2018.02.04-02.49.48:881][432]PIE: New page: PIE session: Level_One (Feb 3, 2018, 4:49:48 PM)
+[2018.02.04-02.49.48:882][432]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-02.49.48:939][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057280s)
+[2018.02.04-02.49.48:940][432]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-02.49.48:940][432]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2018.02.04-02.49.48:941][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.059480s)
+[2018.02.04-02.49.48:980][432]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-02.49.48:987][432]LogInit: FAudioDevice initialized.
+[2018.02.04-02.49.49:023][432]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-02.49.49:039][432]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-21.49.49
+[2018.02.04-02.49.49:040][432]LogWorld: Bringing up level for play took: 0.015024
+[2018.02.04-02.49.49:044][432]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.034
+[2018.02.04-02.51.04:465][320]BlueprintLog: New page: Compile Enemy
+[2018.02.04-02.51.05:404][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-02.51.05:450][337]LogSavePackage: Save=40.12ms
+[2018.02.04-02.51.05:450][337]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy94A20E8549C0C1B70DA50997349CFE39.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-02.51.05:452][337]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-02.52.16:427][578]LogSavePackage: Save=1216.38ms
+[2018.02.04-02.52.16:427][578]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_Auto2F2809149491F9BE782F3A28F7E53EFAD.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto2.umap'
+[2018.02.04-02.52.16:430][578]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto2.umap
+[2018.02.04-02.52.16:434][578]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 1.278
+[2018.02.04-02.52.16:434][578]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.278
+[2018.02.04-02.56.57:417][778]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-02.56.57:496][778]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-02.56.57:496][778]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-02.56.57:906][778]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [2305.12] Compile of FirstPersonProjectile successful, but with 2 Warning(s) [in 488 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-02.57.25:679][ 95]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-02.57.25:695][ 95]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-02.57.25:695][ 95]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-02.57.26:102][ 95]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [2333.32] Compile of FirstPersonProjectile successful, but with 2 Warning(s) [in 422 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-02.57.26:865][151]LogSavePackage: Save=45.92ms
+[2018.02.04-02.57.26:865][151]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectileF0B919A248DE6D50E2646AADFF48258D.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-02.57.26:869][151]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-02.57.39:465][652]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-02.57.39:481][652]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-02.57.39:884][652]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [2347.10] Compile of FirstPersonProjectile successful, but with 1 Warning(s) [in 419 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-02.58.15:363][771]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-02.58.15:380][771]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-02.58.15:788][771]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [2383.00] Compile of FirstPersonProjectile successful, but with 1 Warning(s) [in 424 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-02.58.59:350][135]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-02.58.59:366][135]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-02.58.59:780][135]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [2427.00] Compile of FirstPersonProjectile successful, but with 1 Warning(s) [in 429 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-03.00.03:358][878]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.00.03:375][878]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-03.00.03:376][878]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-03.00.03:785][878]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [2491.00] Compile of FirstPersonProjectile successful, but with 2 Warning(s) [in 426 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-03.00.36:231][756]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.00.36:247][756]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-03.00.36:649][756]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [2523.87] Compile of FirstPersonProjectile successful, but with 1 Warning(s) [in 418 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-03.00.52:702][644]LogSavePackage: Save=46.21ms
+[2018.02.04-03.00.52:702][644]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectileC3CF29384B931BB0D4F1BF80E274B2AB.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.00.52:706][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.00.53:429][728]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.00.53:445][728]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-03.00.53:847][728]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [2541.06] Compile of FirstPersonProjectile successful, but with 1 Warning(s) [in 418 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-03.00.58:145][205]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.00.58:173][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.00.58:173][205]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.00.58:260][205]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:00:58 PM)
+[2018.02.04-03.00.58:260][205]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.00.58:326][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064871s)
+[2018.02.04-03.00.58:329][205]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.00.58:329][205]LogPlayLevel: PIE: World Init took: (0.003370s)
+[2018.02.04-03.00.58:330][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.069375s)
+[2018.02.04-03.00.58:374][205]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.00.58:382][205]LogInit: FAudioDevice initialized.
+[2018.02.04-03.00.58:414][205]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.00.58:429][205]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.00.58
+[2018.02.04-03.00.58:430][205]LogWorld: Bringing up level for play took: 0.014302
+[2018.02.04-03.00.58:433][205]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.576
+[2018.02.04-03.01.07:821][268]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.01.07:892][268]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-03.01.08:290][268]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [2555.51] Compile of FirstPersonProjectile successful, but with 1 Warning(s) [in 468 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-03.01.22:463][934]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.01.23:674][995]LogSavePackage: Save=39.80ms
+[2018.02.04-03.01.23:674][995]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile697FD9814902991EC419C494885FFAD9.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.01.23:678][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.01.25:874][250]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.01.25:901][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.01.25:901][250]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.01.25:924][250]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:01:25 PM)
+[2018.02.04-03.01.25:925][250]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.01.25:982][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057315s)
+[2018.02.04-03.01.25:983][250]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.01.25:984][250]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2018.02.04-03.01.25:984][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.059284s)
+[2018.02.04-03.01.26:023][250]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.01.26:030][250]LogInit: FAudioDevice initialized.
+[2018.02.04-03.01.26:066][250]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.01.26:081][250]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.01.26
+[2018.02.04-03.01.26:082][250]LogWorld: Bringing up level for play took: 0.014809
+[2018.02.04-03.01.26:086][250]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 1.077
+[2018.02.04-03.02.12:035][616]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.02.12:114][616]LogBlueprint: Warning: [Compiler FirstPersonProjectile] 'Enemy' does not inherit from 'Primitive Component' ( Cast To Enemy  would always fail).
+[2018.02.04-03.02.12:522][616]LogBlueprint: Warning: [Compiler FirstPersonProjectile] [2619.74] Compile of FirstPersonProjectile successful, but with 1 Warning(s) [in 488 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile)
+[2018.02.04-03.02.17:745][228]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.02.18:911][270]LogSavePackage: Save=37.47ms
+[2018.02.04-03.02.18:911][270]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectileC15147F04FC0EE193D23F19DFF6E21C8.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.02.18:914][270]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.02.20:445][453]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.02.21:271][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.02.21:323][458]LogSavePackage: Save=40.84ms
+[2018.02.04-03.02.21:323][458]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy36E51D744924041424524EB9D73579BF.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.02.21:327][458]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.02.22:626][582]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.02.04-03.02.23:747][601]LogSavePackage: Save=156.27ms
+[2018.02.04-03.02.23:747][601]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonCharacter237717C94780FF035AEADA9652C179D4.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.04-03.02.23:749][601]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.04-03.02.26:207][880]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.02.26:244][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.02.26:245][880]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.02.26:268][880]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:02:26 PM)
+[2018.02.04-03.02.26:269][880]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.02.26:324][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055603s)
+[2018.02.04-03.02.26:325][880]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.02.26:325][880]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2018.02.04-03.02.26:326][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.057422s)
+[2018.02.04-03.02.26:366][880]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.02.26:374][880]LogInit: FAudioDevice initialized.
+[2018.02.04-03.02.26:403][880]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.02.26:419][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.02.26
+[2018.02.04-03.02.26:419][880]LogWorld: Bringing up level for play took: 0.015484
+[2018.02.04-03.02.26:423][880]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.586
+[2018.02.04-03.03.43:668][617]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMeshes/BackgroundMaterial.uasset' is outside repository
+[2018.02.04-03.03.43:668][617]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/BaseColor.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/BaseColor.uasset' is outside repository
+[2018.02.04-03.03.43:668][617]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset' is outside repository
+[2018.02.04-03.03.43:669][617]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset01.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MapTemplates/Materials/BasicAsset01.uasset' is outside repository
+[2018.02.04-03.03.43:669][617]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository
+[2018.02.04-03.03.44:942][718]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset' is outside repository
+[2018.02.04-03.03.44:983][721]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository
+[2018.02.04-03.03.45:173][736]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository
+[2018.02.04-03.03.45:432][759]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacityInstance.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacityInstance.uasset' is outside repository
+[2018.02.04-03.03.45:464][760]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial_Smooth.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial_Smooth.uasset' is outside repository
+[2018.02.04-03.03.45:464][760]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset' is outside repository
+[2018.02.04-03.03.45:560][770]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository
+[2018.02.04-03.03.45:668][777]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset' is outside repository
+[2018.02.04-03.03.49:697][ 84]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Mat.uasset' is outside repository
+[2018.02.04-03.03.49:697][ 84]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository
+[2018.02.04-03.03.49:697][ 84]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository
+[2018.02.04-03.03.49:697][ 84]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/BufferVisualization/AmbientOcclusion.uasset' is outside repository
+[2018.02.04-03.03.49:697][ 84]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset' is outside repository
+[2018.02.04-03.03.49:697][ 84]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.18/Engine/Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset' is outside repository
+[2018.02.04-03.03.56:208][830]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.03.57:675][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.03.57:721][905]LogSavePackage: Save=39.31ms
+[2018.02.04-03.03.57:721][905]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyC353B93E4DF34A2461E4DB94681B5E80.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.03.57:725][905]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.04.03:663][608]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.04.03:704][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.04.03:704][608]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.04.03:727][608]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:04:03 PM)
+[2018.02.04-03.04.03:728][608]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.04.03:786][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057958s)
+[2018.02.04-03.04.03:788][608]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.04.03:788][608]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2018.02.04-03.04.03:789][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060314s)
+[2018.02.04-03.04.03:828][608]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.04.03:835][608]LogInit: FAudioDevice initialized.
+[2018.02.04-03.04.03:868][608]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.04.03:881][608]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.04.03
+[2018.02.04-03.04.03:882][608]LogWorld: Bringing up level for play took: 0.013397
+[2018.02.04-03.04.03:886][608]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.877
+[2018.02.04-03.05.13:788][626]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.02.04-03.05.13:788][626]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.02.04-03.05.13:788][626]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.02.04-03.05.22:990][722]LogEditorTransaction: Undo Set Scale
+[2018.02.04-03.05.22:992][722]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.Arrow) Component already registered.
+[2018.02.04-03.05.22:992][722]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.CharMoveComp) Component already registered.
+[2018.02.04-03.05.22:992][722]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Level_One.Level_One:PersistentLevel.Enemy_2.CharacterMesh0) Component already registered.
+[2018.02.04-03.06.06:494][736]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.06.07:719][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.06.07:766][786]LogSavePackage: Save=40.59ms
+[2018.02.04-03.06.07:766][786]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy263357994A54D16AF0A06894FBFE8E19.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.06.07:770][786]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.06.09:630][  3]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.06.09:669][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.06.09:669][  3]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.06.09:693][  3]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:06:09 PM)
+[2018.02.04-03.06.09:693][  3]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.06.09:752][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058274s)
+[2018.02.04-03.06.09:753][  3]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.06.09:753][  3]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2018.02.04-03.06.09:754][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060089s)
+[2018.02.04-03.06.09:791][  3]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.06.09:798][  3]LogInit: FAudioDevice initialized.
+[2018.02.04-03.06.09:828][  3]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.06.09:842][  3]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.06.09
+[2018.02.04-03.06.09:900][  3]LogWorld: Bringing up level for play took: 0.070961
+[2018.02.04-03.06.09:904][  3]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.895
+[2018.02.04-03.08.13:136][683]LogSavePackage: Save=1264.07ms
+[2018.02.04-03.08.13:136][683]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_Auto3353EFCC846F191B574E08F8AC231EC35.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto3.umap'
+[2018.02.04-03.08.13:139][683]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Autosaves/Game/Maps/Level_One_Auto3.umap
+[2018.02.04-03.08.13:143][683]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_One' took 1.326
+[2018.02.04-03.08.13:144][683]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.326
+[2018.02.04-03.08.51:082][711]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.02.04-03.08.52:101][744]LogSavePackage: Save=38.30ms
+[2018.02.04-03.08.52:101][744]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile99A9559941B26F26B5538AB40FF0292A.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.08.52:105][744]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.08.54:457][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.08.54:484][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.08.54:484][ 14]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.08.54:508][ 14]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:08:54 PM)
+[2018.02.04-03.08.54:509][ 14]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.08.54:566][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057227s)
+[2018.02.04-03.08.54:567][ 14]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.08.54:567][ 14]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2018.02.04-03.08.54:568][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.059221s)
+[2018.02.04-03.08.54:607][ 14]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.08.54:615][ 14]LogInit: FAudioDevice initialized.
+[2018.02.04-03.08.54:650][ 14]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.08.54:665][ 14]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.08.54
+[2018.02.04-03.08.54:666][ 14]LogWorld: Bringing up level for play took: 0.015124
+[2018.02.04-03.08.54:670][ 14]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.34
+[2018.02.04-03.09.06:609][373]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-233.834 Y=386.489 Z=267.589] for [FirstPersonProjectile_C]
+[2018.02.04-03.09.06:814][395]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-225.870 Y=382.140 Z=275.181] for [FirstPersonProjectile_C]
+[2018.02.04-03.09.06:993][415]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-221.772 Y=379.753 Z=282.850] for [FirstPersonProjectile_C]
+[2018.02.04-03.09.07:180][437]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-220.902 Y=378.407 Z=282.690] for [FirstPersonProjectile_C]
+[2018.02.04-03.09.07:380][460]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-227.827 Y=379.836 Z=286.326] for [FirstPersonProjectile_C]
+[2018.02.04-03.09.10:605][833]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-436.235 Y=23.435 Z=252.098] for [FirstPersonProjectile_C]
+[2018.02.04-03.09.10:758][851]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-437.188 Y=23.267 Z=251.213] for [FirstPersonProjectile_C]
+[2018.02.04-03.09.11:104][890]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-415.149 Y=11.430 Z=284.415] for [FirstPersonProjectile_C]
+[2018.02.04-03.09.11:343][918]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-405.998 Y=15.827 Z=238.079] for [FirstPersonProjectile_C]
+[2018.02.04-03.12.57:754][479]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.12.59:145][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.12.59:199][529]LogSavePackage: Save=42.71ms
+[2018.02.04-03.12.59:200][529]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/EnemyA8CA67054E74BE14CD77AAA2754CFD9F.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.12.59:203][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.13.13:765][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.13.13:811][ 14]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.04-03.13.13:818][ 14]LogPlayLevel: [PlayLevel] Compiling FirstPersonProjectile before play...
+[2018.02.04-03.13.14:223][ 14]LogPlayLevel: PlayLevel: Blueprint regeneration took 412 ms (1 blueprints)
+[2018.02.04-03.13.14:223][ 14]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.13.14:248][ 14]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:13:14 PM)
+[2018.02.04-03.13.14:248][ 14]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.13.14:307][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058880s)
+[2018.02.04-03.13.14:308][ 14]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.13.14:308][ 14]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2018.02.04-03.13.14:309][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060588s)
+[2018.02.04-03.13.14:346][ 14]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.13.14:353][ 14]LogInit: FAudioDevice initialized.
+[2018.02.04-03.13.14:385][ 14]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.13.14:397][ 14]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.13.14
+[2018.02.04-03.13.14:398][ 14]LogWorld: Bringing up level for play took: 0.012787
+[2018.02.04-03.13.14:402][ 14]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 1.392
+[2018.02.04-03.13.31:137][893]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.04-03.13.42:140][883]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.04-03.14.10:352][378]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.14.10:380][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.14.10:380][378]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.14.10:407][378]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:14:10 PM)
+[2018.02.04-03.14.10:408][378]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.14.10:467][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058640s)
+[2018.02.04-03.14.10:468][378]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.14.10:468][378]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2018.02.04-03.14.10:468][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060328s)
+[2018.02.04-03.14.10:511][378]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.14.10:518][378]LogInit: FAudioDevice initialized.
+[2018.02.04-03.14.10:549][378]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.14.10:565][378]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.14.10
+[2018.02.04-03.14.10:566][378]LogWorld: Bringing up level for play took: 0.015986
+[2018.02.04-03.14.10:569][378]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.44
+[2018.02.04-03.14.17:324][138]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.04-03.14.40:168][150]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.02.04-03.14.47:836][922]Cmd: SELECT NONE
+[2018.02.04-03.14.49:739][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.04-03.14.51:012][113]LogSavePackage: Save=1225.53ms
+[2018.02.04-03.14.51:012][113]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_OneE2B864B943215DFA878DDD83973E1AF1.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.04-03.14.51:017][113]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.04-03.14.51:276][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.04-03.14.54:357][113]LogSavePackage: Save=2919.18ms
+[2018.02.04-03.14.54:357][113]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_BuiltData17D4CE594583D816C808609354E3072D.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.04-03.14.54:368][113]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
+[2018.02.04-03.14.57:723][441]LogSavePackage: Save=39.24ms
+[2018.02.04-03.14.57:724][441]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/FirstPersonProjectile2E15BE5B423B8B17F107838354FEF44D.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.02.04-03.14.57:727][441]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.02.04-03.15.00:660][747]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.04-03.15.10:582][747]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.04-03.15.11:022][747]SourceControl: [master a7a1737] Enemy
+[2018.02.04-03.15.11:022][747]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2018.02.04-03.15.11:022][747]SourceControl:  rewrite Game1/Content/Blueprints/Enemy.uasset (96%)
+[2018.02.04-03.15.11:022][747]SourceControl:  rewrite Game1/Content/FirstPersonBP/Blueprints/HeathBar.uasset (86%)
+[2018.02.04-03.15.11:031][747]SourceControl: Commited [master a7a1737] Enemy.
+[2018.02.04-03.20.36:767][858]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.20.38:040][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.20.38:091][907]LogSavePackage: Save=41.02ms
+[2018.02.04-03.20.38:091][907]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy57A0CCF04B45A6EEB1106687AC3FC340.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.20.38:095][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.20.40:392][172]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.20.40:435][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.20.40:435][172]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.20.40:459][172]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:20:40 PM)
+[2018.02.04-03.20.40:459][172]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.20.40:518][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059134s)
+[2018.02.04-03.20.40:519][172]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.20.40:520][172]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2018.02.04-03.20.40:520][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.060943s)
+[2018.02.04-03.20.40:560][172]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.20.40:567][172]LogInit: FAudioDevice initialized.
+[2018.02.04-03.20.40:603][172]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.20.40:616][172]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.20.40
+[2018.02.04-03.20.40:616][172]LogWorld: Bringing up level for play took: 0.012801
+[2018.02.04-03.20.40:620][172]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One -0.389
+[2018.02.04-03.21.36:314][595]BlueprintLog: New page: Compile Enemy
+[2018.02.04-03.21.37:376][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.21.37:422][633]LogSavePackage: Save=41.06ms
+[2018.02.04-03.21.37:422][633]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy15A43A9A412167E147B72781CB497BFE.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.21.37:426][633]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.21.39:203][833]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.04-03.21.39:243][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.04-03.21.39:243][833]LogHMD: Initializing OVRPlugin session
+[2018.02.04-03.21.39:267][833]PIE: New page: PIE session: Level_One (Feb 3, 2018, 5:21:39 PM)
+[2018.02.04-03.21.39:267][833]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.04-03.21.39:327][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059321s)
+[2018.02.04-03.21.39:328][833]LogAIModule: Creating AISystem for world Level_One
+[2018.02.04-03.21.39:328][833]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2018.02.04-03.21.39:329][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.061212s)
+[2018.02.04-03.21.39:369][833]LogInit: XAudio2 using 'Headphones (Xbox Controller)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.04-03.21.39:377][833]LogInit: FAudioDevice initialized.
+[2018.02.04-03.21.39:407][833]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.04-03.21.39:422][833]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.03-22.21.39
+[2018.02.04-03.21.39:423][833]LogWorld: Bringing up level for play took: 0.014687
+[2018.02.04-03.21.39:426][833]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 0.417
+[2018.02.04-03.23.40:534][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.04-03.23.41:780][567]LogSavePackage: Save=1199.23ms
+[2018.02.04-03.23.41:780][567]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One68F2401642E3E39D0F358E8B4E6FF8BE.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.04-03.23.41:784][567]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.04-03.23.41:830][567]LogFileHelpers: Saving map 'Level_One' took 1.385
+[2018.02.04-03.23.41:851][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset" SILENT=true
+[2018.02.04-03.23.41:896][567]LogSavePackage: Save=41.51ms
+[2018.02.04-03.23.41:896][567]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Enemy5F1F6405469AED42472D35A3D5B87AE0.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset'
+[2018.02.04-03.23.41:900][567]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Blueprints/Enemy.uasset
+[2018.02.04-03.23.46:138][ 22]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.04-03.23.54:169][ 22]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.04-03.23.54:597][ 22]SourceControl: [master 2f79a1a] cvxv
+[2018.02.04-03.23.54:597][ 22]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.02.04-03.23.54:605][ 22]SourceControl: Commited [master 2f79a1a] cvxv.
