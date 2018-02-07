@@ -647,3 +647,24 @@ LogInit: Object subsystem initialized
 [2018.02.07-03.01.35:734][603]EditorErrors: Warning: No assets to check in!
 [2018.02.07-03.01.53:921][573]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
 [2018.02.07-03.01.54:102][573]EditorErrors: Warning: No assets to check in!
+[2018.02.07-03.04.40:461][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.07-03.04.41:719][221]LogSavePackage: Save=1229.77ms
+[2018.02.07-03.04.41:719][221]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One9001A5DE466618FF4ECCBA8B7474D9B1.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.07-03.04.41:723][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.07-03.04.42:023][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.07-03.04.45:100][221]LogSavePackage: Save=2989.18ms
+[2018.02.07-03.04.45:101][221]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_BuiltData2E4F1A5541E3763DAE863CB546880D92.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.07-03.04.45:119][221]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
+[2018.02.07-03.04.51:044][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.07-03.04.52:290][834]LogSavePackage: Save=1225.55ms
+[2018.02.07-03.04.52:290][834]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_OneCF94BD894A8008C06E77DB9DC2128E69.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.07-03.04.52:293][834]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.07-03.04.52:599][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.07-03.04.55:437][834]LogSavePackage: Save=2834.15ms
+[2018.02.07-03.04.55:437][834]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_BuiltData4E33B8D642F406CACE3BC4B2EF29DA25.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.07-03.04.55:448][834]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
+[2018.02.07-03.04.59:230][217]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.07-03.05.06:480][217]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.07-03.05.06:629][217]SourceControl: [master e002e66] new
+[2018.02.07-03.05.06:629][217]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.07-03.05.06:637][217]SourceControl: Commited [master e002e66] new.
