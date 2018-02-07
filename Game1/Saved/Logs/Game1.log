@@ -374,3 +374,91 @@ LogInit: Object subsystem initialized
 [2018.02.07-03.01.15:996][970]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.02.07-03.01.16:096][970]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 99.681ms to complete.
 [2018.02.07-03.01.16:098][970]LogFileHelpers: Loading map 'Level_One' took 0.247
+[2018.02.07-03.01.49:594][571]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.07-03.01.52:271][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.07-03.01.52:271][571]LogHMD: Initializing OVRPlugin session
+[2018.02.07-03.01.52:306][571]PIE: New page: PIE session: Level_One (Feb 6, 2018, 5:01:52 PM)
+[2018.02.07-03.01.52:306][571]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_One
+[2018.02.07-03.01.52:906][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.599708s)
+[2018.02.07-03.01.52:907][571]LogAIModule: Creating AISystem for world Level_One
+[2018.02.07-03.01.52:907][571]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2018.02.07-03.01.52:907][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_One.Level_One to /Game/Maps/UEDPIE_0_Level_One.Level_One (0.601197s)
+[2018.02.07-03.01.52:944][571]LogInit: XAudio2 using 'Headset Earphone (SteelSeries Arctis 7 Chat)' : 1 channels at 48 kHz using 16 bits per sample (channel mask 0x0)
+[2018.02.07-03.01.52:955][571]LogInit: FAudioDevice initialized.
+[2018.02.07-03.01.52:999][571]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.07-03.01.53:012][571]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_One.Level_One up for play (max tick rate 0) at 2018.02.06-22.01.53
+[2018.02.07-03.01.53:020][571]LogWorld: Bringing up level for play took: 0.019956
+[2018.02.07-03.01.53:057][571]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.02.07-03.01.53:078][571]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_One 1.612
+[2018.02.07-03.02.20:464][ 15]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.20:464][ 15]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_0.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.21:301][ 78]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.21:301][ 78]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_1.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.39:698][587]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.39:698][587]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_2.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.39:716][589]PIE: Warning: FirstPersonProjectile_C_2.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.39:731][590]PIE: Warning: FirstPersonProjectile_C_2.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.39:927][610]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_3.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.39:927][610]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_3.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.39:951][613]PIE: Warning: FirstPersonProjectile_C_3.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.39:964][614]PIE: Warning: FirstPersonProjectile_C_3.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.40:138][628]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_4.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.40:138][628]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_4.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.40:173][632]PIE: Warning: FirstPersonProjectile_C_4.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.40:182][633]PIE: Warning: FirstPersonProjectile_C_4.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.40:284][642]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_5.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.40:284][642]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_5.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.40:328][647]PIE: Warning: FirstPersonProjectile_C_5.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.40:452][658]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_6.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.40:452][658]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_6.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.40:511][664]PIE: Warning: FirstPersonProjectile_C_6.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.40:666][676]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_7.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.40:666][676]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_7.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.40:735][682]PIE: Warning: FirstPersonProjectile_C_7.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.40:736][682]LogCharacterMovement: Enemy_2 is stuck and failed to move! Velocity: X=83.69 Y=-391.15 Z=0.00 Location: X=-5079.42 Y=75.89 Z=325.28 Normal: X=-0.09 Y=0.60 Z=-0.80 PenetrationDepth:36.005 Actor:FirstPersonProjectile_C_7 Component:CollisionComponent BoneName:None (0 other events since notify)
+[2018.02.07-03.02.40:840][692]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_8.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.40:840][692]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_8.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.40:996][707]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_9.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.40:996][707]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_9.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.41:073][715]PIE: Warning: FirstPersonProjectile_C_9.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.41:147][722]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_10.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.41:147][722]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_10.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.41:333][738]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_11.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.41:334][738]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_11.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.41:462][743]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_12.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.41:462][743]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_12.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.41:694][764]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_13.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.41:694][764]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_13.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.41:958][787]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_14.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.41:958][787]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_14.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:184][809]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_15.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:184][809]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_15.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:351][825]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_16.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:351][825]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_16.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:474][831]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_17.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:474][831]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_17.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:559][837]PIE: Warning: FirstPersonProjectile_C_17.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.42:603][840]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_18.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:603][840]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_18.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:702][848]PIE: Warning: FirstPersonProjectile_C_18.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.42:760][854]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_19.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:760][854]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_19.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:848][862]PIE: Warning: FirstPersonProjectile_C_19.CollisionComponent has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2018.02.07-03.02.42:889][865]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_20.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.42:889][865]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_20.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.43:015][878]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_21.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.43:015][878]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_21.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.48:874][396]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_22.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.48:874][396]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_22.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.49:450][449]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_23.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.49:450][449]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_23.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.49:831][481]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_24.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.49:831][481]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_24.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.50:234][517]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_25.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.50:234][517]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_25.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.53:401][788]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_26.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.53:401][788]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_26.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.53:572][804]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_27.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.53:572][804]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_27.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.53:741][822]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_28.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
+[2018.02.07-03.02.53:741][822]PIE: Warning: Invalid Simulate Options: Body (FirstPersonProjectile_C_28.CollisionComponent) is set to simulate physics but Collision Enabled is incompatible
