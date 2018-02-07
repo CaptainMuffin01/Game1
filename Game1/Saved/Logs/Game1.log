@@ -635,3 +635,15 @@ LogInit: Object subsystem initialized
 [2018.02.07-02.46.07:602][268]SourceControl:  rewrite Game1/Content/Blueprints/Enemy.uasset (91%)
 [2018.02.07-02.46.07:602][268]SourceControl:  rewrite Game1/Content/Blueprints/EnemyAI.uasset (93%)
 [2018.02.07-02.46.07:607][268]SourceControl: Commited [master 77867ed] Enemy damage and Roam.
+[2018.02.07-02.56.28:541][976]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2018.02.07-02.56.29:824][101]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.02.07-02.56.30:978][228]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.02.07-02.56.31:747][313]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.07-02.56.57:752][301]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy13)
+[2018.02.07-02.56.59:114][428]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.02.07-02.57.00:144][522]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.02.07-02.57.01:018][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cherry_Tree217)
+[2018.02.07-03.01.35:538][603]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.07-03.01.35:734][603]EditorErrors: Warning: No assets to check in!
+[2018.02.07-03.01.53:921][573]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.07-03.01.54:102][573]EditorErrors: Warning: No assets to check in!
