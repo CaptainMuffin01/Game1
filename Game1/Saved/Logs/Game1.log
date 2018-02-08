@@ -3821,3 +3821,16 @@ Script call stack:
 [2018.02.08-00.48.13:543][364]SourceControl:  create mode 100644 Game1/Content/FirstPersonBP/Blueprints/blood_outerlay.uasset
 [2018.02.08-00.48.13:543][364]SourceControl:  create mode 100644 Game1/Content/FirstPersonBP/Blueprints/pistol.uasset
 [2018.02.08-00.48.13:553][364]SourceControl: Commited [master 91b2980] sprint crouch and blood boarder.
+[2018.02.08-00.50.11:011][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.08-00.50.12:360][121]LogSavePackage: Save=1296.39ms
+[2018.02.08-00.50.12:360][121]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One6FAC3CDA4B0773B3423928BB74096FF6.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.08-00.50.12:362][121]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.08-00.50.12:671][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.08-00.50.16:424][121]LogSavePackage: Save=3636.73ms
+[2018.02.08-00.50.16:424][121]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_BuiltData6E956A014DA71210356F7789C8344288.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.08-00.50.16:433][121]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
+[2018.02.08-00.50.21:930][531]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.08-00.50.28:078][531]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.08-00.50.28:247][531]SourceControl: [master 896121b] cx
+[2018.02.08-00.50.28:247][531]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.08-00.50.28:257][531]SourceControl: Commited [master 896121b] cx.
