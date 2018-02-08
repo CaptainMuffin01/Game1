@@ -1221,3 +1221,16 @@ Script call stack:
 [2018.02.08-01.14.04:272][890]SourceControl: 	Game1/Saved/Config/CrashReportClient/UE4CC-Windows-6064CEF54675612A2B98B5A96987C043/
 [2018.02.08-01.14.04:272][890]SourceControl: 	Game1/Saved/Logs/Game1-backup-2018.02.07-20.02.46.log
 [2018.02.08-01.14.04:272][890]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.02.08-01.17.05:869][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.08-01.17.06:731][696]LogSavePackage: Save=844.37ms
+[2018.02.08-01.17.06:731][696]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Level_One343F809749FBCD97E900808524798CF1.tmp' to 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.08-01.17.06:737][696]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.08-01.17.06:917][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.08-01.17.07:224][696]LogSavePackage: Save=301.41ms
+[2018.02.08-01.17.07:224][696]LogSavePackage: Moving 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Saved/Level_One_BuiltDataB45B9E364F1B4D8DDB03BB98B5D9B641.tmp' to 'C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.08-01.17.07:228][696]LogSavePackage: Display: Finished SavePackage C:/Users/Cameron/Documents/GitHub/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
+[2018.02.08-01.17.27:084][185]SourceControl: fatal: E:/UE_4.18/Engine/Content/: 'E:/UE_4.18/Engine/Content/' is outside repository
+[2018.02.08-01.17.33:577][185]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.08-01.17.33:674][185]SourceControl: [master af53f23] .
+[2018.02.08-01.17.33:674][185]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.08-01.17.33:686][185]SourceControl: Commited [master af53f23] ..
