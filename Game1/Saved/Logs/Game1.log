@@ -3834,3 +3834,11 @@ Script call stack:
 [2018.02.08-00.50.28:247][531]SourceControl: [master 896121b] cx
 [2018.02.08-00.50.28:247][531]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.02.08-00.50.28:257][531]SourceControl: Commited [master 896121b] cx.
+[2018.02.08-00.58.56:453][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.08-00.58.57:694][439]LogSavePackage: Save=1201.36ms
+[2018.02.08-00.58.57:694][439]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One6B93E7DE46CBEA7B4A2CBDBC65E85D2E.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap'
+[2018.02.08-00.58.57:696][439]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One.umap
+[2018.02.08-00.58.58:026][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_One_BuiltData" FILE="../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset" SILENT=true
+[2018.02.08-00.59.00:987][439]LogSavePackage: Save=2864.72ms
+[2018.02.08-00.59.00:987][439]LogSavePackage: Moving '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Saved/Level_One_BuiltData5547CF8948B2F521D4F9E190A0A3EACD.tmp' to '../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset'
+[2018.02.08-00.59.00:998][439]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ryan/Documents/Unreal Projects/Game1/Game1/Content/Maps/Level_One_BuiltData.uasset
